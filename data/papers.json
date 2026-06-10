@@ -1,50 +1,831 @@
 {
-  "updated_at": "sample",
-  "count": 4,
+  "updated_at": "2026-06-10",
+  "count": 40,
   "papers": [
     {
-      "id": "sample-1",
-      "sample": true,
-      "year": 2024,
-      "title": "Identifying connector versus full-trip users of a microtransit service",
-      "authors": ["A. Rivera", "M. Chen"],
+      "id": "https://openalex.org/W4409387533",
+      "doi": "10.1016/j.cstp.2025.101452",
+      "title": "Discrepancies between initial applicants and actual users of a new microtransit service: The case of FlexRide Milwaukee",
+      "year": 2025,
       "journal": "Case Studies on Transport Policy",
-      "url": "#",
-      "tags": ["demand", "fmlm", "equity"],
-      "summary": "Rivera et al. conducted a study in a mid-sized US metro focusing on how riders use a microtransit zone, using survey data and regression, and find that connector trips were associated with younger, transit-dependent riders."
+      "authors": [
+        "Robert J. Schneider",
+        "Lingqian Hu",
+        "Yency Martinez",
+        "Amber Yan",
+        "Tathagato Chakraborty"
+      ],
+      "abstract": "• On-demand, microtransit service helped low-income workers reach suburban jobs. • High use by people who were Black, without cars, under age 35. • Actual use by low-income workers and women was lower than initial applications. • Actual use by unemployed, cash users, and third-shift workers was lower than initial applications. Amid the long-term trend of declining transit ridership in the US, there is growing interest in leveraging on-demand microtransit to complement existing transit service, particularly to improve the accessibility of autoless riders to jobs, health care, or other activities in lower-density areas that are inefficient to serve with fixed-route transit. However, relatively little is known about whether these new microtransit services effectively serve their intended user groups. We studied FlexRide Milwaukee, an on-demand, microtransit service created to connect low-income workers and job seekers from predominantly Black neighborhoods on the northwest side of the City of Milwaukee, Wisconsin with predominately white, employment-rich suburbs. This employment-focused service helped FlexRide users reach jobs located in suburbs with limited transit service. Analyzing trip data from the FlexRide pilot study period (April 18 to September 30, 2022), we profiled 713 applicants who showed initial interest in trying the service. Ultimately, 428 of these applicants signed up as participants to use the service and 128 of them actually used FlexRide Milwaukee (80 frequent and 48 occasional riders). Descriptive analyses and logistic regression models showed that participants used FlexRide more often if they were already employed, Black, or did not have access to a household vehicle. However, compared with their high levels of initial interest, people with low incomes and women underused FlexRide Milwaukee. People who were unemployed, used cash, or worked third shift also underused the service. More research is needed to understand the latent demand for this type of microtransit service among these groups.",
+      "url": "https://doi.org/10.1016/j.cstp.2025.101452",
+      "added_date": "2026-06-10",
+      "summary": "Schneider et al. conducted a study focusing on discrepancies between initial applicants and actual users of a new microtransit service and found that people with low incomes and women underused FlexRide Milwaukee despite high initial interest.",
+      "tags": [
+        "demand",
+        "equity"
+      ],
+      "needs_review": false
     },
     {
-      "id": "sample-2",
-      "sample": true,
-      "year": 2023,
-      "title": "Fleet sizing and rebalancing for on-demand shared rides",
-      "authors": ["J. Okafor"],
-      "journal": "Transportation Research Part C",
-      "url": "#",
-      "tags": ["operations", "technology"],
-      "summary": "Okafor et al. conducted a simulation study focusing on fleet sizing for on-demand services using an agent-based model, and find that proactive rebalancing was associated with shorter average wait times."
-    },
-    {
-      "id": "sample-3",
-      "sample": true,
-      "year": 2022,
-      "title": "Free-floating carsharing membership and car ownership",
-      "authors": ["L. Bianchi", "S. Park", "T. Adeyemi"],
+      "id": "https://openalex.org/W4412534875",
+      "doi": "10.1016/j.tranpol.2025.07.006",
+      "title": "Examining the determinants of microtransit use and ridesharing based on trip microdata",
+      "year": 2025,
       "journal": "Transport Policy",
-      "url": "#",
-      "tags": ["carsharing", "demand", "environment"],
-      "summary": "Bianchi et al. conducted a study in several European cities focusing on free-floating carsharing using panel survey data, and find that sustained membership was associated with reduced household car ownership."
+      "authors": [
+        "Subid Ghimire",
+        "Eleni Bardaka"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tranpol.2025.07.006",
+      "added_date": "2026-06-10",
+      "summary": "Ghimire et al. published \"Examining the determinants of microtransit use and ridesharing based on trip microdata\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
-      "id": "sample-4",
-      "sample": true,
-      "year": 2021,
-      "title": "Demand-responsive transit during the pandemic: a service-change review",
-      "authors": ["R. Haddad"],
+      "id": "https://openalex.org/W4413279682",
+      "doi": "10.3390/info16080702",
+      "title": "Feeding Urban Rail Transit: Hybrid Microtransit Network Design Based on Parsimonious Continuum Approach",
+      "year": 2025,
+      "journal": "Information",
+      "authors": [
+        "Y. Qian",
+        "Yunyu Zhang",
+        "Kunzheng Wang",
+        "Xinghua Liu",
+        "Chunfu Shao"
+      ],
+      "abstract": "In recent years, the passenger flow volume of conventional transit in major cities has declined steadily. Ground public transit often suffers from congestion during rush hours caused by frequent stops (e.g., conventional fixed-route buses) or excessively high operating costs (e.g., demand-responsive transit). While rail transit offers reliable service with dedicated right-of-way, its high capital and operational costs pose challenges for integrated planning with other transit modes. The joint design of rail, conventional buses, and DRT remains underexplored. To bridge this gap, this paper proposes and analyses a new hybrid transit system that integrates conventional transit service with demand-adaptive transit (DAT) to feed urban rail transit (the system hence called hybrid microtransit system). The main task is to optimally design the hybrid microtransit system to allocate resources efficiently across different modes. Both the conventional transit and DAT connect passengers from their origin/destination to the rail transit stations. Travelers can choose one of the services to access urban rail transit, or directly walk. Accordingly, we divide the service area into three parts and compute the user costs to access rail transit by conventional transit and DAT. The optimal design problem is hence formulated as a mixed integer program by minimizing the total system cost, which includes both the user and agency (operating) costs. Numerical experiment results demonstrate that the hybrid microtransit system performs better than the system that only has conventional transit to feed under all demand levels, achieving up to a 7% reduction in total system cost. These may provide some evidence to resolve the “first-mile” challenges of rail transit in megacities by designing better conventional transit and DAT.",
+      "url": "https://doi.org/10.3390/info16080702",
+      "added_date": "2026-06-10",
+      "summary": "Qian et al. conducted a study focusing on hybrid microtransit network design using a mixed integer program and found that the hybrid microtransit system performed better than conventional transit alone, achieving up to a 7% reduction in total system cost.",
+      "tags": [
+        "planning",
+        "fmlm",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4410286832",
+      "doi": "10.1016/j.tbs.2025.101065",
+      "title": "On the role of microtransit in shaping new mobility patterns",
+      "year": 2025,
+      "journal": "Travel Behaviour and Society",
+      "authors": [
+        "Jerome Mayaud"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tbs.2025.101065",
+      "added_date": "2026-06-10",
+      "summary": "Mayaud et al. published \"On the role of microtransit in shaping new mobility patterns\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4407584849",
+      "doi": "10.3390/futuretransp5010019",
+      "title": "Planning and Economic Feasibility of Electric-Connected Automated Microtransit First/Last Mile Service Under Uncertainty",
+      "year": 2025,
+      "journal": "Future Transportation",
+      "authors": [
+        "Ata M. Khan"
+      ],
+      "abstract": "Electric-connected automated vehicle (CAV) shuttles, as a part of the sustainable microtransit system, have the potential to fill public transit service gaps. Following technology and traveler acceptance tests that are underway around the world, mass-produced CAVs will be considered for shared mobility service, including “first/last mile” travel between public transit hub stations and medical campuses or other activity centres. Thus, there is a need for increased knowledge on treating risk in such applications. This paper covers the planning and economic feasibility of an advanced technology level 4 automated vehicle-based microtransit system, considering uncertain service and economic feasibility factors. The methods used are advanced for addressing uncertainties in travel demand, service factors, and the economic feasibility of investments by public and private sector entities. Specifically, a probability-based macro simulation approach is used to treat demand and supply-side service factors as stochastic, and it is adapted for risk analysis in financial decision-making. The effects of uncertain life-cycle costs on fares and the rate-of-return are described. Results are favourable regarding the technical and economic feasibility of advanced technology-based microtransit first/last mile service. The findings reported here are a contribution to knowledge on the feasibility of implementing CAV-based first/last mile, and other microtransit services, under uncertainty.",
+      "url": "https://doi.org/10.3390/futuretransp5010019",
+      "added_date": "2026-06-10",
+      "summary": "Khan et al. conducted a study focusing on the planning and economic feasibility of electric-connected automated microtransit first/last mile service using a probability-based macro simulation approach and found that the results were favourable regarding the technical and economic feasibility of such services under uncertainty.",
+      "tags": [
+        "planning",
+        "fmlm",
+        "technology"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4406408080",
+      "doi": "10.1613/jair.1.16777",
+      "title": "Prosociality in Microtransit",
+      "year": 2025,
+      "journal": "Journal of Artificial Intelligence Research",
+      "authors": [
+        "Divya Sundaresan",
+        "Akhira Watson",
+        "Eleni Bardaka",
+        "Crystal Chen Lee",
+        "Christopher B. Mayhorn",
+        "Munindar P. Singh"
+      ],
+      "abstract": "We study (public) microtransit, a type of transportation service wherein a municipality offers point-to-point rides to residents, for a fixed, nominal fare. Microtransit exemplifies practical resource allocation problems that are often over-constrained in that not all ride requests (pickup and dropoff locations at specified times) can be satisfied or satisfied only by violating soft goals such as sustainability, and where economic signals (e.g., surge pricing) are not applicable—they would lead to unethical outcomes by effectively coercing poor people. We posit that instead of taking rider preferences as fixed, shaping them prosocially will lead to improved societal outcomes. Prosociality refers to an attitude or behavior that is intended to benefit others. This paper demonstrates a computational approach to prosociality in the context of a (public) microtransit service for disadvantaged riders. Prosociality appears as a willingness to adjust one’s pickup and dropoff times and locations to accommodate the schedules of others and to enable sharing rides (which increases the number of riders served with the same resources). This paper describes an interdisciplinary study of prosociality in microtransit between a transportation researcher, psychologists, a social scientist, and AI researchers. Our contributions are these: (1) empirical support for the viability of prosociality in microtransit (and constraints on it) through interviews with drivers and focus groups of riders; (2) a prototype mobile app demonstrating how our prosocial intervention can be combined with the transportation backend; (3) a reinforcement learning approach to model a rider and determine the best interventions to persuade that rider toward prosociality; and (4) a cognitive model of rider personas to enable evaluation of alternative interventions.",
+      "url": "https://doi.org/10.1613/jair.1.16777",
+      "added_date": "2026-06-10",
+      "summary": "Sundaresan et al. conducted a study focusing on prosociality in microtransit and found that shaping rider preferences prosocially could lead to improved societal outcomes.",
+      "tags": [
+        "equity",
+        "technology"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4408316292",
+      "doi": "10.1186/s12544-025-00711-2",
+      "title": "The potential of microtransit for regional commuting",
+      "year": 2025,
+      "journal": "European Transport Research Review",
+      "authors": [
+        "Nejc Geržinič",
+        "Marko Guček",
+        "Oded Cats"
+      ],
+      "abstract": "Abstract Shared on-demand mobility services, also known as microtransit, have become a major mobility provider around the world, yet this has predominantly taken place within urban areas. In areas with lower population density and poor quality public transport, such services could substantially improve accessibility. In early 2023, a regional microtransit pilot was carried out in the Ljubljana Urban Region in Slovenia. To assess the preferences towards such a service, a stated preference experiment is carried out among pilot participants, comparing car, public transport and microtransit for their daily commute. The obtained data is modelled using a Panel mixed logit model, with random parameters modelled as normally or log-normally distributed. Additionally, we also model for potential nesting effects among the alternatives. The results show participants perceive microtransit as a viable alternative, with public transport commuters finding it particularly attractive, whereas car commuters see it on par with the car. Parking price and a guaranteed parking spot tended to be key factors for decision-making. Simulating different policies, we conclude that combining subsidising microtransit and higher parking prices is the most effective strategy for achieving a modal shift primarily from car to microtransit while not affecting public transport as much.",
+      "url": "https://doi.org/10.1186/s12544-025-00711-2",
+      "added_date": "2026-06-10",
+      "summary": "Geržinič et al. conducted a study focusing on microtransit preferences using a stated preference experiment and found that participants perceived microtransit as a viable alternative, particularly attractive to public transport commuters.",
+      "tags": [
+        "demand",
+        "policy"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4406782697",
+      "doi": "10.3390/su17030952",
+      "title": "What Makes the Route More Traveled? Optimizing U.S. Suburban Microtransit for Sustainable Mobility",
+      "year": 2025,
+      "journal": "Sustainability",
+      "authors": [
+        "Alexandra Q. Pan",
+        "Susan Shaheen"
+      ],
+      "abstract": "Microtransit services that provide pooled on-demand transportation with dynamic routing have been used in low-density areas since the 1970s, but improvements to routing technology have led to a resurgence of interest in the past decade. Questions remain about the effectiveness of microtransit to serve riders in low-density, car-dependent suburban areas. Better understanding of the factors underlying microtransit ridership can improve usage of these services and shift travelers to more sustainable modes in suburban areas. We compile a database of suburban microtransit programs from 32 public transit agencies in the U.S. to study internal factors (e.g., operating hours, service area) and external factors (e.g., population density, vehicle ownership) impacting ridership using a random effects model. We find that internal agency factors have a greater effect on microtransit ridership than external factors. The most impactful factor is operating a point deviation service, where vehicles have scheduled stops at one or more checkpoints within the service area (e.g., transit center or shopping center), rather than zone-based services, where vehicles pick up and drop off passengers at any time within a service area. There is high potential to convert some zone-based services to point deviation services; 52% of zone-based service areas contain a transit center that could be used as a checkpoint. For the remaining zone-based service areas, maximizing ridership may not be feasible, and using ridership as an evaluation metric can be misleading. Instead, metrics that capture the accessibility, safety, or customer satisfaction impacts of microtransit may be more appropriate for these services.",
+      "url": "https://doi.org/10.3390/su17030952",
+      "added_date": "2026-06-10",
+      "summary": "Pan et al. conducted a study focusing on microtransit ridership using a random effects model and found that internal agency factors had a greater effect on microtransit ridership than external factors.",
+      "tags": [
+        "demand",
+        "operations",
+        "planning"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4405529073",
+      "doi": "10.1061/jupddm.upeng-5100",
+      "title": "A Stated Preference Survey to Forecast Microtransit Choice in Suburban Areas with Low Public Transport Ridership",
+      "year": 2024,
+      "journal": "Journal of Urban Planning and Development",
+      "authors": [
+        "Alessandro Emilio Capodici",
+        "Gabriele D’Orso",
+        "Marco Migliore",
+        "Martina Vittorietti"
+      ],
+      "abstract": "Public transport services with fixed schedules and fixed routes are often unreliable and economically unsustainable in suburban areas having a low transport demand that is spatially and temporally dispersed. Therefore, suburban areas become car-oriented and have transportation gaps, increasing the risk of social exclusion for the most vulnerable groups. Microtransit services aim to fill these gaps, offering greater flexibility in routes and schedules for noncommuting trips and operating more efficiently, with shorter walking distances to stops and waiting times. This paper aims to investigate the microtransit choice and the factors that influence it using a stated preference (SP) survey. Some suburban neighborhoods with underutilized public transport services in Palermo, Italy, were chosen as study areas. Conducting face-to-face interviews, revealed preference data were collected to assess residents’ mobility habits. SP experiments were proposed to respondents to calibrate a mode choice model. A hybrid microtransit was proposed, operating as a conventional fixed-route and fixed-schedule public transport service in peak hours and as an on-demand service in off-peak hours. A scenario analysis was performed to understand which type of customers would be easier to attract and how in-vehicle, waiting, and walking times affect the microtransit choice. This study found that the choice probability for microtransit is higher for young people than for older people, increasing with the increase in the level of education and the introduction of travel demand management policies that discourage the use of private cars, such as parking pricing or the introduction of restricted traffic areas.",
+      "url": "https://doi.org/10.1061/jupddm.upeng-5100",
+      "added_date": "2026-06-10",
+      "summary": "Capodici et al. conducted a study in Palermo, Italy, focusing on microtransit choice using a stated preference survey and found that the choice probability for microtransit was higher for young people than for older people, increasing with the level of education and the introduction of travel demand management policies that discourage the use of private cars.",
+      "tags": [
+        "demand",
+        "equity",
+        "policy"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4402106328",
+      "doi": "10.1016/j.rtbm.2024.101191",
+      "title": "Designing microtransit services in suburban areas: A case study in Palermo, Italy",
+      "year": 2024,
+      "journal": "Research in Transportation Business & Management",
+      "authors": [
+        "Alessandro Emilio Capodici",
+        "Martina Citrano",
+        "Gabriele D’Orso",
+        "Marco Migliore",
+        "Matteo Ignaccolo",
+        "Pierfrancesco Leonardi",
+        "Vincenza Torrisi"
+      ],
+      "abstract": "Poor quality of Public Transport (PT) services is one of the main causes of social exclusion for people living in the suburbs. Public transport companies usually allocate few financial resources to these areas, providing transport services with low frequency, poor accessibility, poor reliability, and high waiting times at stops. Recently, microtransit has emerged as an effective solution to improve the travel experience in suburban areas, particularly for non-commuting trips during off-peak hours. This paper presents an integrated methodological approach for designing microtransit services to meet the mobility needs of people living in low-density suburbs. By conducting a Reveled Preference (RP) and Stated Preference (SP) survey and developing a travel demand model, the demand was estimated and used as input to simulate and size the service. Combining GIS and simulation models, Key Performance Indicators (KPIs) were assessed; fleet size to meet the trip requests was identified and the fare was selected using a sensitivity analysis. The method was applied to a real case study to design a new microtransit service with flexible routes and on-demand stops in a suburban area in Palermo, Italy. The results highlight how introducing a microtransit service with 30 nine-seater vans could change the mobility habits of people living in the suburban area, being attractive and financially sustainable if costing 2 €, or just a little more than the existing fixed-route bus service. It could improve the travel experience by reducing the average waiting time at stops to around 5 min and improve access to amenities and PT hubs by guaranteeing a walking time of maximum about 8 min.",
+      "url": "https://doi.org/10.1016/j.rtbm.2024.101191",
+      "added_date": "2026-06-10",
+      "summary": "Capodici et al. conducted a study focusing on microtransit service design using a Revealed Preference and Stated Preference survey and found that introducing a microtransit service with nine-seater vans could improve the travel experience for suburban residents while being financially sustainable compared to existing bus services.",
+      "tags": [
+        "planning",
+        "demand",
+        "equity"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4408697082",
+      "doi": "10.1109/itsc58415.2024.10920055",
+      "title": "Flexible Microtransit Scheduling with Time Sensitive Travelers",
+      "year": 2024,
+      "journal": "",
+      "authors": [
+        "Hongli Li",
+        "Zengxiang Lei",
+        "Satish V. Ukkusuri"
+      ],
+      "abstract": "Microtransit is a promising solution to the recent challenges faced by the public transit sector in the post-pandemic era. Following previous research that points out the importance of considering travelers with strict arrival time constraints (e.g., for work-related commutes and medical appointments) in microtransit operations, we design a new vehicle scheduling framework that explicitly considers both time-sensitive and flexible passengers and formulate the corresponding variant of the dial-a-ride problem. To efficiently solve this problem, we derive several valid cuts and employ the branch and cut algorithm. The case study based on Chicago data demonstrates that the microtransit service with time-sensitive and flexible travelers can effectively save vehicle mileage and user expenses compared with the ride-hailing service and the microtransit service without considering time flexibility.",
+      "url": "https://doi.org/10.1109/itsc58415.2024.10920055",
+      "added_date": "2026-06-10",
+      "summary": "Li et al. conducted a study focusing on flexible microtransit scheduling using a new vehicle scheduling framework and found that the microtransit service with time-sensitive and flexible travelers effectively saved vehicle mileage and user expenses compared with the ride-hailing service and the microtransit service without considering time flexibility.",
+      "tags": [
+        "operations",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4403673418",
+      "doi": "10.1016/j.tra.2024.104258",
+      "title": "Greening the commute: A case study of demand for employer-sponsored microtransit",
+      "year": 2024,
+      "journal": "Transportation Research Part A Policy and Practice",
+      "authors": [
+        "André Carrel",
+        "Stavroula M. Mavrouli",
+        "P Natarajan",
+        "Rana Tarabay",
+        "Andrea Broaddus"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tra.2024.104258",
+      "added_date": "2026-06-10",
+      "summary": "Carrel et al. published \"Greening the commute: A case study of demand for employer-sponsored microtransit\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4393204727",
+      "doi": "10.1016/j.trip.2024.101071",
+      "title": "The first mile towards access equity: Is on-demand microtransit a valuable addition to the transportation mix in suburban communities?",
+      "year": 2024,
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "authors": [
+        "A.M. Liezenga",
+        "Trivik Verma",
+        "Jerome Mayaud",
+        "Nazli Yonca Aydin",
+        "Bert van Wee"
+      ],
+      "abstract": "As cities grow, the benefits of living in them are increasingly unequally distributed. USA cities, in particular, have experienced rapid suburbanization of poverty and decreased levels of access to jobs for transit-dependent and vulnerable communities. The public transit challenges in suburbs call for innovative forms of transit to turn the tide on urban inequality. On-demand microtransit, a novel type of shared mobility provides efficient, convenient and affordable transportation. Its potential for redressing inequity had yet to be investigated fully in a suburban setting. We presented a case study from the suburbs of Minneapolis-St. Paul in Minnesota, USA. We combined unique datasets of microtransit ridership from two public transit agencies, transit surveys, land use data, and expert interviews, to conduct spatial analysis, accessibility analysis, and equity impact assessments for these suburbs. We found that microtransit enables public transit agencies to reach a larger number of vulnerable riders than fixed-route transit, particularly for commuting and trips to/from commercial areas. Microtransit also provided a cheaper alternative to ride-hailing and a faster alternative to public transit and walking, without cannibalizing ridership from fixed-rout transit alternatives. Finally, microtransit redressed transportation inequities by alleviating access inequality, reaching vulnerable rider groups effectively, and creating travel opportunities that are less spatially concentrated than those provided by traditional, fixed-route public transit. This study provided a framework for further investigations into the impact of microtransit, including in urban core or rural settings, and highlighted the impact of microtransit in reducing access inequity in a suburban environment.",
+      "url": "https://doi.org/10.1016/j.trip.2024.101071",
+      "added_date": "2026-06-10",
+      "summary": "Liezenga et al. conducted a study focusing on on-demand microtransit using a case study from the suburbs of Minneapolis-St. Paul and found that microtransit enabled public transit agencies to reach a larger number of vulnerable riders than fixed-route transit, particularly for commuting and trips to/from commercial areas.",
+      "tags": [
+        "fmlm",
+        "equity",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4386718386",
+      "doi": "10.1016/j.jtrangeo.2023.103696",
+      "title": "Achieving equitable outcomes through optimal design in the development of microtransit zones",
+      "year": 2023,
+      "journal": "Journal of Transport Geography",
+      "authors": [
+        "Taylor Bonner",
+        "Elise Miller-Hooks"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jtrangeo.2023.103696",
+      "added_date": "2026-06-10",
+      "summary": "Bonner et al. published \"Achieving equitable outcomes through optimal design in the development of microtransit zones\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4388848789",
+      "doi": "10.3390/infrastructures8120165",
+      "title": "Comparing Macroscale and Microscale Walkability Indicators to Establish Pick-Up/Drop-Off Locations for a Microtransit Service in a Suburban Area",
+      "year": 2023,
+      "journal": "Infrastructures",
+      "authors": [
+        "Gabriele D’Orso",
+        "Leonardo Minaudo",
+        "Marco Migliore"
+      ],
+      "abstract": "Microtransit is a shared mobility service that operates between fixed-route transit and ride-hailing. It operates with a fleet of vans or minibuses within a service zone that is usually located in a rural or suburban car-oriented area with a transport demand that is temporally and spatially dispersed. Microtransit often expects customers to walk a short distance to pick-up/drop-off (PUDO) locations. The PUDO points need to be quickly, easily, and safely reachable by pedestrians. Thus, PUDO locations must be chosen after analyzing the walkability of the suburban area served by microtransit. This paper presents a comparison of macroscale and microscale indicators to assess the walkability of suburban neighborhoods where microtransit has to be introduced. We chose three suburban neighborhoods (Partanna Mondello, Tommaso Natale, and Mondello) in Palermo, Italy, as a study area, aiming to identify the best places to locate PUDO stops for a microtransit service. A GIS database has been built associating each link with a series of qualitative and quantitative attributes. Finally, we developed a walkability index that indicates the attractiveness of specific locations in terms of intermodal walkability. We also identified the critical pedestrian links that need actions to improve their walkability.",
+      "url": "https://doi.org/10.3390/infrastructures8120165",
+      "added_date": "2026-06-10",
+      "summary": "D’Orso et al. conducted a study in Palermo, Italy, focusing on walkability indicators to establish pick-up/drop-off locations for a microtransit service using a GIS database and found that specific locations could be identified as attractive for intermodal walkability while highlighting critical pedestrian links needing improvement.",
+      "tags": [
+        "planning",
+        "fmlm"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4388333412",
+      "doi": "10.3390/systems11110538",
+      "title": "Estimating Benefits of Microtransit for Social Determinants of Health: A Social Return on Investment System Dynamics Model",
+      "year": 2023,
+      "journal": "Systems",
+      "authors": [
+        "Mohammad Reza Maleki",
+        "Janille Smith‐Colin"
+      ],
+      "abstract": "Lack of transportation services in low-income communities greatly affects people’s health and well-being, creating barriers to social determinants of health (SDOH). One potential solution that has gained the attention of US decision-makers in recent years is microtransit, a transportation intervention aimed at addressing this issue. Despite promising results from prior microtransit implementation, the extent to which these programs deliver social benefits remains uncertain. This study presents a novel model called Social Return on Investment System Dynamics (SROISD) to forecast the social benefits of a microtransit program in Holmes County, Mississippi. The SROISD model identifies the scope and key stakeholders, maps outcomes, and gives outcomes a value. A causal loop diagram is developed next based on mapped outcomes and a literature review, thereby conceptualizing the processes through which social benefits are gained from the microtransit program. Three stock and flow diagrams are then created from the causal loop diagram to formulate the system and produce results. Outcomes mapped relative to three SDOH areas (1) accessing healthcare, (2) accessing employment, and (3) social participation indicate an overall positive return from investing in microtransit within the low-income community of interest. Additionally, ridesharing demonstrates a significant positive correlation with the SROI ratio. These findings offer support for the advantages of investing in microtransit. Additionally, the SROISD methodology offers decisionmakers a dynamically responsive approach that integrates traditional return on investment methodologies with system dynamics to explore social benefits across a variety of impact categories.",
+      "url": "https://doi.org/10.3390/systems11110538",
+      "added_date": "2026-06-10",
+      "summary": "Maleki et al. conducted a study focusing on the benefits of microtransit for social determinants of health using a Social Return on Investment System Dynamics model and found that investing in microtransit within low-income communities indicated an overall positive return in accessing healthcare, employment, and social participation.",
+      "tags": [
+        "equity",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4386496281",
+      "doi": "10.1016/j.tbs.2023.100658",
+      "title": "How do attitudes and impacts of Covid-19 affect demand for microtransit?",
+      "year": 2023,
+      "journal": "Travel Behaviour and Society",
+      "authors": [
+        "Tomás Rossetti",
+        "Melissa Ruhl",
+        "Andrea Broaddus",
+        "Ricardo A. Daziano"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tbs.2023.100658",
+      "added_date": "2026-06-10",
+      "summary": "Rossetti et al. published \"How do attitudes and impacts of Covid-19 affect demand for microtransit?\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4388168634",
+      "doi": "10.1016/j.trc.2023.104395",
+      "title": "Microtransit adoption in the wake of the COVID-19 pandemic: Evidence from a choice experiment with transit and car commuters",
+      "year": 2023,
+      "journal": "Transportation Research Part C Emerging Technologies",
+      "authors": [
+        "Jason Soria",
+        "Shelly Etzioni",
+        "Yoram Shiftan",
+        "Eran Ben-Elia",
+        "Amanda Stathopoulos"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.trc.2023.104395",
+      "added_date": "2026-06-10",
+      "summary": "Soria et al. published \"Microtransit adoption in the wake of the COVID-19 pandemic: Evidence from a choice experiment with transit and car commuters\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4320479166",
+      "doi": "10.1016/j.tra.2023.103584",
+      "title": "Microtransit deployment portfolio management using simulation-based scenario data upscaling",
+      "year": 2023,
+      "journal": "Transportation Research Part A Policy and Practice",
+      "authors": [
+        "Srushti Rath",
+        "Bingqing Liu",
+        "Gyugeun Yoon",
+        "Joseph Y.J. Chow"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tra.2023.103584",
+      "added_date": "2026-06-10",
+      "summary": "Rath et al. published \"Microtransit deployment portfolio management using simulation-based scenario data upscaling\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4368408211",
+      "doi": "10.1145/3576841.3589625",
+      "title": "Mobility-On-Demand Transportation: A System for Microtransit and Paratransit Operations",
+      "year": 2023,
+      "journal": "",
+      "authors": [
+        "Michael Wilbur",
+        "Maxime Coursey",
+        "Pravesh Koirala",
+        "Zakariyya Al-Quran",
+        "Philip Pugliese",
+        "Abhishek Dubey"
+      ],
+      "abstract": "New rideshare and shared-mobility services have transformed urban mobility in recent years. Therefore, transit agencies are looking for ways to adapt to this rapidly changing environment. In this space, ridepooling has the potential to improve efficiency and reduce costs by allowing users to share rides in high-capacity vehicles and vans. Most transit agencies already operate various ridepooling services including microtransit and paratransit. However, the objectives and constraints for implementing these services vary greatly between agencies. This brings multiple challenges. First, off-the-shelf ridepooling formulations must be adapted for real-world conditions and constraints. Second, the lack of modular and reusable software makes it hard to implement and evaluate new ridepooling algorithms and approaches in real-world settings. Therefore, we propose an on-demand transportation scheduling software for microtransit and paratransit services. This software is aimed at transit agencies looking to incorporate state-of-the-art rideshare and ridepooling algorithms in their everyday operations. We provide management software for dispatchers and mobile applications for drivers and users. Lastly, we discuss the challenges in adapting state-of-the-art methods to real-world operations.",
+      "url": "https://doi.org/10.1145/3576841.3589625",
+      "added_date": "2026-06-10",
+      "summary": "Wilbur et al. conducted a study focusing on microtransit and paratransit operations using on-demand transportation scheduling software and found that adapting state-of-the-art rideshare and ridepooling algorithms to real-world conditions presents multiple challenges for transit agencies.",
+      "tags": [
+        "operations",
+        "technology"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4387220587",
+      "doi": "10.1177/03611981231198464",
+      "title": "Multi-Criteria Decision-Making Framework for Determining Public Microtransit Service Zones",
+      "year": 2023,
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "authors": [
+        "Sevgi Erdoğan",
+        "Amir Nohekhan",
+        "Alibi Shokputov",
+        "Kaveh Farokhi Sadabadi"
+      ],
+      "abstract": "The paper addresses a critical research gap in the literature by focusing on the identification of service areas for microtransit. It presents a framework for identifying areas where microtransit would have a higher potential for success. The primary objective is to assist agencies in their efforts to provide microtransit services by offering a robust and flexible decision-making framework. This framework serves as an intermediate step between an initial planning study that identifies candidate zones and a detailed feasibility study, which is currently missing in the literature. The framework is a multi-criteria decision-making (MCDM) process that can be applicable to various contexts. Specifically, our approach utilizes a lexicographic decision rule for ranking microtransit service priority measures for each census block of a selected region, such as a county. We employ two composite measures for ranking: Microtransit Propensity Index (MPI) and Weighted Accessibility Score (WAS). The latter combines transit access to work and to eight points of interest (POIs). This framework can be adapted to identify zones suitable for microtransit service based on different objectives, such as connecting residents to transit centers, providing first- and last-mile connections, providing services in transit deserts, providing flexible transit service to low-income communities, or providing access to the POIs within a zone. The effectiveness of the proposed framework is evaluated using the case of Prince George’s County in Maryland. The results reveal that our approach provides greater insights into the feasibility of an area for microtransit compared with relying solely on a single index such as MPI.",
+      "url": "https://doi.org/10.1177/03611981231198464",
+      "added_date": "2026-06-10",
+      "summary": "Erdoğan et al. conducted a study focusing on the identification of service areas for microtransit using a multi-criteria decision-making framework and found that their approach provided greater insights into the feasibility of an area for microtransit compared with relying solely on a single index such as the Microtransit Propensity Index.",
+      "tags": [
+        "planning",
+        "fmlm",
+        "equity"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4388049844",
+      "doi": "10.1016/j.tranpol.2023.10.011",
+      "title": "Policy, management, and operation practices in U.S. microtransit systems",
+      "year": 2023,
+      "journal": "Transport Policy",
+      "authors": [
+        "Subid Ghimire",
+        "Eleni Bardaka",
+        "Kai Monast",
+        "Wang Juan",
+        "Waugh Wright"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tranpol.2023.10.011",
+      "added_date": "2026-06-10",
+      "summary": "Ghimire et al. published \"Policy, management, and operation practices in U.S. microtransit systems\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4229336276",
+      "doi": "10.1007/s12205-022-0995-3",
+      "title": "A Simulation Sandbox to Compare Fixed-Route, Semi-flexible Transit, and On-demand Microtransit System Designs",
+      "year": 2022,
+      "journal": "KSCE Journal of Civil Engineering",
+      "authors": [
+        "Gyugeun Yoon",
+        "Joseph Y.J. Chow",
+        "Srushti Rath"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s12205-022-0995-3",
+      "added_date": "2026-06-10",
+      "summary": "Yoon et al. published \"A Simulation Sandbox to Compare Fixed-Route, Semi-flexible Transit, and On-demand Microtransit System Designs\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4312082683",
+      "doi": "10.1016/j.tra.2022.11.009",
+      "title": "Commuter preferences for a first-mile/last-mile microtransit service in the United States",
+      "year": 2022,
+      "journal": "Transportation Research Part A Policy and Practice",
+      "authors": [
+        "Tomás Rossetti",
+        "Andrea Broaddus",
+        "Melissa Ruhl",
+        "Ricardo A. Daziano"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tra.2022.11.009",
+      "added_date": "2026-06-10",
+      "summary": "Rossetti et al. published \"Commuter preferences for a first-mile/last-mile microtransit service in the United States\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4307639711",
+      "doi": "10.1186/s12544-022-00572-z",
+      "title": "Examining the factors influencing microtransit users’ next ride decisions using Bayesian networks",
+      "year": 2022,
+      "journal": "European Transport Research Review",
+      "authors": [
+        "Jiajing He",
+        "Tai-Yu Ma"
+      ],
+      "abstract": "Abstract The progress of microtransit services across the world has been slower than expected due to institutional, operational, and financial barriers. However, how users' ride experiences and system attributes affects their future ride decisions remain an important issue for successful deployment. A Bayesian network approach is proposed to infer users’ next ride decisions on a microtransit service based on historical ride data from Kussbus, a pilot microtransit system operating in the Belgium–Luxembourg cross-border areas in 2018. The results indicate that the proposed Bayesian network approach could reveal a plausible causal relationship between different dependent factors compared to the classical multinomial logit modeling approach. By examining public transport coverage in the study area, we find that Kussbus complements the existing public transport and provides an effective alternative to personal car use.",
+      "url": "https://doi.org/10.1186/s12544-022-00572-z",
+      "added_date": "2026-06-10",
+      "summary": "He et al. conducted a study focusing on microtransit users' next ride decisions using a Bayesian network approach and found that the proposed method revealed plausible relationships between different dependent factors compared to classical multinomial logit modeling.",
+      "tags": [
+        "demand",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4226419871",
+      "doi": "10.1016/j.jpubtr.2022.100032",
+      "title": "Integrating shared mobility services with public transit in areas of low demand",
+      "year": 2022,
       "journal": "Journal of Public Transportation",
-      "url": "#",
-      "tags": ["covid", "evaluation", "policy"],
-      "summary": "Haddad et al. conducted a review focusing on demand-responsive service adjustments during COVID-19 using operator records, and find that flexible services were associated with faster ridership recovery than fixed routes."
+      "authors": [
+        "Natalia Zuniga-Garcia",
+        "Krishna Murthy Gurumurthy",
+        "Cesar N. Yahia",
+        "Kara M. Kockelman",
+        "Randy B. Machemehl"
+      ],
+      "abstract": "The increasing demand for shared mobility services has led to multiple Public-Private Partnerships (PPP), where public transit agencies and mobility providers work together to increase transit service coverage. However, several partnerships have failed due to budget constraints and lack of ridership. Furthermore, the limited data-sharing agreements restrict the analysis and dissemination of outcomes. This paper analyzes the integration of shared-mobility services into the public transit system using data from pilot programs in Austin, Texas. The use of Transportation Network Companies (TNCs) and microtransit service is evaluated as first-mile-last-mile (FMLM) and door-to-door solutions. The associated TNC, microtransit, and bus transit demand are analyzed using ridership data, and the trip characteristics are discussed and compared. Then, after controlling for confounding variables through matching, a difference-in-differences (DID) model is used to infer the effect of microtransit on bus transit demand. Specifically, by evaluating bus ridership before and after implementing the microtransit program, the DID model estimates the change in bus demand attributed to microtransit. The results suggest that the TNC services, focusing only on FMLM, were not as popular as microtransit services offering FMLM and intrazonal trips. Even though the microtransit trips were longer and, in some cases, the driver response times were higher than for TNC trips. Also, the DID model demonstrates that the microtransit service did not substantially impact the bus transit ridership, suggesting that the trips were mainly used for intrazonal door-to-door trips and not for FMLM trips. A further discussion highlights the need for performance metrics beyond demand and costs to capture the benefits of these partnerships for improving mobility, safety, and customer experience.",
+      "url": "https://doi.org/10.1016/j.jpubtr.2022.100032",
+      "added_date": "2026-06-10",
+      "summary": "Zuniga-Garcia et al. conducted a study focusing on the integration of shared mobility services into the public transit system using a difference-in-differences model and found that the microtransit service did not substantially impact bus transit ridership, suggesting that the trips were mainly used for intrazonal door-to-door trips and not for first-mile-last-mile trips.",
+      "tags": [
+        "fmlm",
+        "demand",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4313419747",
+      "doi": "10.1016/j.jtrangeo.2022.103501",
+      "title": "Microtransit – Alternative mobility offers in Germany, 2022",
+      "year": 2022,
+      "journal": "Journal of Transport Geography",
+      "authors": [
+        "Lukas Adolphi",
+        "Wladimir Sgibnev",
+        "Tonio Weicker"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jtrangeo.2022.103501",
+      "added_date": "2026-06-10",
+      "summary": "Adolphi et al. published \"Microtransit – Alternative mobility offers in Germany, 2022\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4290719564",
+      "doi": "10.1016/j.tranpol.2022.07.024",
+      "title": "On-demand microtransit and paratransit service using autonomous vehicles: Gaps and opportunities in accessibility policy",
+      "year": 2022,
+      "journal": "Transport Policy",
+      "authors": [
+        "William Riggs",
+        "Anurag Pande"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tranpol.2022.07.024",
+      "added_date": "2026-06-10",
+      "summary": "Riggs et al. published \"On-demand microtransit and paratransit service using autonomous vehicles: Gaps and opportunities in accessibility policy\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4283697215",
+      "doi": "10.1016/j.trd.2022.103341",
+      "title": "Towards transit equity in Detroit: An assessment of microtransit and its impact on employment accessibility",
+      "year": 2022,
+      "journal": "Transportation Research Part D Transport and Environment",
+      "authors": [
+        "Tierra Bills",
+        "Richard Twumasi-Boakye",
+        "Andrea Broaddus",
+        "James Fishelson"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.trd.2022.103341",
+      "added_date": "2026-06-10",
+      "summary": "Bills et al. published \"Towards transit equity in Detroit: An assessment of microtransit and its impact on employment accessibility\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W3129611428",
+      "doi": "10.1145/3446382.3449025",
+      "title": "Data-Driven Design of Microtransit Services via Optimal Transport and Simulated Annealing",
+      "year": 2021,
+      "journal": "",
+      "authors": [
+        "Kun Jin",
+        "Cathy H. Xia"
+      ],
+      "abstract": "Microtransit Service is a new trend under shared mobility, it is to increase ridership by linking current and prospective passengers with bus stops and train stations. This first/last mile problem has been a challenge for public transit agencies. In this paper, we focus on an emerging hub-to-spoke type of microtransit service. The service uses jitneys or minibuses for ride sharing, and requires passengers travel to and from stops to reach the vehicles. Compared with the Uber-like point-to-point service which offers convenience at the cost of time-consuming detours, the hub-to-spoke type service provides more affordable service yet with comparable delays if carefully designed. The service provider must decide a) the stop locations for pick-up and drop-off (PUDO) points; and b) passenger to stop allocation. The problem is NP-hard and computationally challenging since the demand is typically dense. We propose to consider the continuous approximation of the demand density function and study the continuous version of the problem. We develop OTSA, an integrated framework that combines optimal transport theory with simulated annealing to solve the problem. The efficiency of the algorithms are demonstrated with a city-scale implementation using data extracted from New York City Taxicab dataset.",
+      "url": "https://doi.org/10.1145/3446382.3449025",
+      "added_date": "2026-06-10",
+      "summary": "Jin et al. conducted a study focusing on microtransit service design using optimal transport theory and simulated annealing and found that a hub-to-spoke type service can provide affordable service with comparable delays if carefully designed.",
+      "tags": [
+        "planning",
+        "fmlm"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3207759897",
+      "doi": "10.1177/03611981211049143",
+      "title": "Demand-Driven Optimization Method for Microtransit Services",
+      "year": 2021,
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "authors": [
+        "Cyril Veve",
+        "Nicolas Chiabaut"
+      ],
+      "abstract": "Many shared mobility solutions have been developed over recent decades. In the case of mobile technological innovations, new solutions that are more flexible to user demands have emerged. These dynamic solutions allow users to be served by optimizing different aspects such as the detour to pick up a passenger or the waiting time for users. Such methods make it possible to satisfy requests quickly and to match as closely as possible user expectations. However, these approaches usually use fleets composed of numerous small-capacity vehicles to serve each user. By contrast, microtransit aims to serve a more massive demand than conventional shared mobility methods. Our study falls within this context. It aims to identify recurrent patterns of mobility and to verify the possibility of implementing microtransit lines to serve them. In other words, the proposed method identifies spatial and temporal areas where the implementation of a flexible transport line would meet a potential mobility demand. The recurrence of trips in these specific areas provides a guarantee of the reliability of the designed lines.",
+      "url": "https://doi.org/10.1177/03611981211049143",
+      "added_date": "2026-06-10",
+      "summary": "Veve et al. conducted a study focusing on microtransit services using a demand-driven optimization method and found that specific spatial and temporal areas could support the implementation of flexible transport lines to meet potential mobility demand.",
+      "tags": [
+        "planning",
+        "demand"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3170662448",
+      "doi": "10.1061/9780784483534.031",
+      "title": "Exploring Preferences towards Integrating the Autonomous Vehicles with the Current Microtransit Services: A Disability Focus Group Study",
+      "year": 2021,
+      "journal": "",
+      "authors": [
+        "Ronik Ketankumar Patel",
+        "Roya Etminani-Ghasrodashti",
+        "Sharareh Kermanshachi",
+        "Jay Michael Rosenberger",
+        "David Weinreich"
+      ],
+      "abstract": "This study explores how people with disabilities perceive and accept autonomous vehicles (AVs) as a technology to improve their mobility. A focus group discussion was conducted to explore individuals’ preferences towards integrating level 4 AVs into the existing microtransit service in Arlington, Texas. Participants demonstrated a positive perception towards the integration of AVs into the current microtransit infrastructure. The results suggest that accessibility to a well-designed built environment is vital in adopting AVs by people with disabilities. Moreover, AVs’ accessibility to healthcare facilities is one of the main concerns identified by focus groups of persons with disabilities. In particular, participants with visual impairment were hopeful that future AV services could improve their mobility through advanced apps, booking systems, and vehicle equipment. This study offers several implications for designing AV service in line with the needs of persons with disabilities while combining with the current microtransit service.",
+      "url": "https://doi.org/10.1061/9780784483534.031",
+      "added_date": "2026-06-10",
+      "summary": "Patel et al. conducted a study focusing on preferences towards integrating autonomous vehicles with current microtransit services using a focus group discussion and found that participants demonstrated a positive perception towards the integration of AVs into the current microtransit infrastructure.",
+      "tags": [
+        "equity",
+        "technology"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3170495668",
+      "doi": "10.1177/03611981211014523",
+      "title": "Microtransit Has the Potential to Flip Transit on Its Head",
+      "year": 2021,
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "authors": [
+        "Jerome Mayaud",
+        "Francesca Ward",
+        "Josh Andrews"
+      ],
+      "abstract": "Fixed-route transit in the U.S.A. is facing stiff competition from more convenient mobility options. Microtransit—shared transportation that offers dynamic routing and scheduling to efficiently match demand—is emerging as an ally to fixed-route services. However, its positive impacts are too often constrained by the politics and economics imposed by existing transit infrastructure. This paper proposes a solution that “flips transit on its head.” By rapidly prototyping microtransit services across cities and analyzing supply-demand mismatches, it is possible to launch truly data-driven transit services. To illustrate the framework, a unique dataset generated from a year of Dallas Area Rapid Transit’s GoLink service, one of the largest on-demand microtransit services in North America, is used. Mapping and machine learning are combined to empower planners to “join the dots” when (re)designing fixed-route transit lines. It is shown that microtransit should not simply fill in the gaps left by inefficiently scheduled bus routes: by incorporating it fully into their planning processes, cities and transit agencies could dramatically reverse the fortunes of public transit.",
+      "url": "https://doi.org/10.1177/03611981211014523",
+      "added_date": "2026-06-10",
+      "summary": "Mayaud et al. conducted a study focusing on microtransit using a unique dataset generated from Dallas Area Rapid Transit’s GoLink service and found that cities and transit agencies could dramatically reverse the fortunes of public transit by fully incorporating microtransit into their planning processes.",
+      "tags": [
+        "planning",
+        "fmlm",
+        "demand"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3198135234",
+      "doi": "10.1177/03611981211028622",
+      "title": "Performance Measurement and Evaluation Framework of Public Microtransit Service",
+      "year": 2021,
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "authors": [
+        "Todd Hansen",
+        "Michael J. Walk",
+        "Shuman Tan",
+        "Ahmadreza Mahmoudzadeh"
+      ],
+      "abstract": "This research project developed an evaluation framework and service standards for microtransit service at a metropolitan transportation authority. Microtransit provides an elevated level of service from traditional demand response, enabling more spontaneous travel and better connectivity to the fixed-route system, meaning microtransit service performance standards fit in between traditional demand response and fixed route. Microtransit neighborhood zones also serve distinct purposes depending on the operational and financial characteristics of a given zone. The purpose of this evaluation framework project was to determine the optimal performance measurement process for microtransit service. The research team developed the evaluation framework through gathering information from agency staff on current goals and objectives for microtransit, conducting an industry scan, and determining measurable metrics from available data sources. The project developed a typology of microtransit service zones, then created the evaluation framework using the performance measures applicable to agency goals. The research team conducted a final test of the framework at the six-month period of service to refine the measures as needed. Minimum standards and optimal goals were set for each performance measure based on system performance and agency goals for innovative service. The framework uses service standards and goals that are applicable to given types of neighborhood zones and distinct from baseline standards for fixed-route or other demand-responsive service. The evaluation framework can be integrated into transit agency service standards to measure the success of microtransit neighborhood zones and planning future service.",
+      "url": "https://doi.org/10.1177/03611981211028622",
+      "added_date": "2026-06-10",
+      "summary": "Hansen et al. conducted a study focusing on microtransit service evaluation using an evaluation framework and found that performance standards for microtransit fit between traditional demand response and fixed-route services.",
+      "tags": [
+        "evaluation",
+        "planning"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3162281759",
+      "doi": "10.3390/smartcities4020036",
+      "title": "Rider Perceptions of an On-Demand Microtransit Service in Salt Lake County, Utah",
+      "year": 2021,
+      "journal": "Smart Cities",
+      "authors": [
+        "Gregory S. Macfarlane",
+        "Christian Hunter",
+        "A Arias Martinez",
+        "Elizabeth C. Smith"
+      ],
+      "abstract": "On-demand microtransit services are frequently seen as an important tool in supporting first and last mile operations surrounding fixed route high frequency transit facilities, but questions remain surrounding who will use these novel services and for what purposes. In November 2019, the Utah Transit Authority launched an on-demand microtransit service in south Salt Lake County in partnership with a private mobility operator. This paper reports the results of an expressed preferences survey of 130 transit riders in the microtransit service area that was collected before and immediately after the service launched. There is not a clear relationship between current transit access mode and expressed willingness to use microtransit, although some responses from new riders indicate the novel service competes most directly with commercial transportation network company operations. The survey responses also reveal younger passengers express a more than expected willingness to use microtransit, middle-aged passengers a less than expected willingness, and older passengers neutral or no expressed opinion. The results suggest additional relationships between household size and transit use frequency, but further research is necessary. The effect of other user characteristics, including income and automobile availability, is less statistically clear and requires further research.",
+      "url": "https://doi.org/10.3390/smartcities4020036",
+      "added_date": "2026-06-10",
+      "summary": "Macfarlane et al. conducted a study in Salt Lake County focusing on rider perceptions of an on-demand microtransit service using an expressed preferences survey and found that younger passengers expressed a greater willingness to use microtransit compared to middle-aged and older passengers.",
+      "tags": [
+        "fmlm",
+        "demand"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3183868003",
+      "doi": "10.1016/j.tre.2021.102562",
+      "title": "The pickup and delivery problem with synchronized en-route transfers for microtransit planning",
+      "year": 2021,
+      "journal": "Transportation Research Part E Logistics and Transportation Review",
+      "authors": [
+        "Zhexi Fu",
+        "Joseph Y.J. Chow"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tre.2021.102562",
+      "added_date": "2026-06-10",
+      "summary": "Fu et al. published \"The pickup and delivery problem with synchronized en-route transfers for microtransit planning\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W3214182270",
+      "doi": "10.1016/j.jtrangeo.2021.103226",
+      "title": "Unravel the impact of COVID-19 on the spatio-temporal mobility patterns of microtransit",
+      "year": 2021,
+      "journal": "Journal of Transport Geography",
+      "authors": [
+        "Yirong Zhou",
+        "Xiaoyue Cathy Liu",
+        "Tony H. Grubesic"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jtrangeo.2021.103226",
+      "added_date": "2026-06-10",
+      "summary": "Zhou et al. published \"Unravel the impact of COVID-19 on the spatio-temporal mobility patterns of microtransit\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W3091457288",
+      "doi": "10.1080/23249935.2020.1820625",
+      "title": "A user-operator assignment game with heterogeneous user groups for empirical evaluation of a microtransit service in Luxembourg",
+      "year": 2020,
+      "journal": "Transportmetrica A Transport Science",
+      "authors": [
+        "Tai-Yu Ma",
+        "Joseph Y.J. Chow",
+        "Sylvain Klein",
+        "Ziyi Ma"
+      ],
+      "abstract": "We tackle the problem of evaluating the impact of different operation policies on the performance of a microtransit service. This study is the first empirical application using the stable matching modelling framework to evaluate different operation cost allocation and pricing mechanisms on microtransit service. We extend the deterministic stable matching model to a stochastic reliability-based one to consider user's heterogeneous perceptions of utility on the service routes. The proposed model is applied to the evaluation of Kussbus microtransit service in Luxembourg. We found that the current Kussbus operation is not a stable outcome. By reducing their route operating costs of 50%, it is expected to increase the ridership of 10%. If Kussbus can reduce in-vehicle travel time on their own by 20%, they can significantly increase profit several folds from the baseline.",
+      "url": "https://doi.org/10.1080/23249935.2020.1820625",
+      "added_date": "2026-06-10",
+      "summary": "Ma et al. conducted a study focusing on the evaluation of a microtransit service using a stochastic reliability-based stable matching model and found that the current Kussbus operation is not a stable outcome.",
+      "tags": [
+        "evaluation",
+        "policy"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3094775311",
+      "doi": "10.1109/mic.2020.3018038",
+      "title": "Reimagining Ride Sharing: Efficient, Equitable, Sustainable Public Microtransit",
+      "year": 2020,
+      "journal": "IEEE Internet Computing",
+      "authors": [
+        "Eleni Bardaka",
+        "Leila Hajibabai",
+        "Munindar P. Singh"
+      ],
+      "abstract": "This article approaches ride sharing from the perspectives of equity and sustainability. A lack of transportation access exacerbates the challenges faced by transportation-disadvantaged individuals and communities, reducing opportunities for employment and civic engagement. This article presents a vision for public microtransit geared toward addressing today's disparities in transportation access. Through a methodology focused on user requirements and values, a user experience promoting cooperation, and an equity-based optimal resource allocation, it shows how cooperative ride sharing can realize an efficient, equitable, and sustainable public microtransit system.",
+      "url": "https://doi.org/10.1109/mic.2020.3018038",
+      "added_date": "2026-06-10",
+      "summary": "Bardaka et al. conducted a study focusing on ride sharing using a methodology centred on user requirements and values and found that cooperative ride sharing could realise an efficient, equitable, and sustainable public microtransit system.",
+      "tags": [
+        "equity",
+        "environment"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3037355940",
+      "doi": "",
+      "title": "Spectrum of Public Transit Operations: From Fixed Route to Microtransit",
+      "year": 2020,
+      "journal": "",
+      "authors": [
+        "Joseph Y.J. Chow",
+        "Srushti Rath",
+        "Gyugeun Yoon",
+        "Patrick Scalise",
+        "Sara Alanis Saenz"
+      ],
+      "abstract": "",
+      "url": "https://trid.trb.org/view/1705122",
+      "added_date": "2026-06-10",
+      "summary": "Chow et al. published \"Spectrum of Public Transit Operations: From Fixed Route to Microtransit\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     }
   ]
 }
