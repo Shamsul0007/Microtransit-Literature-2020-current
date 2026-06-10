@@ -1,0 +1,58 @@
+name: Update literature database
+
+# Runs every Monday at 06:00 UTC, and whenever you trigger it by hand.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+    inputs:
+      max_per_run:
+        description: "Max NEW papers to process this run (raise during backfill)"
+        default: "40"
+
+permissions:
+  contents: write      # to commit the updated data file
+  models: read         # to use GitHub Models (the free summariser)
+
+# Stop two runs from fighting over the same file.
+concurrency:
+  group: lit-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update database
+        env:
+          LLM_PROVIDER: github
+          # The built-in token can use GitHub Models thanks to `models: read` above.
+          # If your org blocks that, create a PAT with the `models:read` scope,
+          # save it as the secret GH_MODELS_TOKEN, and it will be used instead.
+          GITHUB_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN || secrets.GITHUB_TOKEN }}
+          OPENALEX_MAILTO: ${{ vars.OPENALEX_MAILTO }}
+          MAX_PER_RUN: ${{ github.event.inputs.max_per_run || '40' }}
+        run: python scripts/update_database.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/papers.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update literature database ($(date -u +%Y-%m-%d))"
+            git push
+          fi
