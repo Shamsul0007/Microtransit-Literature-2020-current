@@ -1,0 +1,50 @@
+{
+  "updated_at": "sample",
+  "count": 4,
+  "papers": [
+    {
+      "id": "sample-1",
+      "sample": true,
+      "year": 2024,
+      "title": "Identifying connector versus full-trip users of a microtransit service",
+      "authors": ["A. Rivera", "M. Chen"],
+      "journal": "Case Studies on Transport Policy",
+      "url": "#",
+      "tags": ["demand", "fmlm", "equity"],
+      "summary": "Rivera et al. conducted a study in a mid-sized US metro focusing on how riders use a microtransit zone, using survey data and regression, and find that connector trips were associated with younger, transit-dependent riders."
+    },
+    {
+      "id": "sample-2",
+      "sample": true,
+      "year": 2023,
+      "title": "Fleet sizing and rebalancing for on-demand shared rides",
+      "authors": ["J. Okafor"],
+      "journal": "Transportation Research Part C",
+      "url": "#",
+      "tags": ["operations", "technology"],
+      "summary": "Okafor et al. conducted a simulation study focusing on fleet sizing for on-demand services using an agent-based model, and find that proactive rebalancing was associated with shorter average wait times."
+    },
+    {
+      "id": "sample-3",
+      "sample": true,
+      "year": 2022,
+      "title": "Free-floating carsharing membership and car ownership",
+      "authors": ["L. Bianchi", "S. Park", "T. Adeyemi"],
+      "journal": "Transport Policy",
+      "url": "#",
+      "tags": ["carsharing", "demand", "environment"],
+      "summary": "Bianchi et al. conducted a study in several European cities focusing on free-floating carsharing using panel survey data, and find that sustained membership was associated with reduced household car ownership."
+    },
+    {
+      "id": "sample-4",
+      "sample": true,
+      "year": 2021,
+      "title": "Demand-responsive transit during the pandemic: a service-change review",
+      "authors": ["R. Haddad"],
+      "journal": "Journal of Public Transportation",
+      "url": "#",
+      "tags": ["covid", "evaluation", "policy"],
+      "summary": "Haddad et al. conducted a review focusing on demand-responsive service adjustments during COVID-19 using operator records, and find that flexible services were associated with faster ridership recovery than fixed routes."
+    }
+  ]
+}

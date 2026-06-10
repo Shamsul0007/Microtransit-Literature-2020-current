@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Microtransit & shared-mobility literature tracker</title>
+  <meta name="description" content="A continuously updated catalogue of microtransit, demand-responsive transit, and carsharing research (2020–2026)." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="masthead wrap">
+    <p class="masthead__eyebrow">On-demand mobility research · 2020–2026</p>
+    <h1 class="masthead__title">Microtransit &amp; shared-mobility literature tracker</h1>
+    <p class="masthead__lede">
+      A self-updating catalogue of research on microtransit, on-demand and
+      demand-responsive transit, and carsharing. New papers are found, summarised,
+      and filed under their subgroups automatically each week.
+    </p>
+    <div class="routeline" id="routeline" aria-hidden="true"></div>
+    <div class="masthead__meta">
+      <span><b id="meta-count">—</b> papers</span>
+      <span>updated <b id="meta-updated">—</b></span>
+      <span><b id="meta-lines">11</b> route lines</span>
+    </div>
+  </header>
+
+  <div class="banner wrap" id="sample-banner" hidden>
+    <span>⚠</span>
+    <span>Showing built-in sample papers so you can see the layout. Run the update
+    workflow once and real papers will replace these automatically.</span>
+  </div>
+
+  <section class="controls">
+    <div class="wrap">
+      <div class="controls__row">
+        <label class="search">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+          <input id="search" type="search" placeholder="Search titles, authors, journals, summaries…" autocomplete="off" />
+        </label>
+        <select class="sort" id="sort" aria-label="Sort papers">
+          <option value="year-desc">Newest first</option>
+          <option value="year-asc">Oldest first</option>
+          <option value="title">Title A–Z</option>
+          <option value="added">Recently added</option>
+        </select>
+      </div>
+      <div class="lines" id="lines"></div>
+    </div>
+  </section>
+
+  <main class="wrap">
+    <p class="count" id="count"></p>
+    <div class="list" id="list"></div>
+    <div class="empty" id="empty" hidden></div>
+  </main>
+
+  <footer class="wrap">
+    Built on open data from OpenAlex · summaries are machine-generated from
+    abstracts and may need checking against the source.
+  </footer>
+
+  <!-- Fallback data so the page renders before the real data file exists.
+       The real catalogue is data/papers.json, written by the update job. -->
+  <script>
+    window.__SAMPLE__ = {
+      updated_at: "sample",
+      papers: [
+        {
+          id: "sample-1", sample: true, year: 2024,
+          title: "Identifying connector versus full-trip users of a microtransit service",
+          authors: ["A. Rivera", "M. Chen"], journal: "Case Studies on Transport Policy",
+          url: "#", tags: ["demand", "fmlm", "equity"],
+          summary: "Rivera et al. conducted a study in a mid-sized US metro focusing on how riders use a microtransit zone, using survey data and regression, and find that connector trips were associated with younger, transit-dependent riders."
+        },
+        {
+          id: "sample-2", sample: true, year: 2023,
+          title: "Fleet sizing and rebalancing for on-demand shared rides",
+          authors: ["J. Okafor"], journal: "Transportation Research Part C",
+          url: "#", tags: ["operations", "technology"],
+          summary: "Okafor et al. conducted a simulation study focusing on fleet sizing for on-demand services using an agent-based model, and find that proactive rebalancing was associated with shorter average wait times."
+        },
+        {
+          id: "sample-3", sample: true, year: 2022,
+          title: "Free-floating carsharing membership and car ownership",
+          authors: ["L. Bianchi", "S. Park", "T. Adeyemi"], journal: "Transport Policy",
+          url: "#", tags: ["carsharing", "demand", "environment"],
+          summary: "Bianchi et al. conducted a study in several European cities focusing on free-floating carsharing using panel survey data, and find that sustained membership was associated with reduced household car ownership."
+        },
+        {
+          id: "sample-4", sample: true, year: 2021,
+          title: "Demand-responsive transit during the pandemic: a service-change review",
+          authors: ["R. Haddad"], journal: "Journal of Public Transportation",
+          url: "#", tags: ["covid", "evaluation", "policy"],
+          summary: "Haddad et al. conducted a review focusing on demand-responsive service adjustments during COVID-19 using operator records, and find that flexible services were associated with faster ridership recovery than fixed routes."
+        }
+      ]
+    };
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
