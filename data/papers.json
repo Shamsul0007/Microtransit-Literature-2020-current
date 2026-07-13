@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06",
-  "count": 240,
+  "updated_at": "2026-07-13",
+  "count": 280,
   "papers": [
     {
       "id": "https://openalex.org/W7148493868",
@@ -43,6 +43,52 @@
       "summary": "Li et al. published \"Anticipatory demand planning for microtransit with strategic use of latent capacity at fixed stops\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7164644099",
+      "doi": "10.20858/tp.2026.21.2.1",
+      "title": "ASSESSING URBAN EQUITY THROUGH SPATIAL ACCESSIBILITY: A COMPARATIVE ANALYSIS OF BRT SYSTEMS IN INDONESIAN COASTAL CITIES",
+      "year": 2026,
+      "journal": "Transport Problems",
+      "authors": [
+        "A R Rakhmatulloh",
+        "Diah Intan Kusumo Dewi",
+        "Czarvito Oscar AKSANA",
+        "Muhammad Helmi Candra"
+      ],
+      "abstract": "This study examines the relationship between public transport provision and urban equity through a comparative spatial analysis of bus rapid transit (BRT) systems in two Indonesian coastal cities: Jakarta and Semarang. The novelty of this study lies in its comparative spatial analysis of BRT accessibility between a metropolitan and an intermediate coastal city, highlighting how contrasting urban morphologies shape spatial equity outcomes in developing coastal contexts. Using a geographic information system based approach, the research evaluates residential coverage within a 500-m walking buffer as a proxy for accessibility equity. The findings reveal that while Jakarta’s extensive BRT corridors coexist with urban sprawl and severe congestion, Semarang’s more compact urban form enables higher spatial inclusion of its residents. These results highlight how differing urban structures and governance capacities shape patterns of transport accessibility. However, as equity is assessed primarily through spatial accessibility, the findings should be interpreted as a spatial approximation rather than a comprehensive measure of transport equity. To address identified disparities, this study proposes targeted mitigation strategies, including the integration of feeder and microtransit services to improve first–last mile connectivity in Jakarta’s peripheral areas, as well as the application of transit-oriented development (TOD) and land-use control measures to promote compact growth around BRT corridors. In Semarang, strategies focus on strengthening intermodal integration and preventing future urban sprawl to maintain high coverage efficiency. Despite limitations in temporal and socio-economic data, this research provides important insights for advancing more equitable and resilient transport planning in rapidly growing coastal cities.",
+      "url": "https://doi.org/10.20858/tp.2026.21.2.1",
+      "added_date": "2026-07-13",
+      "summary": "Rakhmatulloh et al. conducted a study focusing on urban equity through a comparative spatial analysis of bus rapid transit (BRT) systems and found that Jakarta’s extensive BRT corridors coexist with urban sprawl and severe congestion, while Semarang’s more compact urban form enables higher spatial inclusion of its residents.",
+      "tags": [
+        "equity",
+        "fmlm",
+        "planning"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7164648406",
+      "doi": "10.20858/tp.2026.21.2.12",
+      "title": "ASSESSING URBAN EQUITY THROUGH SPATIAL ACCESSIBILITY: A COMPARATIVE ANALYSIS OF BRT SYSTEMS IN INDONESIAN COASTAL CITIES",
+      "year": 2026,
+      "journal": "Transport Problems",
+      "authors": [
+        "A R Rakhmatulloh",
+        "Diah Intan Kusumo Dewi",
+        "Czarvito Oscar AKSANA",
+        "Muhammad Helmi Candra"
+      ],
+      "abstract": "This study examines the relationship between public transport provision and urban equity through a comparative spatial analysis of bus rapid transit (BRT) systems in two Indonesian coastal cities: Jakarta and Semarang. The novelty of this study lies in its comparative spatial analysis of BRT accessibility between a metropolitan and an intermediate coastal city, highlighting how contrasting urban morphologies shape spatial equity outcomes in developing coastal contexts. Using a geographic information system based approach, the research evaluates residential coverage within a 500-m walking buffer as a proxy for accessibility equity. The findings reveal that while Jakarta’s extensive BRT corridors coexist with urban sprawl and severe congestion, Semarang’s more compact urban form enables higher spatial inclusion of its residents. These results highlight how differing urban structures and governance capacities shape patterns of transport accessibility. However, as equity is assessed primarily through spatial accessibility, the findings should be interpreted as a spatial approximation rather than a comprehensive measure of transport equity. To address identified disparities, this study proposes targeted mitigation strategies, including the integration of feeder and microtransit services to improve first–last mile connectivity in Jakarta’s peripheral areas, as well as the application of transit-oriented development (TOD) and land-use control measures to promote compact growth around BRT corridors. In Semarang, strategies focus on strengthening intermodal integration and preventing future urban sprawl to maintain high coverage efficiency. Despite limitations in temporal and socio-economic data, this research provides important insights for advancing more equitable and resilient transport planning in rapidly growing coastal cities.",
+      "url": "https://doi.org/10.20858/tp.2026.21.2.12",
+      "added_date": "2026-07-13",
+      "summary": "Rakhmatulloh et al. conducted a study focusing on urban equity through a comparative spatial analysis of bus rapid transit (BRT) systems and found that Jakarta’s extensive BRT corridors coexist with urban sprawl and severe congestion, while Semarang’s more compact urban form enables higher spatial inclusion of its residents.",
+      "tags": [
+        "equity",
+        "fmlm",
+        "planning"
+      ],
+      "needs_review": false
     },
     {
       "id": "https://openalex.org/W7164159551",
@@ -204,6 +250,72 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7163159727",
+      "doi": "10.1016/j.procs.2026.04.038",
+      "title": "Identifying ridehail riders through pairing ActivitySim and BEAM",
+      "year": 2026,
+      "journal": "Procedia Computer Science",
+      "authors": [
+        "Gregory S. Macfarlane",
+        "Christopher Day",
+        "Gregory D. Erhardt",
+        "Kari E. Watkins"
+      ],
+      "abstract": "The advent of on-demand transport modes such as ride-hailing and microtransit has challenged forecasters to develop new methods of forecasting the use and impacts of such modes. In particular, there is some professional disagreement about the relative role of activity-based transportation behavior models — which have detailed understanding of the person making a trip and its purpose — and multi-agent demand simulations which may have a better understanding of the availability and service characteristics of on-demand services. A particular question surrounds how the relative strengths of these two approaches might be successfully paired in practice. Using daily plans generated by the activity-based model ActivitySim as inputs to the BEAM multi-agent simulation, we construct nine different methodological combinations by allowing the choice to use a pooled ride-hail service in ActivitySim, in BEAM with different utility functions, or in both. Within each combination, we estimate ride-hailing ridership and level of service measures. The results suggest that mode choice model structure drastically affects ride-hailing ridership and level of service. In addition, we see that multi-agent simulation overstates the demand interest relative to an activity-based model, but there may be opportunities in future research to implement feedback loops to balance the ridership and level of service forecasts between the two models.",
+      "url": "https://doi.org/10.1016/j.procs.2026.04.038",
+      "added_date": "2026-07-13",
+      "summary": "Macfarlane et al. conducted a study focusing on ride-hailing ridership using ActivitySim and BEAM and found that mode choice model structure drastically affected ride-hailing ridership and level of service.",
+      "tags": [
+        "demand",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7167349053",
+      "doi": "10.1016/j.tranpol.2026.104284",
+      "title": "Microtransit in rural and small urban contexts: A qualitative analysis of system characteristics, benefits, and challenges",
+      "year": 2026,
+      "journal": "Transport Policy",
+      "authors": [
+        "Adrianna L. Fragozo-Alvernia",
+        "V. Dimitra Pyrialakou",
+        "Eleni Bardaka",
+        "Nikhil Menon",
+        "Lisa L. Losada-Rojas"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tranpol.2026.104284",
+      "added_date": "2026-07-13",
+      "summary": "Fragozo-Alvernia et al. published \"Microtransit in rural and small urban contexts: A qualitative analysis of system characteristics, benefits, and challenges\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7167335710",
+      "doi": "10.54941/ahfe1007633",
+      "title": "Microtransit Use in Rural Communities: Exploring Persuasive Messaging to Promote Prosocial Behavior",
+      "year": 2026,
+      "journal": "AHFE international",
+      "authors": [
+        "Christopher Mayhorn",
+        "Douglas T. Jonides",
+        "Akhira Watson",
+        "Eleni Bardaka",
+        "Munindar P. Singh"
+      ],
+      "abstract": "Microtransit is a rapidly growing transportation option being used by rural communities that lack traditional shared public transportation (e.g., buses, etc.). It offers a shared, technology-enabled solution with flexible, on-demand access to transit booked through a smartphone application at a low cost. In 2020, the City of Wilson, North Carolina implemented the RIDE microtransit system. As popularity and service demands grew higher, unserved trip requests increased. Treating the RIDE system as a computational sociotechnical system, this work seeks to leverage user-technology interaction to facilitate adaptive resource allocation thereby promoting system efficiency. Ten focus groups were conducted with 74 community-dwelling RIDE users to assess RIDE usage and user preferences. To explore how messaging might influence the likelihood of prosocial behavior, participants were exposed to persuasive messaging designed to request voluntary changes to their travel plans (i.e., shifting pickup time or walking further to the pickup point) to assist other, more vulnerable users including elderly and disabled individuals. Over two iterations, focus group participants evaluated 32 persuasive message prototypes designed with combinations of persuasive principles popularized by Cialdini (2007) such as social proof, liking/similarity, commitment/consistency, and reciprocity. Results indicated that messages using the principle or reciprocity consistently resulted in a higher self-reported likelihood of altering travel plans. Likewise, messages that benefited vulnerable users consistently resulted in higher likelihood of altering travel plans. Discussion focuses on next steps in the research process and elaborates on how such human factors-related information will be useful during system algorithm development.",
+      "url": "https://doi.org/10.54941/ahfe1007633",
+      "added_date": "2026-07-13",
+      "summary": "Mayhorn et al. conducted a study focusing on persuasive messaging to promote prosocial behaviour using focus groups and found that messages benefiting vulnerable users resulted in a higher likelihood of altering travel plans.",
+      "tags": [
+        "demand",
+        "equity",
+        "technology"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W7147293875",
       "doi": "10.1145/3797823.3797862",
       "title": "Optimal Location and Allocation in Shared Mobility Services via Semi-discrete Optimal Transport and Simulated Annealing",
@@ -264,6 +376,44 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7140219913",
+      "doi": "10.1080/23754931.2026.2646852",
+      "title": "Quantifying the Accessibility to Public Transit in Rural Areas Using ArcGIS and GTFS",
+      "year": 2026,
+      "journal": "Papers in Applied Geography",
+      "authors": [
+        "Jiaqi Liu",
+        "Eric Rosenberg"
+      ],
+      "abstract": "We explore public transit accessibility in Cumberland County, New Jersey, focusing on service frequency, inter-arrival times, and transit equity. While most existing research has centered on urban areas, we examine accessibility in a rural context. Using General Transit Feed Specification (GTFS) data and ArcGIS, we identify patterns in transit availability, highlighting gaps in coverage during off-peak hours and extended wait times. Lacking actual demand data, we assume demand is proportional to population at the census block level, and thus our results create a supply-side composite index of accessibility which identifies areas of limited accessibility and potential spatial inequity. A composite accessibility index provides insights into the spatial distribution of transit resources and their alignment with population needs. Beyond its rural focus, this methodology offers an adaptable framework for assessing transit accessibility in any geographic region for diverse contexts. The findings emphasize the need for improved data quality, expanded transit options, and more equitable service delivery. Recommendations include the implementation of centralized express stops and enhancements to demand-response transit systems through microtransit technologies. The contribution of this paper is combining composite indexing, GTFS data and ethnicity-weighted analysis in a rural county, a methodology not commonly applied together in this context.",
+      "url": "https://doi.org/10.1080/23754931.2026.2646852",
+      "added_date": "2026-07-13",
+      "summary": "Liu et al. conducted a study in Cumberland County, New Jersey, focusing on public transit accessibility using GTFS data and ArcGIS and found that there were gaps in coverage during off-peak hours and extended wait times, highlighting potential spatial inequity in transit resources.",
+      "tags": [
+        "equity",
+        "planning"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7167819161",
+      "doi": "10.1016/j.cstp.2026.101907",
+      "title": "Rural microtransit service to replace fixed route service: A California case study",
+      "year": 2026,
+      "journal": "Case Studies on Transport Policy",
+      "authors": [
+        "Matthew Liu",
+        "Kari Watkins",
+        "Susan Pike"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cstp.2026.101907",
+      "added_date": "2026-07-13",
+      "summary": "Liu et al. published \"Rural microtransit service to replace fixed route service: A California case study\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W7155798486",
@@ -408,6 +558,28 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4406238849",
+      "doi": "10.1016/j.tra.2024.104372",
+      "title": "A simulation-based framework for quantifying potential demand loss due to operational constraints in automated mobility services",
+      "year": 2025,
+      "journal": "Transportation Research Part A Policy and Practice",
+      "authors": [
+        "Serio Agriesti",
+        "Claudio Roncoli",
+        "Bat-hen Nahmias–Biran"
+      ],
+      "abstract": "Automated vehicles are key to unlock a more widespread on-demand service, increasing accessibility also in peripheral areas of large cities. To evaluate how the performance of these services may affect the overall demand in return, multiple dimensions of the transport problem have to be considered. Indeed, despite people may be willing to use Automated Mobility On-Demand (i.e., generating a potential demand for the service), they may be less willing to consistently replace their other travel options if they, for example, experience high waiting times (determined by the performance of the service, i.e., the supply). In this study, we propose a simulation-based framework developed by integrating an activity-based and a dynamic traffic assignment model, designed to frame absorbed and lost demand at a disaggregated level. This allows capturing how the effects of network congestion and fleet constraints may cause a certain portion of the demand to shift to traditional modes of transportation, thus improving, for example, the accuracy of business cases for mobility service design or of hidden patterns of inequality for policymakers and public authorities.",
+      "url": "https://doi.org/10.1016/j.tra.2024.104372",
+      "added_date": "2026-07-13",
+      "summary": "Agriesti et al. conducted a study focusing on automated mobility services using a simulation-based framework and found that network congestion and fleet constraints may cause a portion of the demand to shift to traditional modes of transportation.",
+      "tags": [
+        "demand",
+        "equity",
+        "planning"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4413395781",
       "doi": "10.3390/futuretransp5030108",
       "title": "Bayesian Predictive Model for Electric Level 4 Connected Automated Vehicle Adoption",
@@ -424,6 +596,46 @@
         "demand",
         "policy",
         "technology"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4406808346",
+      "doi": "10.3389/frsc.2024.1466707",
+      "title": "Climate change response measures in South African road transport sector: lessons from BRICS countries",
+      "year": 2025,
+      "journal": "Frontiers in Sustainable Cities",
+      "authors": [
+        "Maijane M. Mashamaite"
+      ],
+      "abstract": "Climate change can be mainstreamed into road transport sector and its policies by integrating mitigation actions, focusing on Green-House Gas (GHG) emission reduction, and building adaptive capacity for a climate-resilient road transport sector. Although research frequently emphasizes the difficulties of adaptation, this article explores the influence of climate change on the road transport network and examines how road transport contributes to climate change. Factors such as experiencing the costs of climate change, valuing the local ecosystem, resources availability, and political will is key to successful adaptation efforts. This article used desk research to gather information on mitigation and adaptation actions adopted by BRICS countries from various sources like government documents, the internet, books, articles and scientific reviews. It is therefore, deduced that BRICS countries can promote climate-friendly transport by prioritizing green logistics, green innovation and renewable natural resources, while promoting sustainable development and supporting renewable energy. BRICS represents Brazil, Russia, India, China, and South Africa, a group of developing economies working together to strengthen their economic and political influence. This article draws lessons from BRICS countries and conclude that South Africa should decrease fossil fuel use in the road transport sector for climate-friendly options.",
+      "url": "https://doi.org/10.3389/frsc.2024.1466707",
+      "added_date": "2026-07-13",
+      "summary": "Mashamaite et al. conducted a study focusing on climate change response measures in the South African road transport sector using desk research and found that BRICS countries can promote climate-friendly transport by prioritising green logistics and renewable energy while South Africa should decrease fossil fuel use in the road transport sector for climate-friendly options.",
+      "tags": [
+        "policy",
+        "environment"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4410876513",
+      "doi": "10.1016/j.jth.2025.102081",
+      "title": "Combining walkability assessments at different scales in measuring spatial inequalities in access to railway stations",
+      "year": 2025,
+      "journal": "Journal of Transport & Health",
+      "authors": [
+        "Gabriele D’Orso",
+        "Muhammad Yasir",
+        "Marco Migliore"
+      ],
+      "abstract": "Introduction One of the goals of Agenda 2030 is to make cities inclusive, safe, and sustainable, promoting transport and social equity. One of the ways to promote social inclusion is encouraging people to use efficient and affordable mass rapid transit services. Therefore, ensuring good pedestrian accessibility to railway stations is a priority for policymakers. In this perspective, it is not surprising that 15-min cities and transit-oriented development are widely debated concepts and applied with policies encouraging sustainable transportation modes and building inclusive communities. However, disparities in policy practice seem to exist between suburban areas and cores in many European cities. Indeed, the quality of pedestrian infrastructure is not at the same level in different areas, creating disadvantaged communities with lower access to public transport services and forced to be car-dependent. Method Presenting a case study, the paper aims to investigate the impacts of road connectivity and pedestrian network quality on spatial and social equity in access railway stations. Fourteen railway stations in Palermo (Italy) were analyzed. The paper proposes a GIS-based approach combining walkability assessments at different scales. Firstly, walkability around railway stations was analyzed considering meso-scale indicators related to road connectivity (road density, intersection density, Ped-shed ratio). Secondarily, since quality-related factors are crucial in evaluating pedestrian accessibility, three criteria (practicability, safety, and pleasantness) to evaluate street-level walkability around railway stations are defined based on the literature. Results Combining both the assessments, big disparities in accessibility between railway stations located in suburban areas and city centre were found. Poor accessibility in suburbs represents a social equity problem, undermining the effectiveness of rail services as equitable modes of transportation. Conclusions This approach can be a decision-support tool, identifying what priority measures are needed and where to improve the quality of the pedestrian network to support public transport use in suburban areas.",
+      "url": "https://doi.org/10.1016/j.jth.2025.102081",
+      "added_date": "2026-07-13",
+      "summary": "D’Orso et al. conducted a study in Palermo focusing on spatial inequalities in access to railway stations using a GIS-based approach and found that there were significant disparities in accessibility between railway stations located in suburban areas and the city centre.",
+      "tags": [
+        "equity",
+        "planning"
       ],
       "needs_review": false
     },
@@ -452,6 +664,34 @@
         "planning",
         "fmlm",
         "demand"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7111298005",
+      "doi": "10.1051/e3sconf/202566409015/pdf",
+      "title": "Comparative parameters of travel behavior in medium-sized cities (Case study: Bandung, Indonesia, and Kuantan, Malaysia)",
+      "year": 2025,
+      "journal": "Springer Link (Chiba Institute of Technology)",
+      "authors": [
+        "Yackob Astor",
+        "R.D.R.B. Prayogo",
+        "Risna Rismiana Sari",
+        "A.M.S. Sufanir",
+        "Linda Aisyah",
+        "Askia Esa Aulia",
+        "Lilla Anjani Birahmatika",
+        "Nur Fahriza Mohd Ali",
+        "Anwar P.P. Abdul Majeed"
+      ],
+      "abstract": "The analysis of travel behavior constitutes a fundamental component in urban transportation studies. This study examines Bandung, Indonesia, and Kuantan, Malaysia, as representative medium-sized cities with distinct road network typologies: radial-concentric in Bandung and corridor-based in Kuantan. A systematic literature review was employed to identify ten parameters of travel behavior, which were further evaluated using descriptive comparison, SWOT analysis, and radar chart visualization. The findings indicate that Bandung’s transport system is primarily dominated by paratransit and ride-sourcing services, which provide substantial flexibility and local accessibility. However, the system is constrained by weaknesses in reliability, comfort, safety, and integration with formal modes. In contrast, Kuantan demonstrates relative strengths through its formalized bus system (Rapid Kuantan), which ensures standardized fares, higher comfort levels, and improved safety, although challenges remain in terms of flexibility, last-mile connectivity, and schedule adherence. SWOT analysis underscores complementary opportunities, with Bandung requiring formalization and digital integration of paratransit, while Kuantan could enhance adaptability through feeder and microtransit services. The radar chart highlights a trade-off between flexibility and service quality, confirming that medium-sized cities must balance these dimensions. Overall, the study develops a transferable ten- parameter framework for comparative assessment of travel behavior, contributing to transport planning strategies in rapidly urbanizing contexts.",
+      "url": "https://openalex.org/W7111298005",
+      "added_date": "2026-07-13",
+      "summary": "Astor et al. conducted a study focusing on travel behaviour using a systematic literature review and found that Bandung's transport system is dominated by paratransit and ride-sourcing services, while Kuantan's strengths lie in its formalized bus system, highlighting a trade-off between flexibility and service quality in medium-sized cities.",
+      "tags": [
+        "planning",
+        "demand",
+        "evaluation"
       ],
       "needs_review": false
     },
@@ -564,6 +804,27 @@
         "evaluation",
         "equity",
         "technology"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7122420593",
+      "doi": "10.22225/jipe.4.2.2025.72-82",
+      "title": "Evaluation of multimodal transportation integration facilities at Serang station",
+      "year": 2025,
+      "journal": "Journal of Infrastructure Planning and Engineering (JIPE)",
+      "authors": [
+        "Anggun Oktaviani",
+        "Muhammad Oka Mahendra"
+      ],
+      "abstract": "This study aims to evaluate the performance of multimodal transportation integration facilities at Serang Station, a major transportation hub in the Jakarta-Merak corridor serving 15,000 passengers per day. Key issues identified include fragmented pedestrian paths, a 450 m intermodal distance exceeding the 300 m TOD standard (SNI 03-7065-2005), limited covered waiting areas, and a lack of directional signs. This evaluation addresses the urgent need to improve travel efficiency and user satisfaction, contributing to sustainable urban development and reducing economic losses due to congestion. The Customer Satisfaction Index (CSI) was used to measure user perceptions of 16 facility attributes, and Importance-Performance Analysis (IPA) was used to prioritize improvements based on the gap between expectations and performance. The results showed very low levels of satisfaction with disabled access (CSI = 20%), lighting, zebra crossings, and bus stops (CSI = 20–46%), far below the average CSI of 52.52%, making them top priorities for improvement. Meanwhile, cleanliness, public restrooms, and gentle slopes meet user expectations. Recommendations include improved lighting, a microtransit hub within a 500-meter radius, additional trash bins, improved access for the disabled, improved markings/signage, and the construction of protected bus stops to support equitable, efficient, and sustainable urban mobility.",
+      "url": "https://doi.org/10.22225/jipe.4.2.2025.72-82",
+      "added_date": "2026-07-13",
+      "summary": "Oktaviani et al. conducted a study at Serang Station focusing on multimodal transportation integration facilities using the Customer Satisfaction Index and Importance-Performance Analysis and found that disabled access, lighting, zebra crossings, and bus stops had very low satisfaction levels, making them top priorities for improvement.",
+      "tags": [
+        "evaluation",
+        "equity",
+        "planning"
       ],
       "needs_review": false
     },
@@ -739,6 +1000,29 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4415780493",
+      "doi": "10.1038/s44333-025-00056-2",
+      "title": "Mobilizing transport justice: a sufficientarian optimization framework for intermodal mobility systems",
+      "year": 2025,
+      "journal": "npj Sustainable Mobility and Transport",
+      "authors": [
+        "Mauro Salazar",
+        "Sara Betancur Giraldo",
+        "Fabio Paparella",
+        "Leonardo Pedroso",
+        "Karel Martens"
+      ],
+      "abstract": "Most applied research on transport justice focuses on evaluating existing systems, while transport planning typically relies on utilitarian objectives such as minimizing average travel time, without accounting for fairness. This paper starts to bridge this gap by applying different principles of justice to the operational planning of transport systems. We use an intermodal Autonomous Mobility-on-Demand system—centrally controlled self-driving vehicles cooperating with public transit and active modes—as a case study to improve conditions for users without access to private cars. We define and compare justice metrics that differ in both their distributive principle and the good of concern: utilitarianism applied to travel time, and sufficientarianism applied to either travel time or accessibility. A real-world case study in Eindhoven, the Netherlands, shows that these principles lead to different planning outcomes, highlighting the need for a broader debate on their implications. The results underscore the value of transdisciplinary and conceptually informed approaches to transport planning and system optimization.",
+      "url": "https://doi.org/10.1038/s44333-025-00056-2",
+      "added_date": "2026-07-13",
+      "summary": "Salazar et al. conducted a study focusing on transport justice using an intermodal Autonomous Mobility-on-Demand system and found that different principles of justice lead to varying planning outcomes.",
+      "tags": [
+        "planning",
+        "equity"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4412524947",
       "doi": "10.1007/s12469-025-00397-8",
       "title": "On demand-responsive transport configurations, traveller interaction and preferences: a survey from the perspective of older people",
@@ -862,6 +1146,28 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4409247240",
+      "doi": "10.59490/ejtir.2025.25.2.7742",
+      "title": "Revealed demand patterns of people with disabilities in on-demand ridepooling",
+      "year": 2025,
+      "journal": "European journal of transport and infrastructure research",
+      "authors": [
+        "Nico Kuehnel",
+        "Felix Zwick",
+        "Tom-Erik Kuhlen"
+      ],
+      "abstract": "Since 2023, the on-demand ridepooling service MOIA operates, as part of Hamburg's public transport, an integrated wheelchair-accessible service and offers subsidized fares for individuals with severe disabilities. This study analyzes one year of demand patterns in Hamburg following these enhancements, utilizing data analyses to assess their impact on service usage and accessibility. Findings reveal insights into distinct spatio-temporal user behavior, offering valuable guidance for the development of large-scale urban mobility solutions.",
+      "url": "https://doi.org/10.59490/ejtir.2025.25.2.7742",
+      "added_date": "2026-07-13",
+      "summary": "Kuehnel et al. conducted a study in Hamburg focusing on demand patterns of people with disabilities in on-demand ridepooling using data analyses and found that distinct spatio-temporal user behaviour was observed following service enhancements.",
+      "tags": [
+        "demand",
+        "equity",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W7126189149",
       "doi": "10.53558/vzlf6185",
       "title": "Rural Resilience: The Role for Innovative Public Transportation",
@@ -902,6 +1208,72 @@
       "tags": [
         "equity",
         "policy",
+        "environment"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4415014556",
+      "doi": "10.1186/s12544-025-00739-4",
+      "title": "Shared mobility adoption: transformation of travel behaviours in rural towns",
+      "year": 2025,
+      "journal": "European Transport Research Review",
+      "authors": [
+        "Julia Schilder",
+        "John Stark",
+        "Reinhard Hössinger",
+        "Yusak Susilo"
+      ],
+      "abstract": "Abstract Shared mobility has been established as a flexible and sustainable transport mode in urban areas. However, its adoption in rural communities faces unique challenges, including lower population density, limited infrastructure and socio-cultural dynamics that differ substantially from urban environments. Such factors create significant barriers to transforming travel behaviours towards shared mobility usage. This study investigates shared mobility adoption in rural towns in Lower Austria by applying Rogers’ Diffusion of Innovations (DOI) theory. We examine how factors related to DOI—relative advantage, compatibility, complexity, trialability and observability—impact the progression from initial awareness and intention to use to regular usage of shared mobility. A survey-based study recorded socio-demographic and mobility characteristics, as well as perceptions and attitudes towards shared mobility using an online questionnaire in two rural towns where shared mobility services were recently introduced. We identified correlations between DOI factors and adoption stages. Our findings suggest that while some rural residents have become frequent users, recognising the benefits of shared mobility, barriers such as a lack of visible success stories and a missing lock-in effect hinder adoption. These insights can serve for policy and practical recommendations for promoting shared mobility in rural areas to support sustainable and equitable transport solutions.",
+      "url": "https://doi.org/10.1186/s12544-025-00739-4",
+      "added_date": "2026-07-13",
+      "summary": "Schilder et al. conducted a study focusing on shared mobility adoption using a survey-based approach and found that while some rural residents recognised the benefits of shared mobility, barriers such as a lack of visible success stories hindered adoption.",
+      "tags": [
+        "demand",
+        "policy"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4416414028",
+      "doi": "10.1016/j.jpubtr.2025.100142",
+      "title": "SimFLEX: A methodology for comparative analysis of urban areas for implementing new on-demand feeder bus services",
+      "year": 2025,
+      "journal": "Journal of Public Transportation",
+      "authors": [
+        "Hanna Vasiutina",
+        "Olha Shulika",
+        "Michał Bujak",
+        "Farnoud Ghasemi",
+        "Rafał Kucharski"
+      ],
+      "abstract": "On-demand feeder bus services present an innovative solution to urban mobility challenges, yet their success depends on a thorough assessment and strategic planning. Despite their potential, a systematic methodology for selecting suitable service areas remains underdeveloped. Simulation Framework for Feeder Location Evaluation (SimFLEX) utilizes spatial, demographic, and transportation-specific characteristics to conduct simulations at a microscopic level and compute various key performance indicators (KPIs), including service attractiveness, waiting time reduction, and added value. To address the stochastic nature of demand and uncertainty embedded in mode choice, we leverage Monte Carlo analysis, capturing variability across simulated scenarios. Our framework integrates several methods for a complete assessment of feeder potential: microscopic demand generation, creation of shared rides, public transport modeling, and iterative traveler learning and stabilization approach. Once the system stabilizes, KPIs are computed for comparative and sensitivity analyzes. As a showcase for our method, we apply SimFLEX to compare two remote districts in Krakow, Poland – Bronowice and Skotniki – designated as candidates for service deployment. Despite similar urban characteristics, our analysis revealed notable differences in KPIs between the analyzed areas: Skotniki exhibited higher service attractiveness (around 30 %) and added value (up to 7 %), whereas Bronowice showed greater potential for reducing waiting times (around 77 %). To assess the robustness of SimFLEX outputs under uncertain behavioral assumptions, we conducted a sensitivity analysis across a range of alternative-specific constants. The results consistently confirmed Skotniki as the more suitable candidate for feeder service implementation, demonstrating that this conclusion holds despite variations in a key preference parameter. The SimFLEX framework can be instrumental for decision makers to estimate feeder potential for a designated area. The model’s flexibility and modular characteristics make it a versatile tool for policymakers and urban planners to enhance urban mobility.",
+      "url": "https://doi.org/10.1016/j.jpubtr.2025.100142",
+      "added_date": "2026-07-13",
+      "summary": "Vasiutina et al. conducted a study focusing on on-demand feeder bus services using the SimFLEX framework and found that Skotniki exhibited higher service attractiveness and added value, whereas Bronowice showed greater potential for reducing waiting times.",
+      "tags": [
+        "planning",
+        "fmlm",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7110362610",
+      "doi": "10.1016/j.jtrangeo.2025.104499",
+      "title": "Stuck in the driving seat: Results from a semi-urban living lab experiment with mobility services",
+      "year": 2025,
+      "journal": "Journal of Transport Geography",
+      "authors": [
+        "Mia Hesselgren",
+        "Jonas Ihlström"
+      ],
+      "abstract": "The urgency of the climate crisis necessitates new forms of mitigation, and within the transport sector, a key measure is to reduce car use. This study presents empirical findings from a 10-month living lab experiment in which participants residing in a semi-urban area were challenged to halve their car trips while gaining access to new mobility and accessibility services. The results indicate that car trips were not significantly reduced despite high levels of motivation among participants, and the offered services were not integrated into participants' everyday life. These findings underscore two key points. First, reducing car dependency and transitioning to sustainable mobility in semi-urban areas requires more than the introduction of new technologies or services. Successful integration of new mobility and accessibility services demands a comprehensive understanding of local everyday practices and their associated mobility practices. Second, it is essential to acknowledge the established role of the car in everyday life in semi-urban contexts and to promote a willingness to adapt planning and infrastructure in ways that prioritise sustainable modes of transport, and restrict car access and use. We argue that without addressing these issues, efforts to reduce car use through adding new mobility services are likely to fall short, limiting their effectiveness in achieving sustainable mobility goals.",
+      "url": "https://doi.org/10.1016/j.jtrangeo.2025.104499",
+      "added_date": "2026-07-13",
+      "summary": "Hesselgren et al. conducted a study focusing on reducing car dependency using a living lab experiment and found that car trips were not significantly reduced despite high levels of motivation among participants.",
+      "tags": [
+        "planning",
         "environment"
       ],
       "needs_review": false
@@ -1499,6 +1871,26 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4402305969",
+      "doi": "10.3390/su16177797",
+      "title": "Exploring Electric Vehicle Patent Trends through Technology Life Cycle and Social Network Analysis",
+      "year": 2024,
+      "journal": "Sustainability",
+      "authors": [
+        "Yuan Chen",
+        "Seok Swoo Cho"
+      ],
+      "abstract": "In response to environmental and energy challenges, electric vehicles (EVs) have re-emerged as a viable alternative to internal combustion engines. However, existing research lacks a comprehensive analysis of the technology life cycle of EVs in both global and South Korean contexts and offers limited strategic guidance. This study introduces a novel approach to address these gaps by integrating the S-curve model with social network analysis (SNA), time series analysis, and core applicant layouts. The study specifically utilizes the logistic curve to model technology growth. It applies SNA methods, including International Patent Classification (IPC) co-occurrence analysis and the betweenness centrality metric, to identify the stages of technological development and sustainable research directions for EVs. By analyzing patent data from 2004 to 2023, the study reveals that EV technologies have reached the saturation phase globally and in South Korea, with South Korea maintaining a two-year technological advantage. The research identifies sustainable research directions, including fast charging technology and charging infrastructure, battery monitoring and management, and artificial intelligence (AI) applications. Additionally, the study also determined the sustainability of these research directions by examining the sustainability challenges faced by EVs. These insights offer a clear view of EV technology trends and future directions, guiding stakeholders.",
+      "url": "https://doi.org/10.3390/su16177797",
+      "added_date": "2026-07-13",
+      "summary": "Chen et al. conducted a study focusing on electric vehicle patent trends using technology life cycle and social network analysis and found that electric vehicle technologies had reached the saturation phase globally and in South Korea, with South Korea maintaining a two-year technological advantage.",
+      "tags": [
+        "technology",
+        "environment"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4401021173",
       "doi": "10.1016/j.rtbm.2024.101172",
       "title": "Exploring the influence of socio-economic aspects on the use of electric scooters using machine learning applications: A case study in the city of Palermo",
@@ -1559,6 +1951,28 @@
         "planning",
         "demand",
         "environment"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4403942444",
+      "doi": "10.3390/electronics13214266",
+      "title": "Global Path Optimal Planning Method for Autonomous Vehicles Based on Image Feature Extraction",
+      "year": 2024,
+      "journal": "Electronics",
+      "authors": [
+        "QingE Wu",
+        "Fan Wu",
+        "Shaojing Song"
+      ],
+      "abstract": "In order to solve the problem of autonomous vehicles driving safely on the road while searching for optimal paths to avoid traffic congestion and obstruction, this paper establishes an optimal path planning model based on image feature extraction. The model consists of four parts: the selection of key turning points, interpolation between turning points, definition of the evaluation function, and global optimal path search. First, based on the map information provided by the network, an image feature detection algorithm was proposed, and the key turning points of the map route were selected and stored in an open table. Then, based on mechanical analysis theory, the cubic interpolation between two key turning points of the optimal path was defined. This allows the car to drive along a continuous curve with a certain arc radius, enabling it to drive smoothly, effectively avoid obstacles, and ensure safety. Then, an evaluation function is defined as needed, and different evaluation functions are specified for different road sections to avoid excessive local deviations in planning and to reduce the impact of known obstacles on the path. Finally, the cost of the search path is calculated based on the evaluation function. According to the principle of minimum cost, a globally optimal heuristic search algorithm is proposed to find the globally optimal path. Experimental results show that the proposed global optimal path planning algorithm has excellent performance, with an average accuracy of 96.71% and a search speed of 2.78 ms. The model not only provides accurate path planning and fast path selection capabilities but also has strong robustness against interference.",
+      "url": "https://doi.org/10.3390/electronics13214266",
+      "added_date": "2026-07-13",
+      "summary": "Wu et al. conducted a study focusing on optimal path planning for autonomous vehicles using image feature extraction and found that the proposed algorithm achieved an average accuracy of 96.71% and a search speed of 2.78 ms.",
+      "tags": [
+        "operations",
+        "technology",
+        "planning"
       ],
       "needs_review": false
     },
@@ -1953,6 +2367,30 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4399134302",
+      "doi": "10.1088/1757-899x/1306/1/012031",
+      "title": "Suitable solutions and EU regulatory framework of electric light mobility vehicles for last-mile delivery: an overview",
+      "year": 2024,
+      "journal": "IOP Conference Series Materials Science and Engineering",
+      "authors": [
+        "Ambra Raimondi",
+        "Giovanni Savino",
+        "J Lagrimino",
+        "G Biagioni",
+        "Niccolò Baldanzini"
+      ],
+      "abstract": "Abstract Due to current environmental European regulations in terms of pollutant emissions, electric cargo cycles are receiving growing interest compared to heavy-duty vehicles as a cheaper and healthier alternative for last-mile delivery of goods in urban and suburban areas. Within the PNRR Next Generation EU program, the Sustainable Mobility Center aims to design innovative e-cargo bikes considering technical features along with rider behaviour and infrastructure characteristics. The market offers plenty of solutions, which may differ in technical and design features. Nowadays a standardized terminology, widely shared among researchers for those light mobility vehicles does not exist. Several authors employ different terms or introduce classifications based upon the vehicle type of use or even on the vehicle layout (e.g., payload position or number of wheels). Concurrently, EU regulatory framework is undergoing rapid changes and appears unclear. Certain categories of light mobility vehicles might be ruled out from the type-approval system established by the regulation EU 168/2013. For those vehicles, harmonised standards are under drafting or approval. This situation requires a considerable effort among manufacturers in the identification of the proper product directives or regulations and the associated mandatory requirements and testing procedures for the introduction of a new vehicle model in the market. Within this context, an overview of the EU regulatory framework for these light mobility vehicles is presented. A literature evaluation with a structured and coded methodology of scientific databases, company websites and commercial reports is performed, evaluating commercial and prototype solutions of e-cargo bikes from a technical and legislative perspective. Furthermore, a case study is addressed, deepening the national legislation which rules the use of e-cargo bikes in Italy. The information provided in this work may be useful among manufacturers as a starting point for the design process of these types of vehicles. Moreover, this paper lays the foundations for a widely recognized taxonomy of e-cargo bikes based upon distinctive features.",
+      "url": "https://doi.org/10.1088/1757-899x/1306/1/012031",
+      "added_date": "2026-07-13",
+      "summary": "Raimondi et al. conducted a study focusing on electric cargo cycles for last-mile delivery using a literature evaluation and found that the EU regulatory framework for these light mobility vehicles is undergoing rapid changes and appears unclear.",
+      "tags": [
+        "policy",
+        "environment",
+        "fmlm"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4393204727",
       "doi": "10.1016/j.trip.2024.101071",
       "title": "The first mile towards access equity: Is on-demand microtransit a valuable addition to the transportation mix in suburban communities?",
@@ -2085,6 +2523,33 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4401569053",
+      "doi": "10.24857/rgsa.v18n4-177",
+      "title": "Urban Logistics and Mobility: A Framework Proposal for Sustainable Cities",
+      "year": 2024,
+      "journal": "Revista de Gestão Social e Ambiental",
+      "authors": [
+        "Francisco Willyans Costa Sales",
+        "Rodrigo Duarte Soliani",
+        "Dion Alves de Oliveira",
+        "Francisco Bezerra De Lima",
+        "Leonardo Augusto Rodrigues da Silva Nora",
+        "Thaís Diniz Reis Drumond",
+        "Herika Fernanda Dantas Montilha",
+        "Fábio Soares Pereira"
+      ],
+      "abstract": "Objective: This article aims to analyze the challenges and solutions of integrating urban logistics and urban mobility, providing insights and a framework for the development of public policies, business strategies, and future research. Theoretical Framework: The harmony between logistics and urban mobility is essential for the efficient management of cities, given its direct influence on the movement of people and goods. This integration enhances infrastructure, accessibility, social inclusion, and competitiveness while reducing operational costs. With the growth of online commerce and urbanization, it is urgent to seek a fairer and more sustainable mobility model, demanding strategic and collaborative urban planning to ensure smart and efficient cities in the future. Method: The research employed a systematic literature review (SLR) with a predefined search strategy in the Scopus and Transport Research International Documentation (TRID) databases, using specific terms related to urban logistics and mobility. This resulted in the selection of 129 studies from the period 2019-2024. The framework's development involved organizing and categorizing the extracted information. Results and Discussion: The SLR revealed the need for more comprehensive technical studies to improve urban mobility, considering geographical and cultural specificities and the local impact of infrastructure works. The high population density in metropolitan areas has increased traffic and hindered goods deliveries, emphasizing the importance of urban logistics in mitigating congestion and finding sustainable solutions. The integration of urban logistics with cities' development strategies and territorial policies is essential, requiring technological innovations and integrated public policies. Research Implications: The study proposes an integrated framework for urban logistics and mobility management, which includes components of urban planning, technology and information, incentives and public policies, as well as community engagement. It also highlights the need for future research on the impacts of emerging technologies like autonomous vehicles and delivery systems on urban logistics operations. Originality/Value: The article offers a unique perspective on the interdependence between urban logistics and urban mobility, providing a comprehensive analysis and proposing integrated strategies to enhance efficiency, sustainability, and quality of life in modern cities.",
+      "url": "https://doi.org/10.24857/rgsa.v18n4-177",
+      "added_date": "2026-07-13",
+      "summary": "Sales et al. conducted a study focusing on the integration of urban logistics and mobility using a systematic literature review and found that comprehensive technical studies are needed to improve urban mobility while considering local impacts and infrastructure.",
+      "tags": [
+        "planning",
+        "policy",
+        "environment"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4392154376",
       "doi": "10.3390/infrastructures9030042",
       "title": "Walkability Infrastructures and Urban Rebalancing: The Case Study of L’Aquila City under Post-Earthquake Reconstruction",
@@ -2103,6 +2568,27 @@
       "tags": [
         "planning",
         "policy"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4402575788",
+      "doi": "10.1145/3641308.3677394",
+      "title": "What's beyond safety? Workshop on promoting well-being for mobility users in future hybrid societies",
+      "year": 2024,
+      "journal": "",
+      "authors": [
+        "Shashank Mehrotra",
+        "Mengyao Li",
+        "Kumar Akash"
+      ],
+      "abstract": "Recent advances in automated vehicle technology could lead to a “hybrid society” with close integration of traffic participants with different mobilities. This integration will likely impact their societal acceptance as well. While traditional methods of evaluating safety may be needed, consideration for the overall well-being of traffic participants is necessary. Transportation engineering and psychology researchers have considered the well-being of the overall travel experience. However, these methods need to consider well-being while interacting with mobilities. In the proposed workshop, we plan to define and characterize more precisely what should be considered while thinking about the well-being of traffic participants, how future interactions with semi-autonomous or automated mobility systems will interact in shared spaces, and the design considerations to facilitate cooperative interactions. Through this workshop, the organizers look to integrate the findings into a research agenda, which can lead to future collaborations initiated during this event.",
+      "url": "https://doi.org/10.1145/3641308.3677394",
+      "added_date": "2026-07-13",
+      "summary": "Mehrotra et al. conducted a study focusing on the well-being of mobility users in future hybrid societies and found that consideration for overall well-being is necessary alongside traditional safety evaluations.",
+      "tags": [
+        "planning",
+        "technology"
       ],
       "needs_review": false
     },
@@ -2129,6 +2615,29 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4387035344",
+      "doi": "10.1016/j.annemergmed.2023.08.289",
+      "title": "265 Trauma Education Practices in Emergency Medicine Residencies: A Survey of Program Directors",
+      "year": 2023,
+      "journal": "Annals of Emergency Medicine",
+      "authors": [
+        "C. Lanning",
+        "Stephanie Stroever",
+        "A. Weitz",
+        "Cherisse Mecham",
+        "F. Frankovsky",
+        "Antonio Ríos",
+        "Miloš Buhavac",
+        "J. Glenn Morris"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.annemergmed.2023.08.289",
+      "added_date": "2026-07-13",
+      "summary": "Lanning et al. published \"265 Trauma Education Practices in Emergency Medicine Residencies: A Survey of Program Directors\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4387853553",
@@ -2547,6 +3056,25 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4361233622",
+      "doi": "10.26466/opusjsr.1248118",
+      "title": "Examining Women’s Intention to Use E-Scooters with Technology Acceptance Model: Istanbul Case",
+      "year": 2023,
+      "journal": "OPUS Toplum Araştırmaları Dergisi",
+      "authors": [
+        "Esra Özmen"
+      ],
+      "abstract": "The means of meeting people's needs are changing day by day. For example, the need for transportation has been provided by various vehicles until today and user satisfaction has always been taken into account. However, with the development of technology and the change in the way of meeting human needs, the level of acceptance and use of products by consumers has also changed. Scooters developed to provide ease of transportation can also be seen as a part of this change. Within the scope of the study, it was investigated at what level female participants used e-scooter technology to meet their transportation needs and at what level they accepted this technology. The factors affecting women's adoption of e-scooters are discussed in the context of the Technology Acceptance Model (TAM). The relationship between the perceived security factor within the scope of the study and the behavioral intention to use the e-scooter could not be measured. However, there are direct and indirect relationships between social impact, perceived ease of use, perceived usefulness and environmental sensitivity, and behavioral intention. As a result, inferences were made regarding the factors affecting the use of e-scooter by women.",
+      "url": "https://doi.org/10.26466/opusjsr.1248118",
+      "added_date": "2026-07-13",
+      "summary": "Özmen et al. conducted a study focusing on women's intention to use e-scooters using the Technology Acceptance Model and found that there are direct and indirect relationships between social impact, perceived ease of use, perceived usefulness and environmental sensitivity, and behavioural intention.",
+      "tags": [
+        "demand",
+        "technology"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4385065822",
       "doi": "10.3390/ijgi12070293",
       "title": "Exploring the Impact of Built Environment Factors on the Relationships between Bike Sharing and Public Transportation: A Case Study of New York",
@@ -2562,6 +3090,30 @@
       "summary": "Wei et al. published \"Exploring the Impact of Built Environment Factors on the Relationships between Bike Sharing and Public Transportation: A Case Study of New York\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4388200100",
+      "doi": "10.3390/su152115325",
+      "title": "Exploring the Impacts of COVID-19 and Lockdown on Online Car-Hailing Travel in Shanghai",
+      "year": 2023,
+      "journal": "Sustainability",
+      "authors": [
+        "Yixuan Zhou",
+        "Lei Zhang",
+        "Xu Qian",
+        "Yixiao Liu",
+        "Yuxin Zhang",
+        "Xiaoyong Wang"
+      ],
+      "abstract": "The COVID-19 pandemic and lockdown have caused serious impacts on people’s lives, especially on daily travel like online car-hailing. Understanding the impacts of the pandemic on online car-hailing travel is essential for sustainable urban planning and governance, especially during public health emergencies including COVID-19. However, few studies have delved into the in-depth patterns and interpretations of crowd behaviors and mobility variations resulting from the lockdown, especially from different perspectives. This study attempts to make contributions to this gap by building a three-step method from a macroscopic to mesoscopic perspective. A dataset of online car-hailing trajectories for 15 days in 2018 and 3 special days (before and after the lockdown) in 2022 was used. Detailed analyses of the overall spatiotemporal patterns, the flows between administrative districts, and the four-perspective investigation in the central urban area were conducted. The main findings include a dramatic plunge in ride counts for online car-hailing due to the lockdown and a significant change in human mobility associated with hospitals and traffic hubs. Our study provides insights into the understanding of impacts of COVID-19 and lockdown and hopefully helps with the resilience and sustainability of the city. The workflow might also be inspiring for further studies.",
+      "url": "https://doi.org/10.3390/su152115325",
+      "added_date": "2026-07-13",
+      "summary": "Zhou et al. conducted a study in Shanghai focusing on online car-hailing travel using a dataset of trajectories and found that there was a dramatic plunge in ride counts due to the lockdown and a significant change in human mobility associated with hospitals and traffic hubs.",
+      "tags": [
+        "demand",
+        "covid"
+      ],
+      "needs_review": false
     },
     {
       "id": "https://openalex.org/W4368368225",
@@ -2718,6 +3270,27 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4367182087",
+      "doi": "10.54097/fbem.v8i3.7873",
+      "title": "Literature Review on Financial Risks of New Energy Vehicle Enterprises",
+      "year": 2023,
+      "journal": "Frontiers in Business Economics and Management",
+      "authors": [
+        "Lihui Wang",
+        "Dongwei Shi",
+        "Han Chen"
+      ],
+      "abstract": "In recent years, new energy vehicle enterprises have been affected by many factors, such as the impact of the epidemic, rising raw material prices and subsidies withdrawal, and the development of enterprises has faced severe challenges, and the problem of internal financial risks has come to the fore. This paper summarizes the relevant literature on the financial risks of new energy vehicle enterprises, the screening of early warning indicators and the assignment method, with a view to providing scholars with in-depth research and innovation on the financial risk early warning indicator system of new energy vehicle enterprises, and providing theoretical guidance for new energy vehicle enterprises to resist financial risks.",
+      "url": "http://dx.doi.org/10.54097/fbem.v8i3.7873",
+      "added_date": "2026-07-13",
+      "summary": "Wang et al. conducted a study focusing on the financial risks of new energy vehicle enterprises and found that internal financial risks have become a significant challenge due to various external factors.",
+      "tags": [
+        "policy",
+        "environment"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4388954886",
       "doi": "10.1016/j.trc.2023.104420",
       "title": "Metrics for Quantifying Shareability in Transportation Networks: The Maximum Network Flow Overlap Problem",
@@ -2817,6 +3390,49 @@
       "summary": "Rath et al. published \"Microtransit deployment portfolio management using simulation-based scenario data upscaling\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4389889112",
+      "doi": "10.53501/rteufemud.1335421",
+      "title": "Mikro Hareketlilik Sistemlerinin Altyapı ve Toplumsal İhtiyaçlar Kapsamında Değerlendirilmesi",
+      "year": 2023,
+      "journal": "Recep Tayyip Erdoğan Üniversitesi Fen ve Mühendislik Bilimleri Dergisi",
+      "authors": [
+        "Üsame Ekici",
+        "Eyüp Emre KASAP"
+      ],
+      "abstract": "Ulaştırma, ülke ekonomisi ve toplumun refah düzeyi üzerinde etkilidir. Bunun alt kümesi olan hareketlilik ise insanların dilediği gibi seyahat edebilmesi, yaşam kalitesini artırması ve ülke iç pazarının ticaret hacmi üzerinde etkili olmaktadır. Gelecek yıllarda Dünya üzerindeki petrol kaynaklarının azalmasıyla petrol fiyatlarında artışların yaşanması beklenmekte olup, bunun da mikro hareketlilik araç ve teknolojilerine olan ihtiyaç ve talebi daha da artıracağı aşikardır. Bu çalışmada, 21. yüzyılda kentsel nüfusun artması, insanların tekil ulaşım araçlarına rağbet göstermesi ve sürdürülebilir enerji kaynaklı yakıt teknolojilerinin gelişimi ile birlikte, elektrikli araçların popüler hale geldiği gerçeğine ulaşılmıştır. Bu kapsamda; mikro hareketlilik unsurlarının gelişimi, ulusal ve uluslararası düzeyde kullanımı, altyapı ihtiyacı ve eksikliklerinin tespit edilerek ortaya konulması için geniş katılımlı bir anket çalışması yapılmış ve Türkiye’nin önde gelen paylaşımlı skuter sistemlerinden birinin kurucusu ile röportaj gerçekleştirilmiştir. Farklı eğitim, yaş, sosyo-kültürel düzeylere sahip katılımcılar ile firma yetkililerinin görüş ve talepleri doğrultusunda; mikro hareketlilik ulaşım araçları için öncelikle ulusal düzeyde farkındalığın oluşturulması ve halkın bu araçların temin ile kullanımı konusunda bilgilendirilmesi gerektiği tespit edilmiştir. Mevcut kullanımla ilgili olarak ise; mikro hareketlilik araçlarına ayrılan yol ağının genişletilmesi, güvenlik amaçlı ekipmanların kolay temin edilebilir olması ve zorunlu hale getirilmesi gerektiği tespit edilmiştir. Ayrıca desteklerin arttırılarak bireysel veya paylaşımlı mikro hareketlilik araçlarının daha uygun fiyatla arz edilmesi ve şarj istasyonları ile park alanlarının yaygınlaştırılmasına ihtiyaç duyulduğu sonucuna ulaşılmıştır.",
+      "url": "https://doi.org/10.53501/rteufemud.1335421",
+      "added_date": "2026-07-13",
+      "summary": "Ekici et al. conducted a study focusing on micro-mobility systems using a comprehensive survey and interviews, and found that awareness and information dissemination regarding micro-mobility vehicles were essential at the national level.",
+      "tags": [
+        "planning",
+        "demand",
+        "policy"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4388586364",
+      "doi": "10.1007/s10696-023-09520-y",
+      "title": "MOBI-Qual: a common framework to manage the product-service system quality of shared mobility",
+      "year": 2023,
+      "journal": "Flexible Services and Manufacturing Journal",
+      "authors": [
+        "Federico Barravecchia",
+        "Luca Mastrogiacomo",
+        "Martí Casadesús Fa",
+        "Fiorenzo Franceschini"
+      ],
+      "abstract": "Abstract Shared mobility is transforming urban transportation. The increasing demand for more efficient and sustainable transportation options has driven the growth of the shared mobility sector, attracting operators ranging from new entrants to traditional manufacturers looking to diversify their markets. Despite its popularity, there is currently a lack of tools to support the design and management of the quality of shared mobility. Seeking to contribute towards bridging this gap, this paper presents a comprehensive quality framework, refereed as MOBI-Qual . MOBI-Qual was developed using a bottom-up approach, wherein quality determinants were defined based on an extensive analysis of digital Voice-of-Customer data, specifically customer review. A topic modelling algorithm was utilized to extract the quality determinants for the most prevalent shared mobility modes. Following this, a common framework was established through a comparison of these quality determinants. The proposed framework comprises eleven quality determinants that comprehensively cover various aspects of shared mobility.",
+      "url": "https://doi.org/10.1007/s10696-023-09520-y",
+      "added_date": "2026-07-13",
+      "summary": "Barravecchia et al. conducted a study focusing on the quality management of shared mobility using a comprehensive quality framework and found that eleven quality determinants comprehensively covered various aspects of shared mobility.",
+      "tags": [
+        "planning",
+        "evaluation"
+      ],
+      "needs_review": false
     },
     {
       "id": "https://openalex.org/W4368408211",
@@ -2929,6 +3545,28 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4390077824",
+      "doi": "10.1061/jtepbs.teeng-7918",
+      "title": "O’Hare Airport Short-Term Ground Transportation Modal Demand Forecast Using Gaussian Processes",
+      "year": 2023,
+      "journal": "Journal of Transportation Engineering Part A Systems",
+      "authors": [
+        "Natalia Zuniga-Garcia",
+        "Arindam Fadikar",
+        "Damola M. Akinlana",
+        "Joshua Auld"
+      ],
+      "abstract": "The principal objective of this study is to analyze the spatial and temporal variation of ground transportation airport demand and provide demand forecast to inform planning capability and explore alternatives for investments to accommodate airport growth. Because of its good adaptability and strong generalization ability for dealing with high-dimensional input, small-sample, and nonlinear spatial data, Gaussian process (GP) regression is used to provide forecast estimates using data from transportation network company (TNC) trips and urban rail passengers at Chicago’s O’Hare International Airport. TNC airport trips differ significantly, with three times more distance, more than twice the travel time, and half of the share requests compared with nonairport trips. This highlights the need for separate demand models. Hourly analysis of the rail service indicates that this is likely heavily used by airport workers, whereas TNC services focus on travelers because of variations in the peak demand hours. Heteroscedastic GP regression is implemented because of differences in trip variance between night and day hours. Estimates are given for weekdays and weekend trips, and the 95% confidence intervals are calculated. The introduction of flight schedule information into the models shows marginal improvements in their performance. However, fitting a GP regression becomes computationally expensive with increased sample size and the introduction of spatial components. Transportation planners and policymakers can use the results and methods implemented in this study to optimize transportation assets and provide long-range simulations of the current and future conditions in the area.",
+      "url": "https://doi.org/10.1061/jtepbs.teeng-7918",
+      "added_date": "2026-07-13",
+      "summary": "Zuniga-Garcia et al. conducted a study at Chicago’s O’Hare International Airport focusing on ground transportation demand forecasting using Gaussian process regression and found that TNC airport trips differed significantly from nonairport trips, indicating the need for separate demand models.",
+      "tags": [
+        "demand",
+        "planning"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4388049844",
       "doi": "10.1016/j.tranpol.2023.10.011",
       "title": "Policy, management, and operation practices in U.S. microtransit systems",
@@ -2949,6 +3587,27 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4382866815",
+      "doi": "10.1609/socs.v16i1.27286",
+      "title": "Real-World Pickup and Delivery Problem with Transfers",
+      "year": 2023,
+      "journal": "Proceedings of the International Symposium on Combinatorial Search",
+      "authors": [
+        "Václav Sobotka",
+        "Hana Rudová"
+      ],
+      "abstract": "The pickup and delivery problem with transfers generalizes the classical pickup and delivery problem (PDP) by allowing the vehicles to exchange request loads at designated transfer points. Transfers often lead to substantial reductions in transportation costs, yet they come with a significant burden of additional computational complexity. Even meta-heuristic methods are thus limited to instances of at most lower hundreds of requests leaving the desirable benefits unreachable for larger instances. Our approach bypasses the complexities inherent to current methods by deciding about the transfers apriori and thus reducing the problem to a PDP instance. To make as informed decisions as possible, we analyze a broader set of characteristics that may be used to carry out the apriori decisions. We opt to derive and examine multiple such PDP instances to cover different transfer choices. Our analysis of the derived PDP instances then allows their efficient processing in parallel. The proposed framework addresses a large-scale freight transportation problem with real-world characteristics and transfers where typical instances count over 1,200 requests and 300 vehicles. We show the potential of the proposed framework on both real-world and synthetic instances with up to 1,500 requests. The experiments demonstrate that substantial savings may be achieved within favorable runtimes even for very large instances.",
+      "url": "http://dx.doi.org/10.1609/socs.v16i1.27286",
+      "added_date": "2026-07-13",
+      "summary": "Sobotka et al. conducted a study focusing on the pickup and delivery problem with transfers using a framework that reduces complexity and found that substantial savings may be achieved within favourable runtimes even for very large instances.",
+      "tags": [
+        "operations",
+        "planning",
+        "evaluation"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4365452831",
       "doi": "10.1080/03081060.2023.2194874",
       "title": "Ride-pooling adoption, efficiency and level of service under alternative demand, behavioural and pricing settings",
@@ -2967,6 +3626,30 @@
       "tags": [
         "demand",
         "policy"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4385578056",
+      "doi": "10.3390/rs15153874",
+      "title": "Sensing Travel Source–Sink Spatiotemporal Ranges Using Dockless Bicycle Trajectory via Density-Based Adaptive Clustering",
+      "year": 2023,
+      "journal": "Remote Sensing",
+      "authors": [
+        "Yan Shi",
+        "Da Wang",
+        "Xiaolong Wang",
+        "Bingrong Chen",
+        "Chen Ding",
+        "Shijuan Gao"
+      ],
+      "abstract": "The travel source–sink phenomenon is a typical urban traffic anomaly that reflects the imbalanced dissipation and aggregation of human mobility activities. It is useful for pertinently balancing urban facilities and optimizing urban structures to accurately sense the spatiotemporal ranges of travel source–sinks, such as for public transportation station optimization, sharing resource configurations, or stampede precautions among moving crowds. Unlike remote sensing using visual features, it is challenging to sense imbalanced and arbitrarily shaped source–sink areas using human mobility trajectories. This paper proposes a density-based adaptive clustering method to identify the spatiotemporal ranges of travel source–sink patterns. Firstly, a spatiotemporal field is utilized to construct a stable neighborhood of origin and destination points. Then, binary spatiotemporal statistical hypothesis tests are proposed to identify the source and sink core points. Finally, a density-based expansion strategy is employed to detect the spatial areas and temporal durations of sources and sinks. The experiments conducted using bicycle trajectory data in Shanghai show that the proposed method can accurately extract significantly imbalanced dissipation and aggregation events. The travel source–sink patterns detected by the proposed method have practical reference, meaning that they can provide useful insights into the redistribution of bike-sharing and station resources.",
+      "url": "https://doi.org/10.3390/rs15153874",
+      "added_date": "2026-07-13",
+      "summary": "Shi et al. conducted a study focusing on travel source–sink patterns using a density-based adaptive clustering method and found that the proposed method can accurately extract significantly imbalanced dissipation and aggregation events from bicycle trajectory data.",
+      "tags": [
+        "planning",
+        "technology"
       ],
       "needs_review": false
     },
@@ -3052,6 +3735,28 @@
         "environment",
         "evaluation",
         "planning"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4387514606",
+      "doi": "10.2298/csis221209053l",
+      "title": "Sustainability-oriented route generation for ridesharing services",
+      "year": 2023,
+      "journal": "Computer Science and Information Systems",
+      "authors": [
+        "Mengya Liu",
+        "Vahid Yazdanpanah",
+        "Sebastian Stein",
+        "Enrico Gerding"
+      ],
+      "abstract": "Sustainability is the ability to maintain and preserve natural and manmade systems for the benefit of current and future generations. The three pillars of sustainability are social, economic, and environmental. These pillars are interdependent and interconnected, meaning that progress in one area can have positive or negative impacts on the others. This calls for smart methods to balance such benefits and find solutions that are optimal with respect to all the three pillars of sustainability. By using AI methods, in particular, genetic algorithms for multiobjective optimisation, we can better understand and manage complex systems in order to achieve sustainability. In the context of sustainability-oriented ridesharing, genetic algorithms can be used to optimise route finding in order to lower the cost of transportation and reduce emissions. This work contributes to this domain by using AI, specifically genetic algorithms for multiobjective optimisation, to improve the efficiency and sustainability of transportation systems. By using this approach, we can make progress towards achieving the goals of the three pillars of sustainability.",
+      "url": "https://doi.org/10.2298/csis221209053l",
+      "added_date": "2026-07-13",
+      "summary": "Liu et al. conducted a study focusing on sustainability-oriented ridesharing using genetic algorithms for multiobjective optimisation and found that this approach could improve the efficiency and sustainability of transportation systems.",
+      "tags": [
+        "operations",
+        "environment"
       ],
       "needs_review": false
     },
@@ -3161,6 +3866,28 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4385256850",
+      "doi": "10.1007/s13132-023-01449-9",
+      "title": "The Short- and Long-Term Impacts of COVID-19 Pandemic on the Sharing Economy: Distinguishing Between “Symptomatic” and “Asymptomatic” Platforms",
+      "year": 2023,
+      "journal": "Journal of the Knowledge Economy",
+      "authors": [
+        "Muntaser Mohamed Nuttah",
+        "Paolo Roma",
+        "Giovanna Lo Nigro",
+        "Giovanni Perrone"
+      ],
+      "abstract": "Abstract Our study presents a systematic literature review on the repercussions of the COVID-19 pandemic on the different types of sharing economy platforms and the sharing economy phenomenon in its entirety. Our literature review helps understand how the characteristics of different services of the sharing economy combine with contingent factors, such as government-mandated lockdowns, changed consumer behaviors, and people’s fear of contagion, to determine the magnitude of the impact of COVID-19 on the sharing economy both in the short run and in the long run. By examining these factors, we distinguish between sharing economy services/platforms that were (and possibly will be) negatively impacted by the COVID-19 pandemic (referred to as “symptomatic” platforms) and those that were not (and possibly will not be) impacted at all or even benefit (referred to as “asymptomatic” platforms). We then propose a new framework that combines traditional dimensions of sharing economy with a dimension resulting from the COVID-19 pandemic, i.e., the level of physical interaction required to deliver the sharing economy service. Building upon the extant literature, the framework helps better understand how the sharing economy will evolve after the pandemic. It also helps identify important research gaps that both academics and practitioners working on the field of sharing economy should address in the near future.",
+      "url": "https://doi.org/10.1007/s13132-023-01449-9",
+      "added_date": "2026-07-13",
+      "summary": "Nuttah et al. conducted a study focusing on the impacts of the COVID-19 pandemic on the sharing economy using a systematic literature review and found that different sharing economy platforms were affected variably, distinguishing between 'symptomatic' and 'asymptomatic' platforms based on their level of physical interaction required to deliver services.",
+      "tags": [
+        "covid",
+        "policy"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W4388268496",
       "doi": "10.3390/urbansci7040111",
       "title": "User Preference Analysis for an Integrated System of Bus Rapid Transit and On-Demand Shared Mobility Services in Amman, Jordan",
@@ -3248,6 +3975,30 @@
       "tags": [
         "operations",
         "equity"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4210252895",
+      "doi": "10.3390/electronics11030423",
+      "title": "Application of Generative Adversarial Network to Optimize Vehicle Allocation at Dispatch Stations of Paratransit Services",
+      "year": 2022,
+      "journal": "Electronics",
+      "authors": [
+        "Yi‐Chung Chen",
+        "Chee-Hoe Loh",
+        "Fu-Cheng Wang",
+        "Zi-Jing Chen",
+        "Shau‐Huai Fu",
+        "Chenyu Wang"
+      ],
+      "abstract": "As aging populations increase worldwide, many governments have introduced the concept of paratransit services to assist individuals with limited mobility with transportation. A successful paratransit service must be able to satisfy most requests to the system; this success is typically related to the allocation of vehicles to dispatch stations. A suitable configuration can reduce unnecessary travel time and thus serve more people. This resembles the classic Dial-a-Ride problem, which previous studies have solved using heuristic algorithms. Most of these algorithms, however, incur heavy computational costs and, therefore, cannot be operated online, especially when there are many conditions to consider, many configuration requirements, or many vehicles requested. Therefore, this paper proposes an approach based on the generative adversary network (GAN), which can reduce computation significantly. In online environments, this approach can be implemented in just a few seconds. Furthermore, the amount of computation is not affected by the number of conditions, configuration requirements, or vehicles requested. This approach is based on three important concepts: (1) designing a GAN to solve the target problem; (2) using an improved Voronoi diagram to divide the overall service area to generate the input of the GAN generator; (3) using well-known system simulation software Arena to swiftly generate many conditions for the target problem and their corresponding best solutions to train the GAN. The efficiency of the proposed approach was verified using a case study of paratransit services in Yunlin, Taiwan.",
+      "url": "https://doi.org/10.3390/electronics11030423",
+      "added_date": "2026-07-13",
+      "summary": "Chen et al. conducted a study focusing on vehicle allocation in paratransit services using a generative adversarial network and found that their approach significantly reduced computation time without being affected by the number of conditions or vehicles requested.",
+      "tags": [
+        "operations",
+        "technology"
       ],
       "needs_review": false
     },
@@ -3392,6 +4143,28 @@
       "summary": "Ward et al. conducted a study focusing on mobility-on-demand (MOD) and transit equity and found that MODs may not effectively reduce transit disadvantage in areas with a poor history of public transit investment.",
       "tags": [
         "equity",
+        "planning"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4311651489",
+      "doi": "10.1155/2022/6816851",
+      "title": "Estimating the Potential Modal Split of Any Future Mode Using Revealed Preference Data",
+      "year": 2022,
+      "journal": "Journal of Advanced Transportation",
+      "authors": [
+        "Koen De Clercq",
+        "Arjan van Binsbergen",
+        "Bart van Arem",
+        "Maaike Snelder"
+      ],
+      "abstract": "Mode choice behaviour is often modelled by discrete choice models, in which the utility of each mode is characterized by mode-specific parameters reflecting how strongly the utility of that mode depends on attributes such as travel speed and cost, and a mode-specific constant value. For new modes, the mode-specific parameters and the constant in the utility function of discrete choice models are not known and are difficult to estimate on the basis of stated preferences data/choice experiments and cannot be estimated on the basis of revealed preference data. This paper demonstrates how revealed preference data can be used to estimate a discrete mode choice model without using mode-specific constants and mode-specific parameters. This establishes a method that can be used to analyze any new mode using revealed preference data and discrete choice models and is demonstrated using the OViN 2017 dataset with trips throughout the Netherlands using a multinomial and nested logit model. This results in a utility function without any alternative specific constants or parameters, with a rho-squared of 0.828 and an accuracy of 0.758. The parameters from this model are used to calculate the future modal split of shared autonomous vehicles and electric steps, leading to a potential modal split range of 24–30% and 37–44% when using a multinomial logit model, and 15–20% and 33–40% when using a nested logit model. An overestimation of the future modal split occurs due to the partial similarities between different transport modes when using a multinomial logit model. It can therefore be concluded that a nested logit model is better suited for estimating the potential modal split of a future mode than a multinomial logit model. To the authors’ knowledge, this is the first time that the future modal split of shared autonomous vehicles and electric steps has been calculated using revealed preference data from existing modes using an unlabelled mode modelling approach.",
+      "url": "https://doi.org/10.1155/2022/6816851",
+      "added_date": "2026-07-13",
+      "summary": "Clercq et al. conducted a study focusing on mode choice behaviour using revealed preference data and found that a nested logit model is better suited for estimating the potential modal split of shared autonomous vehicles and electric steps than a multinomial logit model.",
+      "tags": [
+        "demand",
         "planning"
       ],
       "needs_review": false
@@ -4329,6 +5102,25 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W3198495677",
+      "doi": "10.17610/t6p59d",
+      "title": "Matching L.A. Travel Patterns and Metro Bus Service",
+      "year": 2021,
+      "journal": "eScholarship (California Digital Library)",
+      "authors": [
+        "Edgar B. Mejia"
+      ],
+      "abstract": "The Los Angeles County Metropolitan Transportation Authority (Metro) has allocated significant resources (time, money, political) to rework their bus network through the NextGen initiative, the first sweeping overhaul of the bus system in 25 years. Because such overhaul of a bus system requires extensive resources, the next major restructuring of Metro’s bus routes will not occur for at least another decade or two. Thus, it is imperative that Metro aligns their bus service where people actually travel to, rather than merely supporting existing Metro routes. This project analyzes major travel patterns across L.A. County to spot any possible bus service recommendations explicitly not identified in NextGen. Major travel is assessed utilizing Metro’s location-based service (LBS) cell-phone database, Metro's ridership data, and Census “OnTheMap” data. Though our analysis corroborates NextGen’s study revealing most trips in LA County are under 5 miles, we found notable exceptions. For the exceptions, namely in the South Bay, Gateway Cities, and the San Fernando Valley, this project provides critical service opportunities to match Metro service to observed travel patterns. Finally, we suggest a pilot microtransit program, a low-cost investment, to test the actual demand strength of proposed service suggestions.",
+      "url": "https://escholarship.org/uc/item/9fh9k30n",
+      "added_date": "2026-07-13",
+      "summary": "Mejia et al. conducted a study focusing on travel patterns in Los Angeles County using Metro’s location-based service cell-phone database and ridership data, and found that while most trips in LA County are under 5 miles, there are notable exceptions that present critical service opportunities for Metro.",
+      "tags": [
+        "planning",
+        "demand"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W3170495668",
       "doi": "10.1177/03611981211014523",
       "title": "Microtransit Has the Potential to Flip Transit on Its Head",
@@ -4349,6 +5141,26 @@
         "demand"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3211160496",
+      "doi": "10.5220/0010675000003058",
+      "title": "On the Integration of Shared Autonomous Mobility on Demand in Mobility Service Platforms",
+      "year": 2021,
+      "journal": "",
+      "authors": [
+        "Felix Schwinger",
+        "Ralf Philipsen",
+        "Simon Himmel",
+        "Matthias Jarke",
+        "Martina Ziefle"
+      ],
+      "abstract": "332",
+      "url": "https://doi.org/10.5220/0010675000003058",
+      "added_date": "2026-07-13",
+      "summary": "Schwinger et al. published \"On the Integration of Shared Autonomous Mobility on Demand in Mobility Service Platforms\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4200396793",
@@ -4671,6 +5483,30 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W3183961136",
+      "doi": "10.22490/25392786.4964",
+      "title": "Valoración financiera de una empresa de movilidad urbana sostenible en España",
+      "year": 2021,
+      "journal": "Revista Estrategia Organizacional",
+      "authors": [
+        "Félix Puime-Guillén",
+        "Raquel Fernández",
+        "Raisa Pérez-Vas",
+        "Mireia Panait",
+        "Alejandro Castro Varela"
+      ],
+      "abstract": "La movilidad urbana es uno de los factores más importantes, no solo para la correcta planificación de las ciudades, sino también para la gestión sostenible del transporte doméstico. Se han puesto en marcha numerosas iniciativas para mejorar los niveles de congestión y contaminación urbana. En España se ha implantado un sistema de patinetas eléctricas de uso compartido, a través de una app móvil. En 2020, dados sus exitosos resultados, esta iniciativa se ha extendido hasta en 11 grandes ciudades españolas. El objetivo de este artículo es aplicar diferentes modelos de valoración de proyectos de inversión a una empresa de alquiler de motocicletas eléctricas urbanas, con el fin de evaluar cuál de estos modelos presenta el mejor escenario económico y financiero para la empresa. Palabras clave: movilidad urbana, valor actual neto, opciones reales, España",
+      "url": "https://doi.org/10.22490/25392786.4964",
+      "added_date": "2026-07-13",
+      "summary": "Puime-Guillén conducted a study focusing on urban mobility using financial valuation models and found that different investment project models presented varying economic and financial scenarios for an electric motorcycle rental company.",
+      "tags": [
+        "evaluation",
+        "policy",
+        "environment"
+      ],
+      "needs_review": false
+    },
+    {
       "id": "https://openalex.org/W3187310666",
       "doi": "10.1080/15568318.2021.1949078",
       "title": "What is the role of carsharing toward a more sustainable transport behavior? Analysis of data from 80 major German cities",
@@ -4829,6 +5665,26 @@
       "tags": [
         "demand",
         "carsharing"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3124746268",
+      "doi": "",
+      "title": "Energy Efficiency - Innovations: Driving Prosperity, Slashing Emissions",
+      "year": 2020,
+      "journal": "eScholarship (California Digital Library)",
+      "authors": [
+        "Shaheen Susan",
+        "Cohen Adam"
+      ],
+      "abstract": "In recent years, mobility on demand (MOD) is gaining popularity among mobility consumers. This innovative concept is based on the principle that transportation is a commodity where modes have economic values that are distinguishable in terms of cost, journey time, wait time, number of con-nections, convenience, and other attributes. MOD enables consumers to access mobility, goods and services on demand by dispatching or using shared mobility, delivery services and public transportation solutions through an integrated and connected multi-modal network. This chapter describes the different services that have emerged in the MOD ecosystem and the core enablers of MOD, such as stakeholders, business models and technology. The chapter concludes with a discussion of how MOD and vehicle automation could impact cities and the transportation network and their energy use.",
+      "url": "https://escholarship.org/uc/item/0mn1b0b8",
+      "added_date": "2026-07-13",
+      "summary": "Susan et al. conducted a study focusing on mobility on demand (MOD) and found that various services have emerged in the MOD ecosystem, influenced by stakeholders, business models, and technology.",
+      "tags": [
+        "technology",
+        "environment"
       ],
       "needs_review": false
     },
@@ -5101,6 +5957,22 @@
         "evaluation"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3023631623",
+      "doi": "",
+      "title": "Technology is Outpacing State Automated Vehicle Policy",
+      "year": 2020,
+      "journal": "eScholarship (California Digital Library)",
+      "authors": [
+        "Kelly Fleming"
+      ],
+      "abstract": "Law",
+      "url": "https://escholarship.org/uc/item/0k85r9jv",
+      "added_date": "2026-07-13",
+      "summary": "Fleming et al. published \"Technology is Outpacing State Automated Vehicle Policy\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W3048006183",
