@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-08-10",
-  "count": 440,
+  "updated_at": "2026-08-17",
+  "count": 454,
   "papers": [
+    {
+      "id": "https://openalex.org/W7125825604",
+      "doi": "10.3389/fpubh.2025.1678130",
+      "title": "A community conversation process to establish resident and service provider perspectives on needs related to use and treatment of opioids and substances",
+      "year": 2026,
+      "journal": "Frontiers in Public Health",
+      "authors": [
+        "Jennifer Shepheard",
+        "Thomas Mundy",
+        "Ashlie Watts",
+        "Jana Pushkin",
+        "LeTeisha Gordon",
+        "Patrice Shelton",
+        "Courtney Blondino",
+        "Katherine Werner",
+        "Elizabeth Prom-Wormley",
+        "Melissa Viray"
+      ],
+      "abstract": "Introduction: Rates of fatal overdose due to opioid and substance use in Richmond, Virginia increased from 44.6 in 2018 to 129.5 per 100,000 city residents in 2023. The underlying contexts surrounding the increase in substance use and overdoses in Richmond, Virginia remains poorly understood. Methods: Using community based participatory research principles (CBPR), a series of \"community conversations\" with neighborhood residents were conducted between May-December 2023. These events included educational information, resource connection, and facilitated qualitative focus group discussion on factors contributing to substance use and overdose, as well as resource needs of people engaged in substance use. Participants also completed a survey on personal substance use experience. Results: Approximately 121 adults participated in 11 community conversations. Of 107 participants with survey data, 37.4% and 47.4% reported ever engaging in non-prescription or prescription opioid use, respectively. Factors leading to local overdose reflected three themes: (1) Diversity in Substance Use Narratives, (2) Coping with Impactful Life Events and Mental Health Experiences, and (3) Community- and Institutional-level Access to Substances. Resource needs were categorized as three themes: (1) Knowledge and Information-sharing around Substance Use, (2) Community Cohesion and Social Support, and (3) Consistent Wraparound Resource Support. Discussion: Richmond-area resident perspectives align with results from prior studies while highlighting locally-nuanced factors regarding prevention, treatment, and community supports. Participants emphasized the need for comprehensive, multi-pronged approaches that expand clinical and corrections-based services, improve resource navigation, and provide personalized, family-engaged support to strengthen neighborhood cohesion. These insights showcase the value of CBPR in elevating lived experience to guide actionable, community-tailored strategies.",
+      "url": "https://doi.org/10.3389/fpubh.2025.1678130",
+      "added_date": "2026-08-17",
+      "summary": "Shepheard et al. published \"A community conversation process to establish resident and service provider perspectives on needs related to use and treatment of opioids and substances\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
     {
       "id": "https://openalex.org/W7168156388",
       "doi": "10.3390/su18147136",
@@ -579,6 +604,22 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7125477696",
+      "doi": "10.7753/ijsea1407.1014",
+      "title": "High-Resolution Mobility Data Science for Urban Transportation Policy, Demand Forecasting, and Infrastructure Investment Prioritization",
+      "year": 2026,
+      "journal": "International Journal of Science and Engineering Applications",
+      "authors": [
+        "Oluwasegun Adegoke"
+      ],
+      "abstract": "Urban transportation systems are increasingly shaped by high-resolution mobility data generated from mobile devices, smart cards, GPS probes, and shared mobility platforms.While this data abundance enables a shift away from static, survey-based planning toward dynamic, evidence-driven decision-making, extracting policy-relevant insights from high-frequency, spatially heterogeneous mobility data remains a major analytical challenge.This study aims to develop and evaluate a scalable, policy-aligned demand forecasting framework capable of capturing complex urban travel dynamics under real-world conditions.To achieve this, the paper proposes a high-resolution mobility data science framework based on Temporal Convolutional Networks (TCNs).The methodology formalizes the transformation of raw mobility traces into zone-level temporal demand signals, incorporates policy-sensitive features such as peak-period structure and event effects, and applies causal, dilated convolutions to model short-and medium-horizon demand evolution.The framework is evaluated using real-world urban mobility data and benchmarked against econometric (SARIMAX), recurrent neural network (LSTM), and heuristic baselines under a strict out-of-sample evaluation protocol.Results show that the proposed TCN framework consistently achieves lower forecasting error and reduced variance across prediction horizons compared to all baselines, with particularly strong gains under demand volatility and in high-variability urban corridors.The TCN demonstrates greater robustness to non-stationarity, slower error growth with increasing horizon length, and more stable performance across spatial zones.The study concludes that TCN-based high-resolution demand forecasting provides not only superior predictive performance, but also actionable policy insight, enabling earlier identification of demand hotspots, stress-sensitive corridors, and mismatches between supply and usage.These findings position high-resolution mobility data science grounded in temporal convolutional modeling as a practical and scalable decision-support capability for modern urban transportation planning, equity-oriented service allocation, and infrastructure investment prioritization.",
+      "url": "https://doi.org/10.7753/ijsea1407.1014",
+      "added_date": "2026-08-17",
+      "summary": "Adegoke et al. published \"High-Resolution Mobility Data Science for Urban Transportation Policy, Demand Forecasting, and Infrastructure Investment Prioritization\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7163159727",
       "doi": "10.1016/j.procs.2026.04.038",
       "title": "Identifying ridehail riders through pairing ActivitySim and BEAM",
@@ -900,6 +941,25 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7148275137",
+      "doi": "10.3390/smartcities9040062",
+      "title": "Rethinking Pooled Ride-Hailing as Large-Scale Simulations Reveal System Limits",
+      "year": 2026,
+      "journal": "Smart Cities",
+      "authors": [
+        "Haitam Laarabi",
+        "Zachary Needell",
+        "Rashid A. Waraich",
+        "C. Anna Spurlock"
+      ],
+      "abstract": "Over nearly two decades, ride-hailing has become a major component of urban travel, and its tendency to increase vehicle miles traveled (VMT) and worsen congestion is now well established. What remains poorly understood is why pooling, the most frequently proposed remedy, consistently falls short of theoretical expectations. With access to proprietary platform data still limited, high-fidelity simulation offers a promising path to untangle these dynamics. Here, we implement three pooling algorithms alongside a demand-following repositioning algorithm, within Berkeley Lab’s BEAM (Behavior, Energy, Autonomy, and Mobility), an open-source, agent-based regional transportation model. In a high ride-hailing adoption scenario for the San Francisco Bay Area, we find a counterintuitive result: the more stringently point-to-point pooling is promoted, the more detour burdens erode matching feasibility and reduce vehicle occupancy rather than increase it, thereby compounding rather than offsetting VMT and congestion impacts. Sensitivity analysis further identifies inflection points in pooling match rates and repositioning sensitivity beyond which deadheading and negative network feedbacks begin to dominate. These results show that pooled ride-hailing has a constrained ability to reduce network-wide impacts and that effective shared mobility requires treating pooling, repositioning, and fleet sizing as interdependent levers.",
+      "url": "https://doi.org/10.3390/smartcities9040062",
+      "added_date": "2026-08-17",
+      "summary": "Laarabi et al. published \"Rethinking Pooled Ride-Hailing as Large-Scale Simulations Reveal System Limits\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7167819161",
       "doi": "10.1016/j.cstp.2026.101907",
       "title": "Rural microtransit service to replace fixed route service: A California case study",
@@ -1045,6 +1105,23 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7160426388",
+      "doi": "10.59543/dahjfs72",
+      "title": "The Role of Smart Mobility Stations in Sustainable Urban Mobility",
+      "year": 2026,
+      "journal": "International Journal of Sustainable Development Goals",
+      "authors": [
+        "Mehmet Kılıç",
+        "Francesco Pilla"
+      ],
+      "abstract": "In the first decades of the 21st century, both academic interest and real-world efforts related to urban mobility and public transportation—two foundational aspects of the sustainability agenda—have notably increased. The swift evolution of technology is gradually transforming traditional urban transportation systems, paving the way for innovative solutions. Among these innovations, the proliferation of electric vehicles and the integration of digital technologies have played a pivotal role in reshaping public transit dynamics. A key development in this context is the advent of Smart Mobility Stations (SMS), which aim to revolutionize urban transport by offering flexible, inclusive, and interconnected mobility options. These platforms are influencing various facets of urban mobility, including travel behavior, multimodal transport systems, digital connectivity, environmental sustainability, and shared resource use. Distinguished by their decentralized structure and high adaptability, smart mobility stations are emerging as viable alternatives to conventional transport stations. Commonly discussed in academic literature under terms like e-mobility, smart mobility, or shared mobility, these innovations are vital for promoting sustainable transport and fostering smart urban development. This research examines the current state of smart mobility stations deployment, the challenges they face, their influence on city life, and the novel frameworks they introduce, alongside their broader societal implications. In response to the global climate crisis and the intensifying urbanization trend, sustainable transportation solutions have gained prominence. This study assesses how smart mobility stations are integrated into existing transit networks, evaluates their operational efficiency, and investigates their effects on user behavior. Through a review of academic literature and analysis of case studies, the paper highlights the environmental, economic, and social benefits of smart mobility stations, and offers strategic policy recommendations concerning digital infrastructure, governance mechanisms, and urban planning.",
+      "url": "https://doi.org/10.59543/dahjfs72",
+      "added_date": "2026-08-17",
+      "summary": "Kılıç et al. published \"The Role of Smart Mobility Stations in Sustainable Urban Mobility\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7171000454",
       "doi": "",
       "title": "The Routes Not Taken: Public Transportation Assessment at Purchase College",
@@ -1119,6 +1196,26 @@
       "url": "https://doi.org/10.1016/j.tranpol.2026.104191",
       "added_date": "2026-08-10",
       "summary": "Farias et al. published \"Tracking longitudinal changes in awareness, usage, and trust in autonomous vehicles: Evidence from large-scale, nationally representative U.S. surveys (2023–2025)\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7165960526",
+      "doi": "10.1080/01944363.2026.2675964",
+      "title": "Transportation and Quality-of-Life Effects of Los Angeles’s Mobility Wallet Program",
+      "year": 2026,
+      "journal": "Journal of the American Planning Association",
+      "authors": [
+        "T.D. Butler",
+        "Sang-O Kim",
+        "Madeline Wander",
+        "Evelyn Blumenberg",
+        "Madeline Brozen"
+      ],
+      "abstract": "Problem, research strategy, and findings Transportation agencies have historically focused on public transit as the solution to the mobility barriers facing low-income travelers. Transit is an essential service for those who do not own automobiles, but studies show it often fails to meet the travel needs of the poor. The Los Angeles (CA) Mobility Wallet Pilot Program is a novel approach to addressing this issue. The program provided low-income recipients with resources to spend flexibly on a variety of shared transportation services. In this study, we draw on interviews with 31 participants before, during, and after the 1-year pilot program to understand the effect of the mobility wallet on their travel behavior and quality of life. The findings are promising: increased travel frequency, decreased material hardship and stress, improved social connections, feelings of independence and autonomy, and improved wellbeing. The results suggest an important role for flexible, demand-side transportation subsidies in meeting the diverse transportation needs of low-income travelers.Takeaway for practice When seeking to achieve transportation equity, planners should recognize the value in adopting policies and programs, such as a mobility wallet, that allow travelers to take advantage of a variety of modes to meet their individual and household needs.",
+      "url": "https://doi.org/10.1080/01944363.2026.2675964",
+      "added_date": "2026-08-17",
+      "summary": "Butler et al. published \"Transportation and Quality-of-Life Effects of Los Angeles’s Mobility Wallet Program\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -1281,6 +1378,25 @@
         "planning"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4414711860",
+      "doi": "10.1016/j.arcontrol.2025.101020",
+      "title": "A systems perspective on promoting sustainable food systems",
+      "year": 2025,
+      "journal": "Annual Reviews in Control",
+      "authors": [
+        "Angela Fontan",
+        "Patricia Eustachio Colombo",
+        "Rosemary Green",
+        "Karl Henrik Johansson"
+      ],
+      "abstract": "Global food systems are at the center of some of the most pressing modern societal challenges: They are significant contributors to a range of systemic issues, including health problems and chronic diseases, greenhouse gas emissions and general environmental degradation, and increasing financial burdens on healthcare and economies. Within these complex systems, final sustainable consumption, which refers to the adoption of diets that are both healthy and environmentally friendly, plays a critical role. Significant changes in contemporary dietary patterns are essential to address the rising burden of chronic diseases and public health outcomes and the escalating climate crisis. Achieving these shifts requires coordinated action from policymakers, consumers, and the scientific community in an effort to support the development, implementation, and evaluation of advertising and policy instruments that promote healthier and more sustainable dietary choices. However, driving changes in dietary behavior is a complex challenge, shaped by the interplay of heterogeneous influences, including biological, social, cultural, environmental, political, and economic factors, and further complicated by the difficulty of validating proposed approaches in ways that are both efficient and ethically sound. This vision paper presents the problem of promoting healthy and environmentally friendly diets and their implications for environmental sustainability. In particular, it discusses a systems approach based on social network dynamics and social interventions, illustrating recent findings that demonstrate the potential of influence strategies to drive dietary change. Finally, key scientific challenges and emerging research opportunities are highlighted.",
+      "url": "https://doi.org/10.1016/j.arcontrol.2025.101020",
+      "added_date": "2026-08-17",
+      "summary": "Fontan et al. published \"A systems perspective on promoting sustainable food systems\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4411000988",
@@ -1980,6 +2096,25 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7203447863",
+      "doi": "10.1016/j.trpro.2026.07.021",
+      "title": "Integrating Passengers and Freight using Demand-Responsive Transport: an Agent-Based Model",
+      "year": 2025,
+      "journal": "Transportation research procedia",
+      "authors": [
+        "Giovanni Calabrò",
+        "Michela Le Pira",
+        "Giuseppe Inturri",
+        "Matteo Ignaccolo"
+      ],
+      "abstract": "This paper explores the potential combination of passenger and freight transport via an innovative Demand Responsive Transport and Logistics (DRTL) service. A new agent-based model is developed to simulate the operation of this combined service with travellers participating as crowdshippers. The model allows the adjustment of several input parameters within a synthetic simulation environment, with the aim of evaluating the benefits of DRTL compared to scenarios where passenger and freight services are not integrated. Results provide useful suggestions for planning DRTL services in various scenarios, considering varying levels of traveller willingness to act as crowdshippers and different levels of parcel demand. Combining crowdshipping with demand-responsive transport has the potential to improve the efficiency of last-mile logistics by lowering operational costs and reducing the number of commercial vehicles on the roads, with only minimal additional walking times for the travellers involved in the deliveries.",
+      "url": "https://doi.org/10.1016/j.trpro.2026.07.021",
+      "added_date": "2026-08-17",
+      "summary": "Calabrò et al. published \"Integrating Passengers and Freight using Demand-Responsive Transport: an Agent-Based Model\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4414784281",
       "doi": "10.1016/j.cities.2025.106490",
       "title": "Is microtransit a cost-effective alternative or a costly competitor to public transit?",
@@ -2045,6 +2180,25 @@
         "equity"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4414614359",
+      "doi": "10.18280/ijtdi.090301",
+      "title": "Modeling Travel Mode Choice Behavior on University Campus Using Nested Logit Analysis",
+      "year": 2025,
+      "journal": "International Journal of Transport Development and Integration",
+      "authors": [
+        "Kittichai Thanasupsin",
+        "Pongphisanu Nakkham",
+        "Tosporn Arreeras",
+        "Suchada Phonsitthangkun"
+      ],
+      "abstract": "The determinants of travel mode choice among university students and staff were examined to address a gap in campus mobility research, particularly within tropical environments.Data were obtained from 923 respondents at Mahidol University, Thailand, and analyzed through the application of the Nested Logit Model (NLM), which accounts for hierarchical decision structures across six travel modes: trams, bicycles, motorcycle taxis, private motorcycles, private cars, and walking.Exploratory factor analysis was employed to identify latent constructs influencing satisfaction, including comfort, built environment, and flexibility.The analysis indicated that active and shared modes, particularly trams and walking, were generally preferred.Travel time, cost, and scheduling flexibility were found to be key determinants of mode selection, with flexibility exerting a positive influence and travel time and cost acting as constraints.Weather-related factors were not statistically significant, suggesting that infrastructural conditions may mitigate climatic impacts on active travel.Elasticity analysis further demonstrated that changes in service attributes can prompt modal shifts between motorized and active travel.It is concluded that integrating attitudinal and contextual variables into discrete choice modeling offers a deeper understanding of mode choice behavior in campus environments.Policy implications include the enhancement of shaded pathways, the improvement of service reliability, and the adoption of flexible scheduling strategies to promote sustainable and health-supportive mobility.These findings provide a framework for the development of targeted campus transport policies in climate-sensitive settings.",
+      "url": "https://doi.org/10.18280/ijtdi.090301",
+      "added_date": "2026-08-17",
+      "summary": "Thanasupsin et al. published \"Modeling Travel Mode Choice Behavior on University Campus Using Nested Logit Analysis\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4412524947",
@@ -4855,6 +5009,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4389004026",
+      "doi": "10.29119/1641-3466.2023.180.13",
+      "title": "Determinants of mobile public transport use by young consumers: a sharing economy perspective",
+      "year": 2023,
+      "journal": "Scientific Papers of Silesian University of Technology Organization and Management Series",
+      "authors": [
+        "Wioletta Krawiec"
+      ],
+      "abstract": "The purpose of this paper was to explore the determinants for which young users decide to accept or decline shared mobile transport in public spaces.Design/methodology/approach: Research study was conducted by means of a face-to-face interview with young consumers using shared mobile transport in urban spaces.Findings: The modern consumer aspires to be able to access goods and services rather than to have them.The research found that the positive determinants of mobile transport use included convenience, accessibility, economic aspects, ecology, entertainment, the possibility of substituting the current mode of transport, recommendation, random situations and simply wanting to get around.On the other hand, among the negative determinants, respondents indicated a low or lack of knowledge of sharing economy solutions, limited availability outside major cities, lack of conviction and negative attitudes towards shared vehicles, the desire to own and alternative strangers.Research limitations/implications: The modern consumer aspires to be able to access goods and services rather than to have them.The research found that the positive determinants of mobile transport use included convenience, accessibility, economic aspects, ecology, entertainment, the possibility of substituting the current mode of transport, recommendation, random situations and simply wanting to get around.On the other hand, among the negative determinants, respondents indicated a low or lack of knowledge of sharing economy solutions, limited availability outside major cities, lack of conviction and negative attitudes towards shared vehicles, the desire to own and alternative strangers.Practical implications: The results of the research indicate that the knowledge and awareness of the young generation regarding the use of SE in various business and social activities should be improved.The article contributes to the educational trend of the young generation in view of conserving natural resources through frugal/healthy living, conscious and efficient use of things.The article attempts to identify more sustainable behaviour patterns among the younger generation.Originality/value: The article broadens the understanding of consumer motivations regarding urban transport, with a focus on environmental protection and carbon footprint reduction in public spaces.It attempts to identify more sustainable patterns of behaviour among the younger generation.",
+      "url": "http://doi.org/10.29119/1641-3466.2023.180.13",
+      "added_date": "2026-08-17",
+      "summary": "Krawiec et al. published \"Determinants of mobile public transport use by young consumers: a sharing economy perspective\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4386930969",
       "doi": "10.4236/as.2023.149089",
       "title": "Determining the Effects of Selected Organic Fertilizer on Growth and Yields of Tomato (&amp;lt;i&amp;gt;Lycopersicon esculentum&amp;lt;/i&amp;gt;: Var. Rio Grande Tomatoes) in Mundri West County, Western Equatoria State, South Sudan",
@@ -6460,6 +6630,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4220832941",
+      "doi": "10.3390/smartcities5020025",
+      "title": "Implementing Data-Driven Smart City Applications for Future Cities",
+      "year": 2022,
+      "journal": "Smart Cities",
+      "authors": [
+        "Yamuna Kaluarachchi"
+      ],
+      "abstract": "Cities are investing in data-driven smart technologies to improve performance and efficiency and to generate a vast amount of data. Finding the opportunities to innovatively use this data help governments and authorities to forecast, respond, and plan for future scenarios. Access to real-time data and information can provide effective services that improve productivity, resulting in environmental, social, and economic benefits. It also assists in the decision-making process and provides opportunities for community engagement and participation by improving digital literacy and culture. This paper aims to review and analyze current practices of data-driven smart applications that contribute to the smooth functioning of urban city systems and the problems they face. The research methodology is qualitative: a systematic and extensive literature review carried out by PRISMA method. Data and information from different case studies carried out globally assisted in the inductive approach. Content analysis identified smart city indicators and related criteria in the case study examples. The study concluded that smart people, smart living, and smart governance methods that have come into practice at a later stage are as important as smart mobility, smart environments, and smart economy measures that were implemented early on, and cities are opening up to new, transparent participatory governance approaches where citizens play a key role. It also illustrates that the current new wave of smart cities with real time data are promoting citizen participation focusing on human, social capital as an essential component in future cities.",
+      "url": "https://doi.org/10.3390/smartcities5020025",
+      "added_date": "2026-08-17",
+      "summary": "Kaluarachchi et al. published \"Implementing Data-Driven Smart City Applications for Future Cities\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4281485703",
       "doi": "10.1186/s12544-022-00547-0",
       "title": "Implications of COVID-19 for future travel behaviour in the rural periphery",
@@ -6692,6 +6878,24 @@
         "environment"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4360973693",
+      "doi": "10.4000/rei.11441",
+      "title": "Quels modèles de gouvernance pour des scénarios de mobilité urbaine incluant des véhicules autonomes ?",
+      "year": 2022,
+      "journal": "Revue d économie industrielle",
+      "authors": [
+        "Fábio Antonialli",
+        "Rodrigo Marçal Gandia",
+        "Isabelle Nicolaı̈"
+      ],
+      "abstract": "Dans le cadre de révolution de la mobilité urbaine, les véhicules électriques autonomes (VEA) représentent une rupture technologique qui affectera le modèle traditionnel de transport urbain. De plus, la diffusion de pratiques relevant de l’économie de fonctionnalité, la promotion de l’économie de partage, la numérisation croissante des activités ouvrent la voie à des modèles d’affaires qui se développent notamment sous forme de plateformes. En caractérisant le concept de plateforme pour différents scénarios futurs de mobilité urbaine autonome, la présente étude vise à analyser les structures de gouvernance les plus appropriées pour chaque scénario de mobilité en identifiant leurs mécanismes de coordination. Afin de déterminer la structure de gouvernance d’une plateforme pour chaque scénario, nous avons organisé des focus group qui ont identifié et dessiné les transactions sur les actifs entre les acteurs de la plateforme selon les différents scénarios. Ainsi, conformément à la théorie de coûts de transaction nous définissons les modes de coordination les plus adaptés entre acteurs de la plateforme selon les scénarios de mobilité urbaine intégrant les véhicules autonomes. Deux facteurs seront notamment pris en compte : le rôle de l’autorité régulatrice des transports au sein de la plateforme et la politique de protection des données.Classification JEL : D86, J68, L14, L22, L91, N70, 018, R40.",
+      "url": "https://doi.org/10.4000/rei.11441",
+      "added_date": "2026-08-17",
+      "summary": "Antonialli et al. published \"Quels modèles de gouvernance pour des scénarios de mobilité urbaine incluant des véhicules autonomes ?\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4220963270",
@@ -7026,6 +7230,22 @@
       "summary": "Криворучко conducted a study focusing on the classification of methods for forming English-language neologisms in the business discursive sphere and found that the classification of these neologisms can enhance the understanding of word formation laws in business discourse.",
       "tags": [],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4221102275",
+      "doi": "10.3390/ijerph19053127",
+      "title": "To Use or Not Use Car Sharing Mobility in the Ongoing COVID-19 Pandemic? Identifying Sharing Mobility Behaviour in Times of Crisis",
+      "year": 2022,
+      "journal": "International Journal of Environmental Research and Public Health",
+      "authors": [
+        "María del Mar Alonso‐Almeida"
+      ],
+      "abstract": "Car sharing services have expanded in order to meet the new necessities of mobility worldwide in an innovative way. Before the COVID-19 pandemic, car sharing was a very popular mode of transportation among young adults in big cities. However, during this ongoing pandemic and with public transportation considered a super-spreading transmitter, the usage of car sharing is unclear. Therefore, the aim of this study, which is explorative in nature, is to investigate the usage, advantages, drivers, and barriers to car sharing during this ongoing pandemic era. To this end, 66 interviews were conducted among users of car sharing during the COVID-19 pandemic. The findings provide key information for the planning of car sharing operations and public transportation in the context of avoiding COVID-19 infection and respecting the recommendations of local governments. In addition, new emerging profiles of car sharing users in the ongoing pandemic are identified. This research provides relevant insights for both business practice and policy makers.",
+      "url": "https://doi.org/10.3390/ijerph19053127",
+      "added_date": "2026-08-17",
+      "summary": "Alonso‐Almeida et al. published \"To Use or Not Use Car Sharing Mobility in the Ongoing COVID-19 Pandemic? Identifying Sharing Mobility Behaviour in Times of Crisis\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4309002516",
@@ -7538,6 +7758,24 @@
       "url": "https://doi.org/10.1016/j.clscn.2021.100022",
       "added_date": "2026-08-03",
       "summary": "Li et al. published \"Electric vehicle sharing based “energy sponge” service interfacing transportation and power systems\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W3178542937",
+      "doi": "10.3390/su13147707",
+      "title": "Emerging Diffusion Barriers of Shared Mobility Services in Korea",
+      "year": 2021,
+      "journal": "Sustainability",
+      "authors": [
+        "Sung-Won Kim",
+        "Hwansoo Lee",
+        "Seungwoo Son"
+      ],
+      "abstract": "Korea’s shared mobility service, TADA, has been accused of violating the Passenger Transportation Services Act, despite being an innovative transportation service. A key reason for this is that TADA is yet to discover an approach to coexist with traditional transportation service companies. The TADA case shows that in addition to technical or business matters, a variety of issues can act as new barriers to the spread of innovation. Therefore, this study aims to understand the emerging barriers that need to be addressed in adopting breakthrough technologies, particularly for shared mobility services. The purpose of this study is to show that the introduction of innovative technology encounters not only technological barriers, as suggested in previous research, but also political, industrial, and legal barriers to diffusion that hinder innovation. Therefore, this study applied the text mining method to online news big data to confirm the existence of diffusion barriers for shared mobility services. The results demonstrate that not only technical efforts but also discussions with various stakeholders and efforts to minimize industrial and legal resistance are required to effectively spread innovative services.",
+      "url": "https://doi.org/10.3390/su13147707",
+      "added_date": "2026-08-17",
+      "summary": "Kim et al. published \"Emerging Diffusion Barriers of Shared Mobility Services in Korea\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -8707,6 +8945,22 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3105178617",
+      "doi": "",
+      "title": "Free Public Transit and the Right to the City",
+      "year": 2020,
+      "journal": "Scholarship@Western (Western University)",
+      "authors": [
+        "Ari Vangeest"
+      ],
+      "abstract": "In recent years there has been a surge in support for free public transit across Canada. This thesis tracks the rapid changes to the free public transit movement through content analysis and interviewing activists at the centre of the struggle. I find that people come to free public transit organizing to address poverty, reduce emissions, end police violence, and create a safer workspace. With the increase in support for free public transit, it has become a policy supported in one way or another by politicians across the political spectrum. I argue that in order for free public transit to address poverty, reduce emissions, end police violence, and create safer workspaces, free public transit must move beyond demands for free publicly owned transit and move towards demands for free publicly controlled transit under the framework of the right to the city.",
+      "url": "https://ir.lib.uwo.ca/etd/7408",
+      "added_date": "2026-08-17",
+      "summary": "Vangeest et al. published \"Free Public Transit and the Right to the City\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W3032781629",
