@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17",
-  "count": 454,
+  "updated_at": "2026-08-24",
+  "count": 463,
   "papers": [
     {
       "id": "https://openalex.org/W7125825604",
@@ -24,6 +24,24 @@
       "url": "https://doi.org/10.3389/fpubh.2025.1678130",
       "added_date": "2026-08-17",
       "summary": "Shepheard et al. published \"A community conversation process to establish resident and service provider perspectives on needs related to use and treatment of opioids and substances\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7149959114",
+      "doi": "10.3390/su18073528",
+      "title": "A Conceptual Sustainability Assessment Framework for Urban Micromobility Systems",
+      "year": 2026,
+      "journal": "Sustainability",
+      "authors": [
+        "Lambros Mitropoulos",
+        "Eirini Stavropoulou",
+        "Dionysios Tzamakos"
+      ],
+      "abstract": "Urban micromobility systems are increasingly deployed to support sustainable transportation goals; however, their overall sustainability performance remains inconsistently assessed across environmental, social, economic, and operational dimensions. This study proposes a conceptual framework for evaluating the sustainability of urban micromobility systems, with a particular focus on e-scooters. It clarifies and restructures fragmented indicators into distinct, non-overlapping sustainability dimensions. The framework is structured around five impact areas: Environment, Economy, Users, Transport Performance, and Safety, complemented by two enabling components, namely the legal framework and business model, which are conceptualized as preconditions for system feasibility rather than performance dimensions. Building on existing sustainability assessment literature, the framework consolidates established indicators while introducing micromobility-adapted and context-specific indicators, such as service availability and operational characteristics, to better capture the distinctive features of shared micromobility systems. The resulting framework provides a structured and flexible tool for researchers, planners, and policymakers, emphasizing that micromobility sustainability depends not only on measured impacts, but also on governance, operational design, and local implementation conditions.",
+      "url": "https://doi.org/10.3390/su18073528",
+      "added_date": "2026-08-24",
+      "summary": "Mitropoulos et al. published \"A Conceptual Sustainability Assessment Framework for Urban Micromobility Systems\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -869,6 +887,25 @@
       "url": "https://doi.org/10.3934/jimo.2026100",
       "added_date": "2026-08-03",
       "summary": "Huang et al. published \"Pickup scheduling algorithms with spatio-temporal coordination for urban educational facilities\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7155090176",
+      "doi": "10.56578/ijtdi100201",
+      "title": "Policy–Technology Integration and Sustainable Urban Mobility: Evidence from Metropolitan Transport Systems in Indonesia",
+      "year": 2026,
+      "journal": "International Journal of Transport Development and Integration",
+      "authors": [
+        "Suci Megawati",
+        "Tjitjik Rahaju",
+        "Kuntala Chowdhury",
+        "Muhammad Alfarizi"
+      ],
+      "abstract": "Urbanisation across Indonesia's metropolitan regions has intensified pressure on transport systems, manifesting in persistent congestion, environmental degradation, and structural dependence on private vehicles.Addressing these challenges requires coordinated alignment between transport policy frameworks and the deployment of emerging mobility technologies.This study investigates how policy-technology integration shapes sustainable public transport use within metropolitan transport systems, with particular attention to the role of Urban Density in conditioning behavioural responses.A cross-sectional dataset was collected from 500 public transport users across eleven officially designated metropolitan regions in Indonesia.Structural relationships among key constructs were examined using partial least squares structural equation modelling (PLS-SEM).The analysis demonstrates that both transport policy instruments and digital mobility adoption exert significant influences on perceived service quality and user disposition towards public transport.Among these factors, perceived service quality emerges as the most direct determinant of sustained usage behaviour.In addition, Urban Density is found to significantly moderate the linkage between user disposition and actual behaviour, indicating that high-density metropolitan contexts strengthen the translation of preferences into consistent transport choices.The findings highlight the importance of integrating regulatory measures with digital mobility infrastructures to improve system-level performance and user experience in public transport networks.From a policy perspective, the study underscores the need for metropolitan authorities to adopt coordinated governance strategies that align technological deployment with service provision and spatial planning conditions.These insights contribute to ongoing discussions on sustainable urban mobility by situating behavioural outcomes within a broader transport system and policy integration framework.",
+      "url": "https://doi.org/10.56578/ijtdi100201",
+      "added_date": "2026-08-24",
+      "summary": "Megawati et al. published \"Policy–Technology Integration and Sustainable Urban Mobility: Evidence from Metropolitan Transport Systems in Indonesia\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -2115,6 +2152,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7124419925",
+      "doi": "10.37199/o41010104",
+      "title": "Invisible Infrastructure Rethinking Mobility Services for Rural Accessibility in Prespa Lake Region",
+      "year": 2025,
+      "journal": "The Scientific Journal of the Observatory of Mediterranean Basin",
+      "authors": [
+        "Caterina Rondina"
+      ],
+      "abstract": "In recent years, Albania has experienced significant demographic shifts, particularly affecting rural areas due to population decline driven by emigration, progressively, this trend has intensified accessibility challenges, affecting well-being and mobility. Sparse populations and long travel distances hamper effective public transportation, worsening inequalities, and isolation, particularly for vulnerable groups. Urgent action is required to implement sustainable and inclusive rural mobility solutions, especially amidst the pressing climate crisis. Through the examination of current international policies and a brief comparative analysis of successful European case studies, this contribution focuses on the case study of the Prespa Lake Region in Albania, aiming to outline potential mobility services to enhance the territorial accessibility of this region. Albania's ongoing accession negotiations with the European Union and alignment with global development priorities underscore the importance of combating climate change and promoting sustainable transport. While urban areas typically receive more attention, addressing mobility in rural and remote areas is essential for inclusive growth and territorial accessibility. However, challenges persist, including the cultural reliance on private cars and limited transportation services for vulnerable populations. Collaborative efforts within communities of practice are vital for addressing accessibility needs and fostering inclusion. Embracing sustainable mobility practices and the sharing economy can further mitigate environmental impacts and enhance accessibility. Efforts to improve rural mobility should prioritise local contexts, such as the Prespa Lake Region, to address unique challenges and leverage innovative solutions to enhance quality of life and economic opportunities.",
+      "url": "https://doi.org/10.37199/o41010104",
+      "added_date": "2026-08-24",
+      "summary": "Rondina et al. published \"Invisible Infrastructure Rethinking Mobility Services for Rural Accessibility in Prespa Lake Region\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4414784281",
       "doi": "10.1016/j.cities.2025.106490",
       "title": "Is microtransit a cost-effective alternative or a costly competitor to public transit?",
@@ -2257,6 +2310,25 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7117663209",
+      "doi": "10.3390/electronics15010152",
+      "title": "Optimizing Access to Interoperability Resources in Mobility Through Context-Aware Large Language Models (LLMs)",
+      "year": 2025,
+      "journal": "Electronics",
+      "authors": [
+        "Sudarsana Varma Mandapati",
+        "Vishal C. Kummetha",
+        "Sisinnio Concas",
+        "Lisa Staes"
+      ],
+      "abstract": "This study presents the development and implementation of a functional system that utilizes large language models (LLMs) to improve the identification, organization, and retrieval of mobility interoperability resources. The established framework assists novice and experienced implementers of mobility services such as planning organizations and multimodal transportation agencies to efficiently access interoperability resources, such as standards and case studies, which are often dispersed and difficult to navigate. The web-based system includes a backend that generates abstracts and tags and a frontend that supports manual or chatbot-based search. A prompt-refinement mechanism suggests improved queries within the context of mobility interoperability when no matches are found. To validate the quality of LLM-generated abstracts and tags, subject matter experts reviewed outputs from multiple prompt iterations to assess accuracy and clarity. Of the 82 resources evaluated, 72% of abstracts met expert expectations for relevance, while 91% of the tags were considered appropriate. A comprehensive case study of 330 representative user queries was also conducted to evaluate the chatbot’s output. Overall, the presented framework aims to reduce cataloging effort, improve classification consistency, and improve accessibility to relevant information. With minimal setup costs, the system offers a scalable and cost-effective solution for managing large, uncatalogued repositories.",
+      "url": "https://doi.org/10.3390/electronics15010152",
+      "added_date": "2026-08-24",
+      "summary": "Mandapati et al. published \"Optimizing Access to Interoperability Resources in Mobility Through Context-Aware Large Language Models (LLMs)\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4410079782",
@@ -3173,6 +3245,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4391421069",
+      "doi": "",
+      "title": "Automated Mobility Districts - A Conceptual Definition: Preprint",
+      "year": 2024,
+      "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "authors": [
+        "Stanley Young"
+      ],
+      "abstract": "An automated mobility district (AMD) provides for the movement of people and goods within a district through the use of fleets of roboticized vehicles as the primary mobility system. The concept of an AMD has precursors deployed in a few places around the world, in which the circulation within a dense urban district, such as a business and residential center or a major activity center like an airport terminal complex is accomplished using a fully automated transport system(s).",
+      "url": "https://www.osti.gov/biblio/2283030",
+      "added_date": "2026-08-24",
+      "summary": "Young et al. published \"Automated Mobility Districts - A Conceptual Definition: Preprint\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4403213121",
       "doi": "10.1371/journal.pone.0309096",
       "title": "Collaborative optimization of multi-modal transport solutions for urban-rural bus routes",
@@ -3233,6 +3321,22 @@
       "url": "https://doi.org/10.1016/j.jtrangeo.2024.103973",
       "added_date": "2026-07-20",
       "summary": "Meng et al. published \"Complements or competitors? Equity implications of taxis and ride-hail use in Chicago\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7111907558",
+      "doi": "",
+      "title": "Consolidation des transports de personnes et de marchandises – Une nouvelle ère, une nouvelle vision du transport",
+      "year": 2024,
+      "journal": "Espace ÉTS (ETS)",
+      "authors": [
+        "Asaad, Dina"
+      ],
+      "abstract": "Le transport routier est un secteur qui préoccupe plusieurs instances, à plusieurs niveaux. D’abord, les usagers de la route sont nombreux : piétons, cyclistes, motocyclistes, automobilistes, conducteurs d’autobus et de véhicules lourds, etc. Afin d’assurer un partage harmonieux et sécuritaire de la route, les différents usagers sont maintenus de respecter le Code de la sécurité routière et d’adopter des gestes volontaires favorisant une conduite respectueuse. Malgré cela, il existe de nombreuses problématiques de cohabitation et de sécurité routière. Par ailleurs, les véhicules lourds sont impliqués dans plusieurs accidents sur la route, notamment en raison de leurs angles morts qui sont très grands. De plus, le transport routier de marchandises a un impact majeur sur l’environnement. Plusieurs villes dans le monde se sont penchées sur cette problématique, mais chaque ville gère sa logistique urbaine différemment puisque les réalités et priorités des villes diffèrent. Pour arriver à analyser le transport à Montréal, il faut comprendre d’abord son offre de transport de personnes ainsi que son offre de transport de marchandises. Le transport de personnes, à Montréal, est très varié. Il est composé d’un système de transport en commun offrant plusieurs moyens de déplacements présents actuellement ou en planification. Avec cette offre, naissent de nouvelles formes de mobilité, telles que le microtransit, le Mobility as a Service (ou mobilité intégrée) et les véhicules connectés, automatisés et autonomes. La planification du transport se fait à plusieurs niveaux et la législation en cours peut présenter un frein au développement des nouvelles formes de mobilité. En parallèle, les véhicules automatisés et autonomes présentent une opportunité pour le développement du microtransit afin d’offrir une mobilité intégrée et complémentaire. D’une autre part, le transport de marchandises connait également des développements et des avancées technologiques. Bien que le transport de marchandises par véhicules lourds présente de nombreux enjeux, il demeure essentiel au développement des villes et à leur vitalité économique. Il devient donc important de trouver des solutions ou des moyens de maintenir ce transport, mais de minimiser son impact, surtout dans les milieux denses. Une solution se présente dans l’implantation de centre de distribution urbaine. Ces différentes visions mènent à une réflexion plus poussée : comment intégrer le transport de personnes et le transport de marchandises? L’idée principale est de permettre le déplacement de la marchandise à travers des infrastructures existantes, tout en minimisant l’impact des véhicules lourds. Des simulations sont réalisées par la méthode Monte Carlo pour prouver l’efficacité d’une telle hypothèse.",
+      "url": "https://espace.etsmtl.ca/id/eprint/3575/1/ASAAD_Dina.pdf",
+      "added_date": "2026-08-24",
+      "summary": "Dina et al. published \"Consolidation des transports de personnes et de marchandises – Une nouvelle ère, une nouvelle vision du transport\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -7136,6 +7240,22 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4224860136",
+      "doi": "",
+      "title": "Sustainability, Scalability and Resiliency of the Town of Innisfil Mobility-on-Demand Experiment: Preliminary Results, Analyses, and Lessons Learned: Preprint",
+      "year": 2022,
+      "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "authors": [
+        "Dustin Weigl"
+      ],
+      "abstract": "In 2017, the Town of Innisfil, Ontario launched Innisfil Transit in partnership with Uber, a transportation network company, to provide a subsidized on-demand public mobility service as an alternative to investing in a new fixed-route bus service. The performance of Innisfil Transit is documented in a 2021 Ryerson University report which shows greater cost effectiveness of the mobility provided over the proposed bus alternative (Sweet, Mitra, and Benaroya 2021). This paper expands on those findings by assessing Innisfil Transit with respect to sustainability, scalability, and resiliency. First, we quantify the energy and emissions of this program relative to traditional transit and driving alone across varying powertrains. We then characterize a conservative first-order estimate of the percentage of US communities that fall within a similar spatial-demographic tier as Innisfil. Replicability also hinges on service cost and performance in comparison to average values for low-density transit in the US. Lastly, most transit agencies experienced a significant drop in demand (as much as 90%) with slowly rebounding ridership since the onset of the COVID-19 pandemic. The resiliency of the Innisfil program to the pressures induced by the pandemic is examined in comparison to other transit operations. The lessons learned across these three dimensions complement prior work to better understand the efficiency and sustainability of on-demand public mobility service for low-density communities like Innisfil.",
+      "url": "https://www.osti.gov/biblio/1863937",
+      "added_date": "2026-08-24",
+      "summary": "Weigl et al. published \"Sustainability, Scalability and Resiliency of the Town of Innisfil Mobility-on-Demand Experiment: Preliminary Results, Analyses, and Lessons Learned: Preprint\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4293199936",
       "doi": "10.19168/jyasar.999147",
       "title": "Sustainable Digital Servicization: Conceptual Modeling of the Car Sharing Business Model",
@@ -7780,6 +7900,23 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W3180185361",
+      "doi": "10.1177/03611981211016861",
+      "title": "Equity-Advancing Practices at Public Transit Agencies in the United States",
+      "year": 2021,
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "authors": [
+        "Alex Karner",
+        "Kaylyn Levine"
+      ],
+      "abstract": "Consistent with federal anti-discrimination and environmental justice law and guidance, public transportation agencies must evaluate the extent to which their decisions benefit and burden different people and groups and they must also conduct public engagement during decision-making. Assessing benefits and burdens and facilitating engagement are critically important for achieving transportation equity. In practice, quantitative analyses of plan impacts can be used to highlight and mitigate disparate benefits and burdens, but analyses are often conducted after major decisions have already been made and agencies have substantial flexibility in data collection and analysis. Public engagement can also affect equity-related outcomes, but agencies still rely heavily on public meetings and one-way information dissemination approaches that alienate potential participants. Considering the shortcomings associated with quantitative analysis and traditional public engagement as well as the open-ended nature of existing regulatory guidance, there is a need to understand the broad range of approaches that public transit agencies use to pursue equity-related goals. In this review of practice, we summarize six measures that agencies are using to advance transportation equity. Each measure is described using information gleaned from semi-structured interviews and primary source materials. We also identify challenges and shortcomings inherent in each approach using perspectives from the academic literature. The results will be useful for practitioners seeking equitable public transit systems and desiring to go beyond the standard approaches suggested by federal law and guidance.",
+      "url": "https://doi.org/10.1177/03611981211016861",
+      "added_date": "2026-08-24",
+      "summary": "Karner et al. published \"Equity-Advancing Practices at Public Transit Agencies in the United States\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3170662448",
       "doi": "10.1061/9780784483534.031",
       "title": "Exploring Preferences towards Integrating the Autonomous Vehicles with the Current Microtransit Services: A Disability Focus Group Study",
@@ -8379,6 +8516,23 @@
         "environment"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3193306995",
+      "doi": "10.3929/ethz-b-000481951",
+      "title": "Simulation of intermodal shared mobility in the San Francisco Bay using MATSim",
+      "year": 2021,
+      "journal": "Repository for Publications and Research Data (ETH Zurich)",
+      "authors": [
+        "Miloš Balać",
+        "Sebastian Hörl"
+      ],
+      "abstract": "This paper proposes a generic shared mobility simulator based on an agent-based model -MATSim.The implemented module can simulate both human and engine powered vehicles, docked/station and dockless/free-floating services, and multiple operators.The module is employed in a case study based in the San Francisco Bay Area that focuses on potential benefits of docked bike-sharing services to serve as a first/last mile solution for public transit.The initial results indicate that the current BayWheels docked bike-sharing service can potentially reduce travel time for 1049 765 trips through intermodality compared to current transit travel times.By focusing our analysis on these trips that could benefit from bike-sharing as a first/last mile solution we present the quality of service indicators for different levels of adoption and two fleet sizes.",
+      "url": "http://hdl.handle.net/20.500.11850/481951",
+      "added_date": "2026-08-24",
+      "summary": "Balać et al. published \"Simulation of intermodal shared mobility in the San Francisco Bay using MATSim\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W3172753668",
