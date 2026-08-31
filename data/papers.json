@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24",
-  "count": 463,
+  "updated_at": "2026-08-31",
+  "count": 475,
   "papers": [
     {
       "id": "https://openalex.org/W7125825604",
@@ -216,6 +216,26 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7204101742",
+      "doi": "10.3390/su18178622",
+      "title": "Assessing the Complementarity of Microtransit and Public Transit for Sustainable Mobility: Evidence from Three California Cities",
+      "year": 2026,
+      "journal": "Sustainability",
+      "authors": [
+        "Susan Shaheen",
+        "Elliot Martin",
+        "Brooke Wolfe",
+        "Cal Holman",
+        "Amartya Kumar"
+      ],
+      "abstract": "Microtransit services fill gaps within public transportation systems across the United States (U.S.), but there are questions about whether they complement and compete with fixed-route services. The successful integration of microtransit is important for sustainability because it has the potential to improve the ridership and viability of public transit, which has implications for reducing emissions and increasing vehicle occupancy. Moreover, microtransit may serve as a more cost-effective way to provide transit service in low-density regions, relative to fixed-route services. We analyzed survey and trip activity data from three microtransit operations in California, including the Silicon Valley Hopper (N = 457), Richmond Moves (N = 131), and the Via West Sac (N = 224). For the Bay Area systems, surveys were deployed in November 2024, while activity data spanned June 2022 to November 2024. Via West Sac is one of the oldest microtransit systems in the U.S., and data from a May 2019 survey was integrated into the analysis. The survey showed that 35% of Richmond Moves, 31% of Silicon Valley Hopper, and 17% of Via West Sac respondents connected to and/or from public transit during their most recent microtransit trip. We estimated travel and wait times were lower on microtransit than public transit for 53% of Richmond Moves, 83% of Silicon Valley Hopper, and 85% of Via West Sac trips. We also found that 27% of Richmond Moves, 37% of Silicon Valley Hopper, and 52% of Via West Sac trips had no viable fixed-route transit alternative. Insights from these findings and expert interviews were used to define planning and design recommendations to improve complementarity. Key recommendations include providing comparative travel time information between microtransit and public transit options, highlighting faster fixed-route alternatives to requested trips, and offering transfer credits for microtransit trips that connect to transit.",
+      "url": "https://doi.org/10.3390/su18178622",
+      "added_date": "2026-08-31",
+      "summary": "Shaheen et al. published \"Assessing the Complementarity of Microtransit and Public Transit for Sustainable Mobility: Evidence from Three California Cities\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7164644099",
       "doi": "10.20858/tp.2026.21.2.1",
       "title": "ASSESSING URBAN EQUITY THROUGH SPATIAL ACCESSIBILITY: A COMPARATIVE ANALYSIS OF BRT SYSTEMS IN INDONESIAN COASTAL CITIES",
@@ -343,6 +363,27 @@
         "technology"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7204545146",
+      "doi": "10.4236/wjet.2026.143043",
+      "title": "Delivery of the Future: How the First-Mile, Last-Mile Problem Can Be Approached around the World",
+      "year": 2026,
+      "journal": "World Journal of Engineering and Technology",
+      "authors": [
+        "Natalie Jardine",
+        "Jared Brown",
+        "Joseph Perri",
+        "Lance Baronsky",
+        "Owen Honey",
+        "Ardeshir Faghri"
+      ],
+      "abstract": "The first-mile/last-mile (FMLM) problem has quickly emerged as one of the most significant transportation and logistics challenges facing modern urban environments. The final stage of passenger transportation and freight delivery is often the most inefficient, costly, and operationally complex portion of the transportation network. Growing e-commerce demand, increasing urban congestion, automobile dependency, and disconnected multimodal infrastructure have intensified the need for more effective FMLM solutions. This paper evaluates international approaches to addressing FMLM transportation challenges and examines how these strategies may be applied in the United States, specifically in Wilmington, Delaware. The research begins by analyzing global transportation and logistics systems that have successfully improved FMLM connectivity. China serves as a major case study due to its advanced last-mile logistics network, including decentralized parcel distribution centers, parcel locker systems, micro-delivery vehicles, autonomous delivery technologies, and third-party logistics integration. These systems have significantly reduced delivery inefficiencies while improving convenience for consumers. The paper also examines Amazon’s integrated logistics and fulfillment network within the United States, highlighting how data analytics, artificial intelligence, route optimization, and strategically located distribution centers improve delivery performance and operational efficiency. In addition to freight-focused case studies, the paper investigates international multimodal transportation systems in countries such as the Netherlands, the United Kingdom, Japan, and Singapore. These countries emphasize context-sensitive roadway geometric design, protected bicycle infrastructure, transit-oriented development, curbside management, pedestrian accessibility, and integrated mobility systems. Unlike many automobile-oriented transportation systems within the United States, these international examples prioritize multimodal accessibility and coordinated transportation planning. The paper compares these international systems with current U.S. transportation practices, identifying key differences in roadway design philosophy, land-use integration, curbside allocation, and multimodal connectivity. A localized application of these concepts is then proposed for Wilmington, Delaware. The proposed recommendations include implementing micro-mobility hubs near the Wilmington Riverfront, smart parcel locker systems, protected bicycle lanes, pedestrian refuge islands, and expanded on-demand microtransit services based on the DART Connect model. These recommendations align with AASHTO geometric design principles and the Delaware State Freight Plan while addressing local congestion, accessibility, and multimodal transportation challenges. Finally, the paper explores future trends in FMLM transportation, including autonomous delivery systems, electric micro-mobility, Mobility-as-a-Service (MaaS), smart logistics platforms, and integrated transportation technologies. The findings of this study indicate that successful FMLM systems require coordinated infrastructure planning, multimodal transportation integration, advanced logistics technology, and context-sensitive roadway design. While differences in geography, density, and transportation culture may limit direct replication of international systems within the United States, the research concludes that many international strategies can significantly improve transportation accessibility, operational efficiency, sustainability, and overall mobility when adapted appropriately to local conditions.",
+      "url": "https://doi.org/10.4236/wjet.2026.143043",
+      "added_date": "2026-08-31",
+      "summary": "Jardine et al. published \"Delivery of the Future: How the First-Mile, Last-Mile Problem Can Be Approached around the World\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W7134992393",
@@ -533,6 +574,25 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7204279648",
+      "doi": "10.3934/gf.2026019",
+      "title": "Financial risk analysis and control of new energy vehicle companies——Taking BYD Company as an example",
+      "year": 2026,
+      "journal": "Green Finance",
+      "authors": [
+        "Wenming Cao",
+        "Min Hong",
+        "He Yuan",
+        "Pierre Failler"
+      ],
+      "abstract": "China plans to peak CO2 emissions before 2030 and achieve carbon neutrality before 2060. Under this \"dual carbon\" strategic goal, the new energy vehicle (NEV) market continues to expand, and financial risks are becoming increasingly prominent. In this paper, we took BYD as a case study and analyzed its financial risks from four dimensions, financing, investment, operation, and growth, using financial ratio analysis and horizontal comparison with SAIC Motor, Great Wall Motor, and Tesla over the period 2019-2024. The results revealed that (1) BYD's current ratio declined from 0.99 in 2019 to 0.75 in 2024, while its quick ratio fell from 0.75 to 0.51 over the same period, indicating deteriorating short-term solvency. (2) The cash ratio improved from 0.12 in 2019 to 0.31 in 2024, suggesting strengthening immediate payment capacity. (3) BYD's debt-to-asset ratio remained high, rising from 68.00% in 2019 to 74.6% in 2024, exceeding the industry average of approximately 60%, reflecting significant long-term solvency risk. (4) Net cash flow from investing activities was consistently negative from 2019 to 2024, reaching -1,291 billion yuan in 2024, indicating insufficient investment-related cash liquidity. (5) Accounts receivable turnover increased substantially from 2.74 times in 2019 to 12.52 times in 2024, while inventory turnover improved modestly from 4.12 to 6.03 times, though both remained below peer levels. To mitigate these risks, we proposed measures, including optimizing the capital structure, strengthening investment benefit analysis, improving accounts receivable and inventory management, and increasing R&D investment.",
+      "url": "https://doi.org/10.3934/gf.2026019",
+      "added_date": "2026-08-31",
+      "summary": "Cao et al. published \"Financial risk analysis and control of new energy vehicle companies——Taking BYD Company as an example\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W7163679167",
@@ -1574,6 +1634,22 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4415907597",
+      "doi": "10.61089/aot2025.fh4j7584",
+      "title": "Benefits of a SUMP: providing accessibility for all",
+      "year": 2025,
+      "journal": "Archives of Transport",
+      "authors": [
+        "Elisabetta Venezia"
+      ],
+      "abstract": "This paper focuses on the numerous advantages of implementing a Sustainable Urban Mobility Plan (SUMP), emphasizing its critical role in shaping the future of urban environments. As cities continue to grow and evolve, planners face the challenge of maintaining economic vitality while ensuring that urban areas remain attractive and livable for current and future residents. SUMPs offer a comprehensive framework to address these challenges by promoting more sustainable, inclusive, and efficient transportation systems. One of the primary benefits of SUMPs is the creation of public spaces that are bike-friendly, walkable, and visually appealing - factors that have become essential in attracting new inhabitants, retaining existing populations, and enhancing overall public health and well-being. Despite these benefits, urban areas worldwide are witnessing a troubling decline in everyday physical activity, largely due to increased dependence on cars. This trend has serious health implications for urban populations, especially for the elderly. SUMPs aim to counteract this by reducing car dependency and encouraging active modes of transportation such as walking and cycling. This shift not only improves public health outcomes but also fosters better social inclusion by improving access to jobs, education, health services, cultural facilities, and other essential amenities, not only for the systematic demand but also for the erratic one of the elderly. This article is significant because it emphasizes the importance of SUMPs for vulnerable populations, especially the elderly, who frequently have mobility issues. However, the benefits extend beyond older adults to include children, young adults, low-income households, and those with medical conditions or other limitations that prevent car use. By integrating land-use planning with transportation strategies, SUMPs create an environment where mobility without a car becomes practical and convenient for nearly everyone, including car owners who might choose alternative modes for daily travel. Through the use of detailed case studies, this paper illustrates how SUMPs serve as strategic plans tailored to meet the diverse mobility needs of urban populations. It demonstrates how these plans improve upon traditional transportation planning by prioritizing integration, public participation, and continuous assessment, ultimately enhancing the quality of life for all city residents, with a special focus on elderly citizens.",
+      "url": "https://doi.org/10.61089/aot2025.fh4j7584",
+      "added_date": "2026-08-31",
+      "summary": "Venezia et al. published \"Benefits of a SUMP: providing accessibility for all\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4412954447",
       "doi": "10.1016/j.trip.2025.101554",
       "title": "Citizens’ perspectives on sustainable mobility transitions in a semi-urban context: tensions between everyday practices and sustainability advancements",
@@ -2485,6 +2561,22 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4392736934",
+      "doi": "10.15483/2322422",
+      "title": "Ride Pingo to Transit",
+      "year": 2025,
+      "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "authors": [
+        "Yifan Chen"
+      ],
+      "abstract": "In this project, we developed an on-demand microtransit first- and last-mile service. To integrate the service with fixed-route transit, we developed a feature called Transit Connect that prioritized riders’ on-time arrival at the transit station over other service requirements. We first prototyped service and related algorithms in a simulated environment, and then piloted the service in the city of Kent, Washington. Our algorithm incorporates request-specific hard drop-off deadlines to ensure timely arrivals for transit transfers. In the pilot, these constraints were obtained from GTFS Realtime data to accurately determine the schedule of the transit and the location of the stations. This approach introduced the ability to accept or decline new requests based on the timing of transit connections for these new requests and connection status of onboarding customers. The pilot (called “Ride Pingo to Transit”) deployed a fleet of three 14-person vans, ran from September 2021 to March 2023, and served a total of 21,329 trips. Transit Connect was offered for drop-offs at both Kent Station and the Kent Valley hub. In total, 2,844 such trips were completed. This dataset was collected from our pilot, which includes the following: - Requests: List of all trip requests, including those that were actually served and those not materialized. - Fleet: Daily vehicle service logs. - Service details: Daily vehicle stop logs (boarding and alighting). - Trip types: First mile, last mile, or point-to-point. ![pingo to transit](pingo-to-transit.jpg)",
+      "url": "https://www.osti.gov/biblio/2322422",
+      "added_date": "2026-08-31",
+      "summary": "Chen et al. published \"Ride Pingo to Transit\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7126189149",
       "doi": "10.53558/vzlf6185",
       "title": "Rural Resilience: The Role for Innovative Public Transportation",
@@ -2838,6 +2930,26 @@
       "url": "https://doi.org/10.30574/ijsra.2025.15.3.1597",
       "added_date": "2026-08-03",
       "summary": "Rao et al. published \"Traffic safety engineering and crash analysis methods\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4412608989",
+      "doi": "10.5100/jje.61.3e01-01",
+      "title": "Trust-Aware Auditory Explanations for Takeover Performance in Autonomous Vehicles",
+      "year": 2025,
+      "journal": "The Japanese Journal of Ergonomics",
+      "authors": [
+        "Jungyeon Park",
+        "Yein Song",
+        "Yingqi Cai",
+        "Yesul Lee",
+        "Myung Hwan Yun"
+      ],
+      "abstract": "This study investigates the impact of three Auditory User Interfaces (AUIs) on takeover performance and mental workload in autonomous vehicles (AVs). As AVs reduce the need for driver engagement, users can focus on non-driving-related activities (NDRAs), which often require visual attention. When a takeover is needed, auditory communication plays a crucial role in ensuring effective information delivery. This research examines how different levels of auditory explanations for takeover requests influence driver response, considering initial trust in automation (TiA). Twenty participants (8 females, 12 males) were categorized into high- and low-TiA groups. Each experienced different AUIs across eight driving trials while performing a typing task as an NDRA in a simulator. Takeover reaction time, glance frequency, and perceived mental workload were measured to evaluate takeover performance and cognitive demand. Results revealed performance differences between user groups, offering insights into trust-aware auditory interaction design for AVs in NDRA scenarios.",
+      "url": "https://doi.org/10.5100/jje.61.3e01-01",
+      "added_date": "2026-08-31",
+      "summary": "Park et al. published \"Trust-Aware Auditory Explanations for Takeover Performance in Autonomous Vehicles\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -7098,6 +7210,24 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4404383333",
+      "doi": "10.21275/sr22104003952",
+      "title": "Shared Economy: A Scientometric Analysis and of the Evolution and Thematic Impact of the Research Field",
+      "year": 2022,
+      "journal": "International Journal of Science and Research (IJSR)",
+      "authors": [
+        "Erico Souza Costa",
+        "Melissa Watanabe",
+        "Jaime Dagostim Picolo"
+      ],
+      "abstract": "In view of the growing literature and theme field Shared Economy (SE), this work aims to \"understand its evolution as a field of scientific study sheltered under the theoretical optics of shared economy, collaborative consumption and economy on demand, having as panorama publications between the years 1979 to 2019\". The investigation occurs from the evolutionary dynamics in the thematic field using the SciMAT? tool. A total of 3, 719 samples were collected at WoS? and Scopus?. The results show solidity in the thematic field approach, indicating the consolidation of terms throughout new research, as well as developments in discussions on new themes. The academic focus on consumer conceptions based on shared access begins from 2010 and intensifies between 2013 and 2019, especially in discussions about rides and issues attributed to sustainable development. From the intensification of the debate, new areas of debate emerge in the thematic field. The ramifications identified in the thematic evolution between 2014 and 2015 can be understood as the conceptual maturation of the SE theme in the academic environment. The ramifications of the links between the themes indicate that researchers from different areas of research in the thematic field constitute academic interest. This research contributes to the context of the thematic field, and can broaden the horizon and planning for future research. Despite the indicators of maturity in the research on SE, the thematic field still offers an opportunity to deepen in new thematic areas, as well as the possibility of rekindling little debated discussions.",
+      "url": "http://dx.doi.org/10.21275/sr22104003952",
+      "added_date": "2026-08-31",
+      "summary": "Costa et al. published \"Shared Economy: A Scientometric Analysis and of the Evolution and Thematic Impact of the Research Field\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4287092059",
       "doi": "10.1186/s12544-022-00559-w",
       "title": "Shared mobility services: an accessibility assessment from the perspective of people with disabilities",
@@ -7313,6 +7443,22 @@
         "planning"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4280652455",
+      "doi": "10.1002/wene.436",
+      "title": "The legacy of Jaime Lerner and Curitiba, Brazil",
+      "year": 2022,
+      "journal": "Wiley Interdisciplinary Reviews Energy and Environment",
+      "authors": [
+        "Deborah Lynn Bleviss"
+      ],
+      "abstract": "Abstract More than 30 years have passed since Curitiba, Brazil, and Jaime Lerner, the three‐time mayor of the city, first became famous for the innovations that were implemented there, many environmental in focus. The most famous of these was the creation of a highly used and efficient public transportation system based on buses. Many have sought to emulate elements of the innovation put in place in that city. In recent years, however, both the country and the city have been beset by political scandals, economic malaise, and social problems, which have adversely affected many of these innovations. As a result, some question whether Curitiba remains relevant today as a model for the rest of the world. This perspective will examine the legacy of Lerner and Curitiba. Focusing on the public transportation system, it will make the case that the innovative principles underlying the original design of the public transportation system remain as relevant today for Curitiba and cities globally as they were then. These principles are design of an efficient and hierarchical public transportation system that takes its users from their first mile of commute to their last mile; construction of an urban infrastructure that supports and enhances use of public transportation; establishment of an effective public–private partnership where the private sector owns, operates and upgrades the vehicles while the public sector plans and oversees the system; and creation of a metropolitan governance strategy when the needs for public transportation go beyond city borders. This article is categorized under: Cities and Transportation > Transit Systems Cities and Transportation > Urban Planning Climate and Environment > Net Zero Planning and Decarbonization",
+      "url": "https://doi.org/10.1002/wene.436",
+      "added_date": "2026-08-31",
+      "summary": "Bleviss et al. published \"The legacy of Jaime Lerner and Curitiba, Brazil\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4286218510",
@@ -7579,6 +7725,27 @@
         "environment"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3158176781",
+      "doi": "",
+      "title": "Automated Vehicle Impacts on the Transportation System: Using System Dynamics to Assess Regional Impacts",
+      "year": 2021,
+      "journal": "ROSA P",
+      "authors": [
+        "Scott Smith",
+        "Ian Berg",
+        "Andrew Eilbert",
+        "Hannah Rakoff",
+        "Jingsi Shaw",
+        "Joseph Stanford"
+      ],
+      "abstract": "Many of today’s transportation planning tools break down under conditions of deep uncertainty. One example of such an uncertainty is how and when automated vehicles might be adopted in the surface transportation system, their performance capabilities, and user response. System dynamics (SD) techniques focus on causal relationships, and are ideal for gaining insight into the impacts of large changes in the transportation system. In 2020, the Volpe Center worked with two groups of public-sector organizations, including several Metropolitan Planning Organizations (MPO) and one State Department of Transportation (DOT), to see how SD techniques may be applied to problems of interest to them. Outputs of this effort included causal-loop diagrams (CLDs) and the resulting insights. The MPO partners found the CLDs useful as a discussion tool, to bring planners and modelers together. The SD models also helped to reveal data and modeling gaps in current travel demand models.\\n",
+      "url": "http://ntlsearch.bts.gov/ntl/md.do?id=80182",
+      "added_date": "2026-08-31",
+      "summary": "Smith et al. published \"Automated Vehicle Impacts on the Transportation System: Using System Dynamics to Assess Regional Impacts\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4235946308",
@@ -8253,6 +8420,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W3165657681",
+      "doi": "",
+      "title": "O papel da micro-mobilidade nos transportes urbanos do futuro",
+      "year": 2021,
+      "journal": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+      "authors": [
+        "Ana Filipa Trindade Ferrão"
+      ],
+      "abstract": "Dissertação de Mestrado Integrado em Engenharia Civil apresentada à Faculdade de Ciências e Tecnologia",
+      "url": "http://hdl.handle.net/10316/94234",
+      "added_date": "2026-08-31",
+      "summary": "Ferrão et al. published \"O papel da micro-mobilidade nos transportes urbanos do futuro\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3211160496",
       "doi": "10.5220/0010675000003058",
       "title": "On the Integration of Shared Autonomous Mobility on Demand in Mobility Service Platforms",
@@ -8919,6 +9102,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W3099741945",
+      "doi": "",
+      "title": "Case Studies of Travel Demand Analysis on Transport Disadvantaged Communities",
+      "year": 2020,
+      "journal": "PDXScholar  (Portland State University)",
+      "authors": [
+        "Tierra Bills"
+      ],
+      "abstract": "Travel Demand Models are the backbone of decision-making for public transportation infrastructure investment. Yet, critiques of these models with respect to their usefulness and performance for transport disadvantage communities are rare in the academic literature. These disadvantage communities may include (but are not limited to) low income travelers, transit dependents, un/underemployed, and the elderly. With the objective of promoting travel demand models that are better equipped for assessing transportation impacts for disadvantaged communities, this presentation highlights lessons learned from two case studies of applying travel demand analysis to understand the transportation accessibility of low income, elderly, and transit dependent communities. The case studies take place in two Michigan cities, Benton Harbor and Detroit.",
+      "url": "https://pdxscholar.library.pdx.edu/trec_seminar/197",
+      "added_date": "2026-08-31",
+      "summary": "Bills et al. published \"Case Studies of Travel Demand Analysis on Transport Disadvantaged Communities\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3013019998",
       "doi": "",
       "title": "Cubular Corridors: Merging Vertical Urbanism with Accessibility Initiatives",
@@ -9504,6 +9703,26 @@
         "demand"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3024025916",
+      "doi": "10.1007/s11116-020-10110-2",
+      "title": "What are the determinants of the willingness to share rides in pooled on-demand services?",
+      "year": 2020,
+      "journal": "Transportation",
+      "authors": [
+        "M.J. Alonso González",
+        "Oded Cats",
+        "Niels van Oort",
+        "Sascha Hoogendoorn-Lanser",
+        "Serge Hoogendoorn"
+      ],
+      "abstract": "Simulation studies suggest that pooled on-demand services (also referred to as Demand Responsive Transport, ridesharing, shared ride-hailing or shared ridesourcing services) have the potential to bring large benefits to urban areas while inducing limited time losses for their users. However, in reality, the large majority of users request individual rides (and not pooled rides) in existing on-demand services, leading to increases in motorised vehicle miles travelled. In this study, we investigate to what extent fare discounts, additional travel time, and the (un)willingness to share the ride with (different numbers of) other passengers play a role in the decision of individuals to share rides. To this end, we design a stated preference study targeting Dutch urban individuals. In our research, we (1) disentangle the sharing aspect from related time-cost trade-offs (e.g. detours), (2) investigate preference heterogeneity regarding the studied attributes and identify distinct market segments, and (3) simulate scenarios to understand the impact of the obtained parameters in the breakdown between individual and pooled services. We find that less than one third of respondents have strong preferences against sharing their rides. Also, we find that different market segments vary not only in their values of the willingness to share, but also in how they perceive this willingness to share (per-ride or proportional to the in-vehicle time). Further, the scenario analysis demonstrates that the share of individuals who are willing to share rides depends primarily on the time-cost trade-offs, rather than on the disutility stemming from pooling rides per se.",
+      "url": "https://doi.org/10.1007/s11116-020-10110-2",
+      "added_date": "2026-08-31",
+      "summary": "González et al. published \"What are the determinants of the willingness to share rides in pooled on-demand services?\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     }
   ]
 }
