@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07",
-  "count": 475,
+  "updated_at": "2026-09-14",
+  "count": 490,
   "papers": [
     {
       "id": "https://openalex.org/W7125825604",
@@ -28,6 +28,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7212326268",
+      "doi": "",
+      "title": "A Comparative Analysis of Governance and Financial Frameworks in Public Transit Systems: A Case Study of Lextran and Peer Transit Agencies",
+      "year": 2026,
+      "journal": "UKnowledge (University of Kentucky)",
+      "authors": [
+        "Kelin E. Beattie"
+      ],
+      "abstract": "Public transportation serves as a vital community \"lifeline,\" providing essential mobility for the 45% of Americans without private vehicle access and generating a 5-to-1 economic return on investment. This research investigates a critical fiscal paradox within Lextran, the transit authority for Lexington, Kentucky: despite achieving a cost per passenger trip 22% lower than the national peer average, the agency faces a $25.95 million unfunded capital gap over the current five-year planning horizon. Utilizing a comparative case study methodology, this paper evaluates the \"rules of the game\"—the hybrid governance and fiscal frameworks—that influence long-term financial sustainability. The study benchmarks Lextran against three regional peers: Louisville (TARC), Cincinnati (SORTA), and Knoxville (KAT). Findings reveal that Lexington’s reliance on a single-source property tax (comprising ~70% of revenue) provides stability but lacks the elasticity of Cincinnati’s 0.8% sales tax or Louisville’s occupational license tax to keep pace with rising operational costs. The paper concludes that Lextran’s current fiscal structure is precarious and fragile compared to its neighbors. To ensure the system's longevity, the study recommends the implementation of policy changes based on the best practices of peer cities. These policy innovations are necessary to bridge the capital gap and align Lexington’s community values with its fiscal reality.",
+      "url": "https://uknowledge.uky.edu/mpampp_etds/485",
+      "added_date": "2026-09-14",
+      "summary": "Beattie et al. published \"A Comparative Analysis of Governance and Financial Frameworks in Public Transit Systems: A Case Study of Lextran and Peer Transit Agencies\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7149959114",
       "doi": "10.3390/su18073528",
       "title": "A Conceptual Sustainability Assessment Framework for Urban Micromobility Systems",
@@ -42,6 +58,25 @@
       "url": "https://doi.org/10.3390/su18073528",
       "added_date": "2026-08-24",
       "summary": "Mitropoulos et al. published \"A Conceptual Sustainability Assessment Framework for Urban Micromobility Systems\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7204881156",
+      "doi": "10.32866/001c.168407",
+      "title": "A Research Roadmap to Pave the Way for Shared Micromobility in the US: Findings from a Cross-sector Delphi Study",
+      "year": 2026,
+      "journal": "Findings",
+      "authors": [
+        "Angela Sanguinetti",
+        "Dillon T. Fitch",
+        "Beth Ferguson",
+        "Mollie D'Agostino"
+      ],
+      "abstract": "Shared micromobility promises myriad benefits including increasing transit accessibility and reducing car travel but has faced serious challenges including safety and financial viability. We drew upon experts’ opinions to articulate 10 research priorities to support the future of micromobility in the US. Over 70% of 49 experts ranked Infrastructure in their top 5 priorities. Stakeholder groups also expressed different priorities, including greater emphasis on Financing among industry representatives and greater emphasis on Equity among advocates. Findings can inform research funding and dissemination strategies. Further research could examine similarities and differences in priorities across regions and more specific stakeholder groups.",
+      "url": "https://doi.org/10.32866/001c.168407",
+      "added_date": "2026-09-14",
+      "summary": "Sanguinetti et al. published \"A Research Roadmap to Pave the Way for Shared Micromobility in the US: Findings from a Cross-sector Delphi Study\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -280,6 +315,26 @@
         "planning"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7212062047",
+      "doi": "10.69606/geography.v4i3.543",
+      "title": "Assessing Urban Service Accessibility through Building Density Analysis in Mampang Prapatan District, South Jakarta",
+      "year": 2026,
+      "journal": "Journal of Geographical Sciences and Education",
+      "authors": [
+        "Dian Nugraheni",
+        "Muhammad Rafi Devrian",
+        "Tasya Nabila",
+        "Anisa Nabila Rizki Ramadhani",
+        "Vella Ahalla Hulaifah Somantri"
+      ],
+      "abstract": "Rapid densification in Jakarta has increased pressure on basic urban services and raised concerns about whether high-density neighborhoods enjoy adequate walking access to health, economic, and transport services in Mampang Prapatan District. This study aims to assess this accessibility by combining open building footprints, a simple population estimation method, and network-based accessibility analysis. Building footprints from Google Open Buildings were used to approximate the number of residents per 500 × 500 m grid cell, assuming an average of four inhabitants per residential building. Points of interest for health facilities, small-scale economic activities, and public transport stops were collected from Google Maps, and walking times along the OpenStreetMap street network were calculated using a closest-facility analysis. Each grid cell was classified into one of five accessibility classes—Very Low, Low, Moderate, High, and Very High, and a composite accessibility index was constructed to summarize combined access to all three service types. The results show that most high-density grid cells in the central and north-eastern parts of the district fall into the Moderate, High, or Very High classes, together accounting for 69% of the study area and indicating relatively compact and walkable access to key services. In contrast, 31% of grid cells, concentrated in the southern and south-western areas, remain in the Low or Very Low classes, revealing clear spatial inequalities in access to pedestrian links. The approach is straightforward to implement with open data and can support local planning efforts aimed at promoting more equitable, walkable, and low-carbon urban development.",
+      "url": "https://doi.org/10.69606/geography.v4i3.543",
+      "added_date": "2026-09-14",
+      "summary": "Nugraheni et al. published \"Assessing Urban Service Accessibility through Building Density Analysis in Mampang Prapatan District, South Jakarta\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4415090278",
@@ -1018,6 +1073,24 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7204991967",
+      "doi": "10.61978/logistica.v4i1.1742",
+      "title": "Public Transport Accessibility, Service Quality, and Commuter Satisfaction: A Comparative Qualitative Study of Indonesian Medium-Sized Cities",
+      "year": 2026,
+      "journal": "Logistica Journal of Logistic and Transportation",
+      "authors": [
+        "Ahmad Mubarok",
+        "Iwan Engkus Kurniawan",
+        "Quirina Ariantji Patrisia Mintje"
+      ],
+      "abstract": "Public transport is essential for sustainable urban mobility, yet its effectiveness depends on both physical accessibility and service quality. This study examines how accessibility influences commuter satisfaction in Indonesian medium-sized cities, focusing on the mediating role of service quality. Using a qualitative descriptive approach with a comparative multiple-case design, semi-structured interviews were conducted with fourteen public transport users of varying ages, occupations, and travel frequencies, and analyzed through thematic coding with cross-case comparison. Findings show that accessibility is multidimensional, covering network coverage, walking distance, first- and last-mile connectivity, route integration, frequency, operating hours, affordability, information, and infrastructure for vulnerable users. Accessibility was rated higher in central areas than peripheral ones due to weaker feeder connections. Service quality—particularly reliability, punctuality, comfort, safety, and staff assistance—strongly shaped satisfaction, with first- and last-mile conditions influencing overall travel experience. Priorities differed across commuter groups, with students valuing affordability, workers valuing reliability, shift workers needing extended hours, and older adults needing accessible infrastructure. The study concludes that satisfaction results from the interaction between accessibility and service quality, not accessibility alone. It recommends improving reliability, feeder integration, real-time information, pedestrian infrastructure, and inclusive policies to strengthen public transport planning in Indonesian medium-sized cities.",
+      "url": "https://doi.org/10.61978/logistica.v4i1.1742",
+      "added_date": "2026-09-14",
+      "summary": "Mubarok et al. published \"Public Transport Accessibility, Service Quality, and Commuter Satisfaction: A Comparative Qualitative Study of Indonesian Medium-Sized Cities\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7140219913",
       "doi": "10.1080/23754931.2026.2646852",
       "title": "Quantifying the Accessibility to Public Transit in Rural Areas Using ArcGIS and GTFS",
@@ -1071,6 +1144,27 @@
       "url": "https://doi.org/10.1016/j.cstp.2026.101907",
       "added_date": "2026-07-13",
       "summary": "Liu et al. published \"Rural microtransit service to replace fixed route service: A California case study\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7207864385",
+      "doi": "10.1016/j.jss.2026.113086",
+      "title": "Software-defined vehicle ecosystems in transformation",
+      "year": 2026,
+      "journal": "Journal of Systems and Software",
+      "authors": [
+        "Heidi Hietala",
+        "Nirnaya Tripathi",
+        "Prabhash Rathnayake",
+        "Yueqiang Xu",
+        "Tero Päivärinta",
+        "Ella Peltonen"
+      ],
+      "abstract": "Context: The automotive industry is transitioning from hardware-centric development towards software-defined vehicles (SDVs), where software drives functionality, value creation, and competitive differentiation. This shift challenges proprietary software development, firm-centric innovation, and traditional supply chain models, giving rise to ecosystem-based collaboration. However, SDV transformation is primarily framed as a technical change, leaving its broader ecosystem implications insufficiently understood. Objective: This study explores the transformation of SDV ecosystems, their stakeholders, collaborative structures, roles and authority, and highlights associated challenges and opportunities. Methods: This systematic literature review collected 351 studies from six databases and selected 25 for detailed analysis. Results: Four interrelated shifts (from hardware-centric to software platforms, from supply chains to collaborative ecosystems, from proprietary to open and standard solutions, and from firm-level control to distributed governance) characterise the transformation, with six levels of collaboration involving twelve stakeholder groups. These collaborations are influenced by five dimensions of authority. The literature also highlights six core software development challenges and various organisational, industry and market, and regulatory, legal, and ethical challenges. It identifies five software development opportunities and various organisational, industry and market, and public value and ethical opportunities. Conclusion: The first contribution integrates previously fragmented literature on the SDV ecosystem transformation, demonstrating how SDVs are transforming the automotive industry through the four interrelated shifts driven by software advancements. Second, it proposes an SDV ecosystems model that integrates SDV architecture, stakeholder groups, collaboration structures, and governance levels to facilitate sustainable SDV ecosystems. Additionally, agendas for research and practice are outlined.",
+      "url": "https://doi.org/10.1016/j.jss.2026.113086",
+      "added_date": "2026-09-14",
+      "summary": "Hietala et al. published \"Software-defined vehicle ecosystems in transformation\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -1351,6 +1445,44 @@
         "environment"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7211911701",
+      "doi": "10.1177/03611981261469559",
+      "title": "User-Focused Microtransit for Students’ After-School Activities",
+      "year": 2026,
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "authors": [
+        "Anne S. Patricio",
+        "Antonis F. Lentzakis",
+        "Maria Paipai",
+        "Maria Kamargianni"
+      ],
+      "abstract": "This study investigates a user-focused microtransit service designed to transport students to after-school activities. The methodology includes generating a synthetic student population and the corresponding trip requests, determining the routes using a metaheuristic approach to solve a Vehicle Routing Problem with Pickup and Delivery and Time Windows (VRPPDTW), and evaluating system performance under a zero-rejection policy. The VRPPDTW includes scheduling drivers with mandatory breaks and maximum shift durations, while minimizing unassigned trips, waiting time, travel time, and route imbalance. The case study focuses on an on-demand transport service for students’ after-school activities in Limassol, Cyprus. Various scenarios are analyzed to assess the effect of fleet size, fare levels, and service parameters on performance. The results show that a fleet of 10 vehicles serving 144 trips for 60 students can reduce the number of cars required by 83%. Larger fleets achieve higher occupancy and better kilometer utilization. Of note, fleets of 20 vehicles or more surpass a system efficiency of one, indicating the distance traveled by the service is lower than individual trips. For service levels, increasing acceptable waiting time by 5 min or travel time by 15 min boosts capacity by 24%. Economically, a zero-rejection policy is sustainable only for large fleets with high fares. However, allowing a small rejection rate of 2% significantly improves viability, enabling the fleet of 10 vehicles to break even with fares 25% lower than local taxi rates.",
+      "url": "https://doi.org/10.1177/03611981261469559",
+      "added_date": "2026-09-14",
+      "summary": "Patricio et al. published \"User-Focused Microtransit for Students’ After-School Activities\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7212297576",
+      "doi": "10.14744/sigma.2026.2092",
+      "title": "Using large language models for systematic literature reviews: A case study on electric vehicle routing problems",
+      "year": 2026,
+      "journal": "Sigma Journal of Engineering and Natural Sciences – Sigma Mühendislik ve Fen Bilimleri Dergisi",
+      "authors": [
+        "Emine Gülşen TORUNOĞLU ASLAN",
+        "Gonca Yıldırım",
+        "Selçuk Kürşat İşleyen",
+        "İsmail ASLAN"
+      ],
+      "abstract": "In academic research, systematic literature reviews play a key role in bringing together what is known about a given topic, but carrying out such reviews requires considerable time and effort, especially in fast-moving areas like logistics and transportation.Even the early task of locating and filtering relevant publications from the large body of available work can be slow and labor-intensive.Selection and interpretation of articles also remain prone to personal judgment, which threatens the reproducibility that scientific inquiry depends on.Against this backdrop, this study examines how advanced large language models can be incorporated into the systematic literature review process.To do so, we asked GPT-3.5 to screen research articles using a set of predefined criteria, testing it for both speed and accuracy.The input consisted of titles and abstracts from published work on the Electric Vehicle Routing Problem, a topic of growing importance in sustainable logistics, and each article was run through a carefully prepared prompt.GPT-3.5 scored 96% accuracy and finished the entire task in less than three minutes, whereas a PhD student working on the same task reached 84% accuracy over three working days.These outcomes suggest that large language models can be useful for automating parts or the whole of the literature review process.The workload can be reduced without sacrificing, and in fact even improving, accuracy.The study also provides a starting point for broader use of such models in academic research, illustrating how they may improve the speed and reproducibility of review work across different disciplines.",
+      "url": "https://doi.org/10.14744/sigma.2026.2092",
+      "added_date": "2026-09-14",
+      "summary": "ASLAN et al. published \"Using large language models for systematic literature reviews: A case study on electric vehicle routing problems\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W7120038712",
@@ -4411,6 +4543,34 @@
         "demand"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4394673910",
+      "doi": "10.1088/1748-9326/ad3cf5",
+      "title": "Shared pooled mobility: expert review from nine disciplines and implications for an emerging transdisciplinary research agenda",
+      "year": 2024,
+      "journal": "Environmental Research Letters",
+      "authors": [
+        "Felix Creutzig",
+        "Alexander Schmaus",
+        "Eva Ayaragarnchanakul",
+        "Sophia Becker",
+        "Giacomo Falchetta",
+        "Jia Hu",
+        "Mirko Goletz",
+        "Adeline Guéret",
+        "Kai Nagel",
+        "Jonas Schild",
+        "Wolf-Peter Schill",
+        "Tilmann Schlenther",
+        "Nora Molkenthin"
+      ],
+      "abstract": "Abstract Shared pooled mobility has been hailed as a sustainable mobility solution that uses digital innovation to efficiently bundle rides. Multiple disciplines have started investigating and analyzing shared pooled mobility systems. However, there is a lack of cross-community communication making it hard to build upon knowledge from other fields or know which open questions may be of interest to other fields. Here, we identify and review 9 perspectives: transdisciplinary social sciences, social physics, transport simulations, urban and energy economics, psychology, climate change solutions, and the Global South research and provide a common terminology. We identify more than 25 000 papers, with more than 100 fold variation in terms of literature count between research perspectives. Our review demonstrates the intellectual attractivity of this as a novel perceived mode of transportation, but also highlights that real world economics may limit its viability, if not supported with concordant incentives and regulation. We then sketch out cross-disciplinary open questions centered around (1) optimal configuration of ride-pooling systems, (2) empirical studies, and (3) market drivers and implications for the economics of ride-pooling. We call for researchers of different disciplines to actively exchange results and views to advance a transdisciplinary research agenda.",
+      "url": "https://doi.org/10.1088/1748-9326/ad3cf5",
+      "added_date": "2026-09-14",
+      "summary": "Creutzig et al. published \"Shared pooled mobility: expert review from nine disciplines and implications for an emerging transdisciplinary research agenda\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4402527854",
@@ -8320,6 +8480,28 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W3132512064",
+      "doi": "10.1080/0960085x.2021.1884009",
+      "title": "Introducing platform ecosystem resilience: leveraging mobility platforms and their ecosystems for the new normal during COVID-19",
+      "year": 2021,
+      "journal": "European Journal of Information Systems",
+      "authors": [
+        "Rob Jago Floetgen",
+        "Jana Strauss",
+        "Jörg Weking",
+        "Andreas Hein",
+        "Florian Urmetzer",
+        "Markus Böhm",
+        "Helmut Krcmar"
+      ],
+      "abstract": "COVID-19 has created many constraint-related challenges for humans in general and organisations in particular. Specifically, businesses that require physical contact, such as mobility providers, have been severely impacted by the crisis. This paper reveals how mobility platforms and their ecosystem of actors have adapted faster than their non-platform competitors to become resilient. Whereas current research on resilience explicitly deals with the concept of organisational resilience, community resilience, or IT resilience, socio-technical characteristics of digital platforms have not been investigated. We build on a case survey approach, including heterogeneous qualitative evidence of 266 actions of 171 analysed mobility platforms. The results show five archetypes of how mobility platforms leverage their platform-based nature and the ecosystem to build resilience. Based on this, we develop the concept of platform ecosystem resilience as leveraging socio-technical factors of digital platforms and ecosystems frugally to design, deploy and use situation-specific responses to prepare for, endure and adapt by capturing new opportunities and engaging in transformative activities to cope with exogenous shocks and become resilient for future disruptions. Our results emphasise the importance of platform ecosystems for practitioners and policy planners to develop the “new normal” rather than resuming existing practices.",
+      "url": "https://doi.org/10.1080/0960085x.2021.1884009",
+      "added_date": "2026-09-14",
+      "summary": "Floetgen et al. published \"Introducing platform ecosystem resilience: leveraging mobility platforms and their ecosystems for the new normal during COVID-19\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3217257576",
       "doi": "",
       "title": "Labyrinth Technologies Smart City Integrated Autonomous Microtransit Electric Vehicle",
@@ -9118,6 +9300,25 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4214707278",
+      "doi": "10.4000/popvuln.1287",
+      "title": "Comparaison des caractéristiques des organismes de transport en commun du Québec selon la ruralité : vers l’identification de nouvelles opportunités pour favoriser la participation sociale des aînés",
+      "year": 2020,
+      "journal": "Populations vulnérables",
+      "authors": [
+        "Mélanie Levasseur",
+        "Daniel Naud",
+        "Sonia Routhier",
+        "Jean-François Bruneau"
+      ],
+      "abstract": "Cette étude vise à décrire et à comparer, selon la ruralité, les caractéristiques du transport en commun régulier et adapté de municipalités québécoises. Une enquête transversale a été menée à l’aide d’un questionnaire en ligne auprès d’organismes de transport, de deux rapports d’activités et de données ouvertes. Réparti de façon représentative dans 573 (50,4 %) municipalités et arrondissements du Québec, un échantillon de 72 (43,9 %) organismes de transport a été considéré. Des inégalités ont été surtout identifiées pour le transport régulier. Les milieux métropolitains se distinguaient par des tarifs réduits, des distances inférieures entre les arrêts et un achalandage et une distance parcourue totale par kilomètre de route municipale supérieurs. En comparaison aux milieux métropolitains, les milieux urbain et rural présentaient un nombre inférieur de plaintes et offraient davantage de transports adaptés à tous les jours.",
+      "url": "https://doi.org/10.4000/popvuln.1287",
+      "added_date": "2026-09-14",
+      "summary": "Levasseur et al. published \"Comparaison des caractéristiques des organismes de transport en commun du Québec selon la ruralité : vers l’identification de nouvelles opportunités pour favoriser la participation sociale des aînés\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3013019998",
       "doi": "",
       "title": "Cubular Corridors: Merging Vertical Urbanism with Accessibility Initiatives",
@@ -9355,6 +9556,34 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7209564930",
+      "doi": "",
+      "title": "Human Environment Digest: April 2, 2020",
+      "year": 2020,
+      "journal": "ROSA P",
+      "authors": [],
+      "abstract": "This digest shares the latest information from a range of Federal and non-Federal sources, addressing transportation and its relationship to the human environment. Through this information exchange, FHWA hopes to foster dialogue at all levels and continue to further the state of the practice on these important topics in support of safety; infrastructure, including accelerated project delivery, access to jobs, and community revitalization; technology and design innovation; and accountability, including, data-driven decisions and performance-based planning.\\n",
+      "url": "http://ntlsearch.bts.gov/ntl/md.do?id=80111",
+      "added_date": "2026-09-14",
+      "summary": "The authors et al. published \"Human Environment Digest: April 2, 2020\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7209961803",
+      "doi": "",
+      "title": "Human Environment Digest: June 25, 2020",
+      "year": 2020,
+      "journal": "ROSA P",
+      "authors": [],
+      "abstract": "This digest shares the latest information from a range of Federal and non-Federal sources, addressing transportation and its relationship to the human environment. Through this information exchange, FHWA hopes to foster dialogue at all levels and continue to further the state of the practice on these important topics in support of safety; infrastructure, including accelerated project delivery, access to jobs, and community revitalization; technology and design innovation; and accountability, including, data-driven decisions and performance-based planning.\\n",
+      "url": "http://ntlsearch.bts.gov/ntl/md.do?id=80105",
+      "added_date": "2026-09-14",
+      "summary": "The authors et al. published \"Human Environment Digest: June 25, 2020\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3080894776",
       "doi": "10.1016/j.retrec.2020.100910",
       "title": "Impacts of replacing a fixed public transport line by a demand responsive transport system: Case study of a rural area in Amsterdam",
@@ -9424,6 +9653,23 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4214541758",
+      "doi": "10.4000/popvuln.1234",
+      "title": "Introduction. Mobilité et vulnérabilités",
+      "year": 2020,
+      "journal": "Populations vulnérables",
+      "authors": [
+        "Jimmy Armoogum",
+        "Virginie Dejoux"
+      ],
+      "abstract": "Introduction. Mobilité et vulnérabilités Introduction. Mobility and vulnerabilities Jimmy Armoogum et Virginie Dejoux 1La mobilité des individus est un élément clé de la vie quotidienne car elle permet de réaliser des activités à l'extérieur de son domicile.Les difficultés à se déplacer, pouvant entraîner la sédentarité ou une mobilité réduite, peuvent en effet constituer un frein à la participation et à l'insertion sociale et faire ainsi apparaître des inégalités.Ce numéro de la revue Populations vulnérables propose d'interroger la mobilité, valeur essentielle de notre société, sous l'angle des vulnérabilités.2 Les évolutions démographiques, sociales et économiques actuelles des pays développés, telles que le vieillissement de la population, la disparition des services de proximité, l'atomisation croissante des réseaux sociaux et familiaux, mais également l'évolution du prix du pétrole et l'étalement urbain, risquent d'affecter la mobilité de l'ensemble de la population dans les années futures.Ainsi, les difficultés d'accessibilité des déplacements, qu'elles soient physiques, économiques ou spatiales, induisent une situation de vulnérabilité.",
+      "url": "https://doi.org/10.4000/popvuln.1234",
+      "added_date": "2026-09-14",
+      "summary": "Armoogum et al. published \"Introduction. Mobilité et vulnérabilités\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3089302705",
       "doi": "10.21949/1518336",
       "title": "Mobility on Demand (MOD) Sandbox Demonstration: DART First and Last Mile Solution",
@@ -9491,6 +9737,20 @@
       "url": "https://doi.org/10.1016/j.landusepol.2019.05.029",
       "added_date": "2026-06-11",
       "summary": "González-González et al. published \"Parking futures: Preparing European cities for the advent of automated vehicles\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7210085028",
+      "doi": "",
+      "title": "Public Roads: Spring 2020",
+      "year": 2020,
+      "journal": "ROSA P",
+      "authors": [],
+      "abstract": "Public Roads is the quarterly magazine of the Federal Highway Administration (FHWA). Reading Public Roads is the easiest way to keep up-to-date on developments in federal highway policies, programs, and research and technology. More specifically, the magazine \"covers\" advances and innovations in highway/traffic research and technology, critical national transportation issues, important activities and achievements of FHWA and others in the highway community, specific FHWA program areas, and subjects of interest to highway industry professionals. Each issue contains standard departments that include information on topics of general interest, notices of recent publications in research and development and in technology applications, Internet-related information applicable to transportation professionals, programs and courses offered by the National Highway Institute, and a calendar of major conferences and special events. Public Roads also emphasizes the continuing commitment of FHWA to be a world leader in promoting highway research and technology transfer. For almost its entire 80 years, Public Roads was exclusively an in-house research journal for engineers, scientists, and economists. However, in the summer of 1993, Public Roads broadened its scope to represent the entire FHWA and to be relevant to a wider audience. The expanded audience includes all FHWA employees; international, national, state, and local transportation officials; members of highway-related professional societies and associations; researchers at technical libraries and technology transfer centers; professors and students of engineering and traffic management; members of appropriate congressional committees; and others interested in highway research and technology and in FHWA policies and programs.\\n",
+      "url": "http://ntlsearch.bts.gov/ntl/md.do?id=74208",
+      "added_date": "2026-09-14",
+      "summary": "The authors et al. published \"Public Roads: Spring 2020\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -9642,6 +9902,23 @@
       "url": "https://escholarship.org/uc/item/0k85r9jv",
       "added_date": "2026-07-13",
       "summary": "Fleming et al. published \"Technology is Outpacing State Automated Vehicle Policy\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W3007213282",
+      "doi": "10.26552/com.c.2020.1.25-34",
+      "title": "The History of the Transport System Development and Future with Sharing and Autonomous Systems",
+      "year": 2020,
+      "journal": "Communications - Scientific letters of the University of Zilina",
+      "authors": [
+        "Géza Katona",
+        "János Juhász"
+      ],
+      "abstract": "The world today is rapidly changing with the spread of automation. Moreover, urban life is more and more common and the number of inhabitants is rapidly growing. This time is the renaissance of bicycle-based vehicles, especially of electric power assisted bicycles. Vehicle sharing is also getting more popular. These progresses will have a crucial effect on traditional transportation networks. Moreover, the traffic volume, parking facilities and public space usage can be drastically modified. A research data is introduced from Paris and Lisbon, which helps to forecast the effect of the autonomous and sharing systems. This evolution can be advantageous, but it can also bring some disadvantages. In this article, these changes are summarized in the mirror of history, especially the Futurama concept and the transport system changes in Los Angeles. This overview will be a good basis for further research and for the development of a routing algorithm.",
+      "url": "https://doi.org/10.26552/com.c.2020.1.25-34",
+      "added_date": "2026-09-14",
+      "summary": "Katona et al. published \"The History of the Transport System Development and Future with Sharing and Autonomous Systems\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
