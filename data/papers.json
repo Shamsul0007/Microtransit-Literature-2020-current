@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14",
-  "count": 490,
+  "updated_at": "2026-09-21",
+  "count": 498,
   "papers": [
     {
       "id": "https://openalex.org/W7125825604",
@@ -354,6 +354,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7204207911",
+      "doi": "10.7922/g2cf9ngr",
+      "title": "California and USA Pricing Strategy Experiences",
+      "year": 2026,
+      "journal": "eScholarship (California Digital Library)",
+      "authors": [
+        "Emma Huang, Erin Barry, Joshua Schank, Egon Terplan"
+      ],
+      "abstract": "This white paper examines the successes and failures of road pricing strategies in California and the United States, with implications for congestion pricing across California. It evaluates nine case studies spanning feasibility studies, operational HOT lane programs, and the country's first large-scale cordon pricing zone. We address the conditions that favor pricing, barriers, outcomes, and how costs and benefits are distributed using case studies in Los Angeles, San Diego, San Francisco, San Mateo County, Alameda County, New York City, and Northern Virginia. We find that successful pricing programs have sustained political champions, state enabling legislation, and benefits visible to identifiable users. Revenue allocation, not toll structure, is the primary determinant of whether pricing is regressive or progressive. No pricing program reviewed was repealed after implementation. We conclude that advancing road pricing in California will require clear state leadership and supportive coalitions.",
+      "url": "https://escholarship.org/uc/item/6gh3f3qw",
+      "added_date": "2026-09-21",
+      "summary": "Terplan et al. published \"California and USA Pricing Strategy Experiences\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7162721262",
       "doi": "",
       "title": "Car-Sharing Platforms and Socio-Technical Affordances: A Needs-Affordance Perspective",
@@ -373,6 +389,24 @@
         "carsharing"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7213481343",
+      "doi": "",
+      "title": "Community Transportation Needs and Attitudes towards Electric Vehicles in Los Angeles: The EVClean15 Survey Report",
+      "year": 2026,
+      "journal": "eScholarship (California Digital Library)",
+      "authors": [
+        "Abel Kebasso",
+        "Shante Walker",
+        "Sarah McCullough"
+      ],
+      "abstract": "The Niles Foundation (TNF) conducted a community transportation needs assessment in Los Angeles, focused on Council District 15, to inform future TNF initiatives. The survey was completed by a highly diverse group of 1,002 local residents. The median income is $39,458 and nearly a third rely on public transit daily. The majority of respondents has strong interest in microtransit similar concerns about transit, and a desire for less air pollution. Latino and Black residents had lower awarness of EV programs and less access to charging stations. The report highlights the importance of addressing such racialized differences and offers important insights for transportation researchers and professionals seeking to understand the needs of diverse and low-income residents. It also illustrates the power of community-generated research to inform transportation decision-making.",
+      "url": "https://escholarship.org/uc/item/3qr4650g",
+      "added_date": "2026-09-21",
+      "summary": "Kebasso et al. published \"Community Transportation Needs and Attitudes towards Electric Vehicles in Los Angeles: The EVClean15 Survey Report\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W7164159551",
@@ -833,6 +867,25 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7212429133",
+      "doi": "10.1016/j.trip.2026.102251",
+      "title": "Linking urban form, bus stop typologies, and first–last-mile mode-use patterns: Evidence from an urban–peri-urban transit network in Indonesia",
+      "year": 2026,
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "authors": [
+        "A R Rakhmatulloh",
+        "Diah Intan Kusumo Dewi",
+        "Yudi Basuki",
+        "Muhammad Helmi Candra"
+      ],
+      "abstract": "First- and last-mile (FMLM) connectivity remains a major challenge for public transport in rapidly urbanizing metropolitan regions with heterogeneous accessibility conditions. This study examines the relationship between bus-stop typologies and observed FMLM mode-use patterns in the Batik Solo Trans system, Solo Raya, Indonesia. Using 92 bus stops across urban-core and peri-urban areas, the study integrates GIS-based spatial analysis, field observations, and user surveys. Hierarchical and K-Means clustering were applied to urban-form, accessibility, and intermodality indicators to identify five stop typologies, while FMLM mode use was analyzed separately as a behavioral outcome. The results reveal clear spatial–behavioral differentiation. Non-motorized access reaches 84.04 % in the High-Density Urban Commercial Zone, whereas private motorized access reaches 75.40 % in the Peripheral-Isolated Transit Node Zone. Urban typologies generally support more diverse FMLM options, while peri-urban environments show greater private-motorized dependence and limited feeder use. The findings demonstrate that FMLM patterns reflect combinations of spatial and transport conditions rather than individual accessibility indicators alone. By separating spatial classification from behavioral interpretation, the study positions stop typology as a meso-level analytical framework for diagnosing heterogeneous FMLM conditions and supporting context-sensitive planning across urban–peri-urban transit networks.",
+      "url": "https://doi.org/10.1016/j.trip.2026.102251",
+      "added_date": "2026-09-21",
+      "summary": "Rakhmatulloh et al. published \"Linking urban form, bus stop typologies, and first–last-mile mode-use patterns: Evidence from an urban–peri-urban transit network in Indonesia\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7167349053",
       "doi": "10.1016/j.tranpol.2026.104284",
       "title": "Microtransit in rural and small urban contexts: A qualitative analysis of system characteristics, benefits, and challenges",
@@ -926,6 +979,25 @@
       "url": "https://doi.org/10.3311/ppci.43699",
       "added_date": "2026-08-10",
       "summary": "Solieman et al. published \"Multi-criteria Prioritization of Shared Mobility Hub Locations: An Integrated BWM-TOPSIS Approach\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7212393627",
+      "doi": "10.1016/j.tbs.2026.101402",
+      "title": "Night-time demand-responsive transport in seasonal tourism contexts: Evidence from Hakuba, Japan",
+      "year": 2026,
+      "journal": "Travel Behaviour and Society",
+      "authors": [
+        "Bayu Maulana",
+        "Nazam Ali",
+        "Muhammad Abdullah",
+        "Hiromichi Yamaguchi"
+      ],
+      "abstract": "This study investigates the behavioural and operational dynamics of a night-time demand-responsive transport (DRT) system in the alpine resort of Hakuba, Japan, within a digitally mediated service environment, with particular attention to the temporal and spatial patterns of seasonal tourism. Using a dataset of 5,232 completed trips, the analysis identifies the key drivers of demand intensity in a low-density mountainous context. The findings reveal a dispersed hub configuration, defined here as notable demand concentration at a limited number of functional stops combined with low geographic clustering and scattered local hotspots. This pattern reflects the role of DRT in connecting physically fragmented activity nodes. Moreover, the results highlight a distinct seasonal tourism rhythm: demand is shaped by month-to-month variation within the winter season and short-term temporal persistence, rather than conventional weekday–weekend cycles. The scale of passenger-carrying service delivery provides a baseline for understanding the operational demands of night-time DRT in rural, seasonally intensive tourism settings. The findings from the study suggest that DRT planning in such contexts should move beyond rigid, calendar-based approaches towards seasonally adaptive strategies that account for temporal persistence and spatial fragmentation in tourism-driven mobility systems.",
+      "url": "https://doi.org/10.1016/j.tbs.2026.101402",
+      "added_date": "2026-09-21",
+      "summary": "Maulana et al. published \"Night-time demand-responsive transport in seasonal tourism contexts: Evidence from Hakuba, Japan\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -1091,6 +1163,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7213213731",
+      "doi": "10.82903/b2vc7m",
+      "title": "Public-Private Partnerships for Shared Mobility",
+      "year": 2026,
+      "journal": "eScholarship (California Digital Library)",
+      "authors": [
+        "Lauren N. McCarthy"
+      ],
+      "abstract": "About the Center of Excellence on",
+      "url": "https://escholarship.org/uc/item/3hc9c67s",
+      "added_date": "2026-09-21",
+      "summary": "McCarthy et al. published \"Public-Private Partnerships for Shared Mobility\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7140219913",
       "doi": "10.1080/23754931.2026.2646852",
       "title": "Quantifying the Accessibility to Public Transit in Rural Areas Using ArcGIS and GTFS",
@@ -1109,6 +1197,22 @@
         "planning"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7213474919",
+      "doi": "",
+      "title": "Results of the 2024-2025 Campus Travel Survey",
+      "year": 2026,
+      "journal": "eScholarship (California Digital Library)",
+      "authors": [
+        "Justin Darr"
+      ],
+      "abstract": "The UC Davis Campus Travel Survey is an annual survey led by Transportation Services (TS)—formerly known as Transportation and Parking Services (TAPS)—and the UC Davis Institute of Transportation Studies (ITS-Davis). It collects a rich set of data about travel to the UC Davis campus, demographics, and attitudes toward travel.The 2024-25 survey collected data from 3,962 people affiliated with UC Davis about their travel to campus during October and November 2024. It used a stratified random sampling method with the intent to gather a representative sample of the campus population. About 11 percent of those invited responded to this year's survey. For the statistics presented throughout this report, the responses are weighted by campus role (freshman, sophomore, junior, senior, Master’s student, PhD student, faculty, and staff) and gender, so that the proportion of respondents in each group reflects their proportion in the campus population.",
+      "url": "https://escholarship.org/uc/item/9xx81349",
+      "added_date": "2026-09-21",
+      "summary": "Darr et al. published \"Results of the 2024-2025 Campus Travel Survey\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W7148275137",
@@ -3665,6 +3769,23 @@
         "environment"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4401970463",
+      "doi": "10.1016/j.rtbm.2024.101190",
+      "title": "Eco? No, Ego-scooters: Steering towards time-saving trails in urban mobility",
+      "year": 2024,
+      "journal": "Research in Transportation Business & Management",
+      "authors": [
+        "Mustafa Mert Fil",
+        "Taşkın Dirsehan"
+      ],
+      "abstract": "As cities worldwide face escalating urban congestion and environmental challenges, electric scooters (e-scooters) emerge as a sustainable micromobility solution. This study investigates e-scooter adoption in Türkiye, an emerging economy, to delineate how motivations in such contexts diverge from those in advanced economies. Through a survey of 204 e-scooter users, we dissect the motivations driving both the adoption and continued use of e-scooters, focusing on the interplay between environmental consciousness and practical benefits. Unlike assumptions that might be drawn from advanced economies, our findings indicate that environmental motivations, though significant in global sustainable mobility discourse, do not serve as primary incentives for e-scooter adoption in Türkiye. The research reveals a pronounced preference for immediate, tangible benefits over environmental considerations, suggesting a distinct set of priorities in emerging economies. This insight challenges the one-size-fits-all approach to promoting micromobility and underscores the need for urban mobility policies and strategies to resonate with the specific preferences and daily realities of users in different economic contexts. By highlighting the crucial role of practical advantages in fostering micromobility adoption and sustained use in emerging economies, the study advocates for a tailored approach to advancing sustainable urban mobility.",
+      "url": "https://doi.org/10.1016/j.rtbm.2024.101190",
+      "added_date": "2026-09-21",
+      "summary": "Fil et al. published \"Eco? No, Ego-scooters: Steering towards time-saving trails in urban mobility\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4391310235",
@@ -9264,6 +9385,24 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3128228586",
+      "doi": "10.3917/retm.310.0093",
+      "title": "Algor-éthique : intelligence artificielle et réflexion éthique",
+      "year": 2020,
+      "journal": "Revue d éthique et de théologie morale",
+      "authors": [
+        "Paolo Benanti",
+        "Alain Thomasset",
+        "IA DeepL"
+      ],
+      "abstract": "L’intelligence artificielle est en train de changer le monde : chaque activité humaine, de la médecine à la sécurité nationale, est en train de subir de profondes mutations. Les systèmes équipés d’IA n’aident pas seulement les humains, mais dans de plus en plus de situations, ils donnent naissance à des systèmes, des robots ou des bots complètement autonomes. Face à ce flot d’intelligence artificielle, la question éthique est urgente. Plus l’IA devient universelle, plus il est nécessaire de développer un nouveau langage universel qui puisse gérer l’innovation. Dans le texte, nous essayons d’esquisser quelques scénarios et de mettre en évidence certains des principaux défis pour l’éthique et la théologie morale en introduisant le concept d’algor-éthique : un nouveau chapitre de réflexion éthique qui veut esquisser quelques principes éthiques qui peuvent être traduits ou mis en œuvre dans des logiciels pour essayer d’atténuer les effets involontaires dans l’exécution algorithmique.",
+      "url": "https://doi.org/10.3917/retm.310.0093",
+      "added_date": "2026-09-21",
+      "summary": "Benanti et al. published \"Algor-éthique : intelligence artificielle et réflexion éthique\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W3083901868",
