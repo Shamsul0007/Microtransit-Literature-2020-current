@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28",
-  "count": 498,
+  "updated_at": "2026-10-05",
+  "count": 516,
   "papers": [
     {
       "id": "https://openalex.org/W7125825604",
@@ -452,6 +452,42 @@
         "technology"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7216467607",
+      "doi": "10.1016/j.jpubtr.2026.100183",
+      "title": "Comparative case studies of demand responsive transit solutions: Insights from pilots on two continents",
+      "year": 2026,
+      "journal": "Journal of Public Transportation",
+      "authors": [
+        "Vanessa Stjernborg",
+        "Subhrajit Guhathakurta",
+        "Lena Winslott Hiselius"
+      ],
+      "abstract": "This paper examines how demand responsive transit may extend the role of public transport by comparing two pilot implementations in Atlanta, United States, and northeast Skåne, Sweden. The study analyzes similarities and differences in planning, implementation, and operational experiences across two contrasting institutional and geographic contexts. Responding to calls for more qualitative and comparative research on real-world Demand Responsive Transit (DRT) implementations, the paper explores how governance arrangements, implementation processes, and local conditions shape outcomes and the transferability of lessons across settings. Using a comparative case study approach inspired by the logic of Most Different Systems Design (MDSD), the analysis draws on stakeholder interviews, site visits, document analysis, and media sources. The findings suggest that DRT has the potential to improve accessibility when it is well integrated with frequent and reliable transit networks, supported by clear communication, and aligned with local mobility needs. In Atlanta, the pilot benefited from extensive outreach, higher visibility, shorter waiting times, and stronger connections to rail services. In northeast Skåne, limited communication, the early launch of an unfinished service, long booking windows, and weak connections to infrequent train services reduced usability. Organizational fragmentation and limited attention to local needs further constrained implementation. The comparison shows that similar lessons emerge across both cases, but through different institutional and organizational pathways. The results suggest that DRT outcomes are shaped not only by service design and network integration, but also by governance structures, implementation processes, and the extent to which services reflect local mobility needs.",
+      "url": "https://doi.org/10.1016/j.jpubtr.2026.100183",
+      "added_date": "2026-10-05",
+      "summary": "Stjernborg et al. published \"Comparative case studies of demand responsive transit solutions: Insights from pilots on two continents\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7160069557",
+      "doi": "10.1016/j.tbs.2026.101302",
+      "title": "Comparing younger and older bike share users’ route choice: the role of streetscape and midblock conflicts",
+      "year": 2026,
+      "journal": "Travel Behaviour and Society",
+      "authors": [
+        "Seung Jae Lieu",
+        "Donghwan Ki",
+        "Gulsah Akar"
+      ],
+      "abstract": "This study examines route choice behavior among bike share users in Seoul, focusing on visual streetscape characteristics, midblock conflicts with motor vehicles, and age-based preference heterogeneity. Computer vision techniques are applied to street view imagery to quantify greenness, sky visibility, and building enclosure, as well as detect midblock conflict points. A path size logit model estimates trade-offs between trip distance and route attributes, enabling comparison of preferences between younger and older cyclists. Results show that cyclists generally favor routes with greater greenery and sky visibility while avoiding signalized intersections, frequent turns, and low-visibility parking entrances that create potential conflicts with automobiles. Younger cyclists demonstrate greater willingness to extend their trips to pursue desirable attributes and avoid hazards, whereas older cyclists show particularly strong aversion to frequent turns. These findings highlight the importance of incorporating street-level design features and age-sensitive considerations into cycling infrastructure planning to create safer, more inclusive urban cycling environments.",
+      "url": "https://doi.org/10.1016/j.tbs.2026.101302",
+      "added_date": "2026-10-05",
+      "summary": "Lieu et al. published \"Comparing younger and older bike share users’ route choice: the role of streetscape and midblock conflicts\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W7204545146",
@@ -1062,6 +1098,24 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7214305801",
+      "doi": "10.1016/j.jth.2026.102448",
+      "title": "Perceptions, acceptability and expectations towards autonomous buses for potential users, including people with travel-limiting disabilities and older people",
+      "year": 2026,
+      "journal": "Journal of Transport & Health",
+      "authors": [
+        "Caroline Pigeon",
+        "Aline Alauzet",
+        "Laurence Paire‐Ficout"
+      ],
+      "abstract": "Introduction Autonomous buses, currently under development could improve the mobility of people. The objective of this study is to identify the perceptions, acceptability and expectations toward such buses of potential future users, including people with travel-limiting disabilities and older people. Methods A methods combining an online survey for potential users and a consultation with experts in mobility and disability was used with non-probability convenience sampling. Potential users were asked to report their eventual mobility limitations, to express their feelings toward autonomous buses, qualities these buses should have, their willingness to use them and their recommendations for the design of an autonomous bus. Experts were asked via email to respond to five open-ended questions on the benefits and disadvantages of an autonomous bus. Results 246 people participated to the online survey, 28 of whom (11%) reporting travel-limiting disabilities. Autonomous buses elicit positive expectations, in particular in relation to an improved mobility service. Main concerns were related to safety, security and accessibility issues, especially due to the lack of human presence. These concerns are more pronounced in people with travel-limiting disabilities. The nine experts' comments confirmed the survey's findings, while also detailing the types of problems anticipated as a result of the lack of driver. Conclusions These results allow to better understand the needs and expectations of potential users, including people with disabilities and older people with regard to the introduction of autonomous buses. Recommendations ensuring the accessibility, safety, and acceptability of autonomous buses for all are proposed.",
+      "url": "https://doi.org/10.1016/j.jth.2026.102448",
+      "added_date": "2026-10-05",
+      "summary": "Pigeon et al. published \"Perceptions, acceptability and expectations towards autonomous buses for potential users, including people with travel-limiting disabilities and older people\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7161784507",
       "doi": "10.3934/jimo.2026100",
       "title": "Pickup scheduling algorithms with spatio-temporal coordination for urban educational facilities",
@@ -1252,6 +1306,26 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7214559302",
+      "doi": "10.26599/commtr.2026.9640055",
+      "title": "Shaping the future of transit: Innovations and prospects of intelligent connected bus systems",
+      "year": 2026,
+      "journal": "Communications in Transportation Research",
+      "authors": [
+        "Shijie Cong",
+        "Wei Zhang",
+        "Kai Wang",
+        "Balazs Kulcsar",
+        "Marianna Jacyna"
+      ],
+      "abstract": "Abstract As urbanization progresses, traffic congestion has become an increasingly severe issue confronting metropolitan areas worldwide. Intelligent connected bus systems (ICBS) emerge as a transformative solution to address this challenge. This review synthesizes ICBS as a layered closed-loop transit system that links infrastructure, intelligent buses, and operation platforms through continuous vehicle-road-cloud coordination. We first summarize its system architecture, including centralized operation platforms, smart intersections, smart bus stops, and intelligent connected buses, and explain how connectivity is translated into operational control. We then review two technical pillars under real-world deployment constraints: safety-oriented advanced driver assistance systems, covering cooperative perception, speed-signal coordination, and bus-oriented motion planning; and reliability-oriented intelligent scheduling, covering electrified fleet and charging management, automation-enabled dispatching, and fixed-flexible services. Finally, we discuss the transition toward precise public transit and highlight key challenges in system-level performance verification, robustness under uncertainty, infrastructure affordability and legacy integration, multi-purpose service integration and deployment, and bus-specific automated driving. Overall, ICBS should be understood as a service-oriented operational paradigm that enables more adaptive, reliable, and sustainable urban public transport.",
+      "url": "https://doi.org/10.26599/commtr.2026.9640055",
+      "added_date": "2026-10-05",
+      "summary": "Cong et al. published \"Shaping the future of transit: Innovations and prospects of intelligent connected bus systems\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7207864385",
       "doi": "10.1016/j.jss.2026.113086",
       "title": "Software-defined vehicle ecosystems in transformation",
@@ -1269,6 +1343,31 @@
       "url": "https://doi.org/10.1016/j.jss.2026.113086",
       "added_date": "2026-09-14",
       "summary": "Hietala et al. published \"Software-defined vehicle ecosystems in transformation\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7154904473",
+      "doi": "10.48494/realcorp2026.8068",
+      "title": "Solution Paths – Paving the Way to Mobility as a Service by Analysing the Attitudes, Acceptance, and Barriers to the Use of On-Demand Mobility Services in East Styria, Austria",
+      "year": 2026,
+      "journal": "REAL CORP Repository (University of Southampton)",
+      "authors": [
+        "Nina Neundorfer",
+        "Rafael Bramreiter",
+        "Roland Sumper",
+        "Gottfried Köberl",
+        "Anna Kovács-Győri",
+        "Bernhard Novak",
+        "Luis Kepplinger",
+        "David Nagele",
+        "Christina Honeder",
+        "Matteo Christian Sattler"
+      ],
+      "abstract": "Background Aim: Although public transport and active mobility are increasingly common in urban areas, private cars remain the dominant mode of transport in most rural areas. Although many regions offer public transportation, including some micro-transit or sharing services, their potential is not yet being fully exploited. The project “Lösungswege” (Solution Paths) recognizes the potential of rural areas and small towns as a major lever for driving sustainable transformation in the mobility sector and eliminating inequalities caused by poor mobility. It aims to understand the mobility needs of people in the region and identifies the obstacles that prevent them from using existing public services. The wishes and visions of the local population are taken into account in order to build a digital platform that ist tailored to the users’ needs and offers Mobility-as-a-Service in Eastern Styria. Methods: Within the project two group workshops in differet municipalitites were conducted with 35 participants in total. Methods such as self-reflection, perspective shifts and design-thinking were used to analyze personal mobility needs and the needs of certain groups such as older people with mobility restrictions. Based on that participants (further) developed existing and new mobility solutions. A complementary quantiative survey among 557 participants analyzed the mobility habits, needs, acceptance of and barriers for the use of micro transit and sharing services in East Styria. Results: The workshops revealed, that most people would like to see cars become less important. Nevertheless, it is clear that the existing public mobility services need to become more flexible and reliable, as they are currently often perceived as impractical and difficult to integrate into everyday routines. Participants' ideas to promote the use of existing offers included, for example, expanding the validity of annual public transport tickets for the use of micro-transit and sharing, introducing autonomous vehicles in the area, or charging shared electric vehicles with solar power. The survey results confirmed that private cars are perceived considerably more flexible and comfortable by the citizens than public transport. Many participants cite pricing, limited availability nearby as well as complicated reservation and booking processes as dominant barriers. Nevertheless almost half of the participants can imagine using micro-transit and sharing services more frequently in the future. As motivation factors free test rides or closer facilities were mentioned. Conclusions: The collected data provides valuable insights about mobility needs and requirements that a platform for booking various mobility services must meet. Thus it forms the basis for the successful introduction of MaaS in Eastern Styria, which suits the needs of all (potential) users, including vulnerable groups.",
+      "url": "http://repository.corp.at/1379/1/CORP2026_68.pdf",
+      "added_date": "2026-10-05",
+      "summary": "Neundorfer et al. published \"Solution Paths – Paving the Way to Mobility as a Service by Analysing the Attitudes, Acceptance, and Barriers to the Use of On-Demand Mobility Services in East Styria, Austria\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -1330,6 +1429,24 @@
       "url": "https://doi.org/10.1016/j.diabres.2026.113447",
       "added_date": "2026-08-03",
       "summary": "Boateng et al. published \"Telehealth effectiveness for glycaemic control of older adults with Type 2 diabetes: An integrative review\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7214068617",
+      "doi": "10.61154/mrcm.v12i2.4432",
+      "title": "Tendencias en Logística Verde y Transporte Sostenible: una revisión sistemática de literatura en América Latina – postpandemia",
+      "year": 2026,
+      "journal": "Mikarimin Revista Científica Multidisciplinaria",
+      "authors": [
+        "Angel Gómez Bazurto",
+        "Franklin Raúl López Vera",
+        "Edison Fernando Chiriboga Cisneros"
+      ],
+      "abstract": "El presente estudio tuvo como objetivo analizar las tendencias emergentes en logística verde y transporte sostenible en América Latina en el período postpandemia, mediante una revisión sistemática de literatura científica e informes institucionales. Se adoptó un enfoque cualitativo basado en el protocolo PRISMA, identificando inicialmente 452 registros en bases de datos como Scopus, Web of Science, SciELO y Google Scholar; tras eliminar duplicados y aplicar criterios de inclusión y exclusión, se seleccionaron 60 estudios publicados entre 2020 y 2025 para el análisis final. Los resultados evidencian que la pandemia de COVID-19 actuó como catalizador de transformaciones en los sistemas logísticos, destacando la digitalización de operaciones, con reducciones de recorridos entre 15% y 20% mediante sistemas de ruteo y monitoreo en tiempo real; la electrificación del transporte, reflejada en la expansión de flotas urbanas con más de 800 buses eléctricos en Santiago y 1.500 en Bogotá; y la reconfiguración de cadenas de suministro hacia modelos más cortos y resilientes. Asimismo, se observa un crecimiento de la micromovilidad superior al 30% en algunas ciudades, contribuyendo a la reducción de emisiones y congestión urbana. No obstante, estos avances se desarrollan de forma desigual entre países y organizaciones, con mayores progresos en Chile, Brasil y Colombia, mientras que las pymes enfrentan limitaciones asociadas a financiamiento, infraestructura y capacidades técnicas. En conjunto, la logística verde se consolida como un eje estratégico que mejora la eficiencia operativa, reduce impactos ambientales y fortalece la resiliencia de las cadenas de suministro en la región.",
+      "url": "https://doi.org/10.61154/mrcm.v12i2.4432",
+      "added_date": "2026-10-05",
+      "summary": "Bazurto et al. published \"Tendencias en Logística Verde y Transporte Sostenible: una revisión sistemática de literatura en América Latina – postpandemia\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -1626,6 +1743,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7215318357",
+      "doi": "",
+      "title": "พฤตกรรมการใชบรการรถสามลอไฟฟามฟม (MuvMi) ของผเดนทางในพนท จฬาลงกรณมหาวทยาลยและบรเวณใกลเคยง",
+      "year": 2026,
+      "journal": "Sarasatr: Journal of Architecture and Design",
+      "authors": [
+        "Chomphunuch Saripunt"
+      ],
+      "abstract": "MuvMi, an electric three-wheeled vehicle, has been operating since 2017 and has gradually expanded its service areas, particularly in university districts and office zones. As part of the shared mobility system, MuvMi represents an emerging form of public transportation that supports short-distance urban travel. However, existing studies in Thailand have not specifically examined the travel behavior of MuvMi users within the Chula area. This study aims to investigate the travel behavior of MuvMi users and analyze the relationship between service usage behavior and spatial use within the area. The research employed field surveys and questionnaire-based data collection. The study area was divided into three zones based on land use: Academic areas within Chulalongkorn University, Commercial and adjacent areas, and University-leased properties, which serve as service areas and pick-up/drop-off points. After data collection, the data were analyzed to identify the travel behavior of MuvMi users in the study area. The findings reveal that most users are female, aged 15–30 years, and predominantly students. Key trip purposes include recreational activities, social interaction, and short-distance travel. MuvMi usage demonstrates the characteristics of a community-based transport mode, with higher demand during off-peak and evening periods, reflecting activity-based travel behavior rather than time-constrained commuting. Furthermore, age, occupation, income, and trip purpose are significantly associated with travel behavior, particularly regarding service time, travel day, and travel cost. These results highlight the role of electric tricycles as a flexible, neighborhood-scale mobility option supporting diverse urban activities.",
+      "url": "https://so05.tci-thaijo.org/index.php/sarasatr/article/view/287024",
+      "added_date": "2026-10-05",
+      "summary": "Saripunt et al. published \"พฤตกรรมการใชบรการรถสามลอไฟฟามฟม (MuvMi) ของผเดนทางในพนท จฬาลงกรณมหาวทยาลยและบรเวณใกลเคยง\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4415815183",
       "doi": "10.3390/futuretransp5040156",
       "title": "A Logit Approach to Study the Attractiveness of DRT Stops Location: The Case Study of Ragusa, Italy",
@@ -1711,6 +1844,27 @@
         "planning"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7215271711",
+      "doi": "",
+      "title": "A Survey on E-hailing and Demand Responsive Transit (DRT) services as First Last Mile Mode in Putrajaya",
+      "year": 2025,
+      "journal": "Recent Trends in Civil Engineering and Built Environment",
+      "authors": [
+        "Kar Keong Chin",
+        "Jia Jiun Gan",
+        "Choon Wah Yuen",
+        "Pavin a/l Ravi",
+        "En Tong Soo",
+        "May Yen Chu"
+      ],
+      "abstract": "Demand-responsive transport (DRT) services, which include shared ride sourcing and microtransit, provide a flexible travel option that could complement traditional fixed transit (FT) systems. By combining on-demand and fixed-route services, there is potential for enhanced mobility and expanded service coverage. However, it is still unclear whether DRT services actually achieve these expected benefits. As of March 7, 2023, the Land Public Transport Agency (APAD) of Malaysia's Ministry of Transport has registered 16 e-hailing companies operating in the country. There are currently about 70,000 vehicles providing e-hailing services in the Klang Valley area. In Malaysia, an e-hailing vehicle is defined as a motor vehicle with 4 to 11 seats (including the driver) used to transport passengers for a fare. Fares may be paid by individual passengers or collectively for shared rides along the same route, and each ride must be pre-booked through a mobile app operated by a registered company. Since the introduction of the MyTeksi App in 2012 (which rebranded as Grab in 2016), e-hailing services have become a key part of the public transport system in the Klang Valley. These services have improved accessibility to Rail Transit stations, serving as a First-Last Mile solution. However, urban transport planners are concerned that e-hailing services may not effectively reduce the number of motor vehicles on the roads, which continues to contribute to severe traffic congestion during peak hours. Ensuring effective first-last mile transportation is crucial for developing a sustainable transport system. However, many residents struggle with issues such as connectivity, morning rush hour congestion, and limited transport options. In this study, we analyzed the transportation modes of residents in Putrajaya, using data collected from on-site surveys. We investigated both individual-level and contextual factors affecting first-last mile travel behavior. Our findings indicate that 46% of Putrajaya residents are using e-hailing and DRT services currently. Results also shows that the top two highest trip purposes, working trip and leisure trip has different peak demand hours. Most of the Putrajaya residents use e-hailing and DRT for first-last mile trips. More than half of the private vehicles users in Putrajaya are willing to use e-hailing and DRT if the current service are improved.",
+      "url": "https://periodical.uthm.edu.my/index.php/rtcebe/article/view/18187",
+      "added_date": "2026-10-05",
+      "summary": "Chin et al. published \"A Survey on E-hailing and Demand Responsive Transit (DRT) services as First Last Mile Mode in Putrajaya\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4414711860",
@@ -2175,6 +2329,24 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4414970655",
+      "doi": "10.32546/rustic.v5i2.3074",
+      "title": "Evaluation of the Greenship GBCI Implementation in the Appropriate Land Use Category for the New Building of Poltekkes Riau Tower",
+      "year": 2025,
+      "journal": "RUSTIC",
+      "authors": [
+        "Dadang Puja Kusumah",
+        "I Nengah Tela",
+        "Haryani Haryani"
+      ],
+      "abstract": "Implementing the green building concept is a strategic solution to support sustainable development, particularly in the construction sector, which significantly contributes to environmental degradation. In Indonesia, the Green Building Council Indonesia (GBCI) has established the Greenship rating tool as a standard for green buildings, including the Land Use Efficiency category. Menara Poltekkes Riau was selected as the research object because it is a new building aligned with sustainable development principles as stipulated in the Decree of the Minister of Health of the Republic of Indonesia Number HK.01.07/MENKES/550/2024. This study aims to evaluate the application of the Land Use Efficiency category, measure the level of achievement, and provide recommendations for improvement. The research employs a mixed-method approach (quantitative and qualitative), with data collected through field observations and an As-built Drawing document study. The evaluation results indicate that Menara Poltekkes Riau achieved 5 out of 17 points or 5% of the total points in the Land Use Efficiency category. The criteria achieved include Basic Green Area (ASD-P) Benchmark 1A, Site Selection (ASD-1) Benchmark 1A, Community Accessibility (ASD-2) Benchmark 1, Public Transportation (ASD-3) Benchmark 1A, and Microclimate (ASD-6) Benchmarks 1A and 2. However, other criteria have not been met, including optimizing green areas, vegetation, transportation facilities, accessibility, and stormwater runoff management. This study emphasizes the importance of improving these aspects to enhance the application of the green building concept at Menara Poltekkes Riau.",
+      "url": "https://doi.org/10.32546/rustic.v5i2.3074",
+      "added_date": "2026-10-05",
+      "summary": "Kusumah et al. published \"Evaluation of the Greenship GBCI Implementation in the Appropriate Land Use Category for the New Building of Poltekkes Riau Tower\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7113008501",
       "doi": "",
       "title": "Evidence for two European countries",
@@ -2566,6 +2738,24 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4409573142",
+      "doi": "10.1016/j.trb.2025.103220",
+      "title": "Nonparametric mixed logit model with market-level parameters estimated from market share data",
+      "year": 2025,
+      "journal": "Transportation Research Part B Methodological",
+      "authors": [
+        "Xiyuan Ren",
+        "Joseph Y.J. Chow",
+        "Prateek Bansal"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.trb.2025.103220",
+      "added_date": "2026-10-05",
+      "summary": "Ren et al. published \"Nonparametric mixed logit model with market-level parameters estimated from market share data\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4412524947",
       "doi": "10.1007/s12469-025-00397-8",
       "title": "On demand-responsive transport configurations, traveller interaction and preferences: a survey from the perspective of older people",
@@ -2662,6 +2852,22 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4412120728",
+      "doi": "10.59188/jurnalsostech.v5i7.32288",
+      "title": "Pengaruh Kualitas Layanan Mikrotrans Jakarta Terhadap Kepuasan Penumpang",
+      "year": 2025,
+      "journal": "Jurnal Sosial Teknologi",
+      "authors": [
+        "M. A Maharani Hapsari"
+      ],
+      "abstract": "The high mobility of Jakarta residents demands an efficient and integrated public transportation system. Microtrans as part of the JakLingko system becomes an important connecting transportation solution. This study aims to analyze the effect of Jakarta Microtrans service quality on passenger satisfaction using Importance Performance Analysis (IPA) and Customer Satisfaction Index (CSI) methods. Data were collected through questionnaires from 125 active Microtrans users with a purposive sampling approach. Analysis was conducted based on five SERVQUAL dimensions: tangible, reliability, responsiveness, assurance, and empathy. The results show a CSI value of 84% which is in the \"Very Satisfied\" category. IPA analysis identified that drivers' ability to provide information and bus stop supporting facilities are top priorities for improvement (Quadrant I). Meanwhile, CCTV security aspects, responsiveness to priority passengers, and complaint services have performed well and need to be maintained (Quadrant II). There is a negative gap of -2.3 between expectations (54.7) and performance (52.4) indicating the need for service quality improvement. The reliability dimension has the highest negative gap (-1.7), while the tangible dimension shows the best performance with a positive gap of 5.7.",
+      "url": "https://doi.org/10.59188/jurnalsostech.v5i7.32288",
+      "added_date": "2026-10-05",
+      "summary": "Hapsari et al. published \"Pengaruh Kualitas Layanan Mikrotrans Jakarta Terhadap Kepuasan Penumpang\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4407584849",
@@ -3003,6 +3209,26 @@
       "url": "https://oa.upm.es/94954/",
       "added_date": "2026-08-10",
       "summary": "Valero et al. published \"Technologies for new mobility services: opportunities and challenges from the perspective of stakeholders\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7218404576",
+      "doi": "10.55041/ijcope.v2i9.256",
+      "title": "Technology-Enabled On-Demand Transportation Platforms: A Review of Digital Services and Applications",
+      "year": 2025,
+      "journal": "International Journal of Creative and Open Research in Engineering and Management",
+      "authors": [
+        "Ishita Kolhe",
+        "Shruti Shrishrimal",
+        "Manish Kumar",
+        "Deepak Bhalavi",
+        "Prashant Kori"
+      ],
+      "abstract": "Digital platforms have changed the way on-demand transportation is requested, matched, routed, paid for, and monitored. This review examines the digital services and applications that support ride-hailing, dynamic ride-sharing, microtransit, first- and last-mile transport, and Mobility as a Service. A narrative review was carried out using peer-reviewed studies and established transport research reports covering platform architecture, real-time matching, routing, travel behaviour, shared mobility, and multimodal integration. The literature shows that the value of an on-demand platform does not come from a single application feature; it emerges from the interaction of location services, trip booking, dynamic matching, dispatch, digital payment, communication, and feedback mechanisms. Research on dynamic ride-sharing has concentrated strongly on optimization and real-time assignment, while studies of ride-hailing have highlighted both user convenience and wider system effects such as empty vehicle travel and changes in mode choice. Research on Mobility as a Service further shows that integration across operators introduces operational, financial, and governance challenges. The review therefore identifies a need for transportation platforms to treat digital services as an integrated system rather than isolated functions. The paper concludes by outlining practical research directions involving interoperability, privacy-aware data management, transparent pricing, accessible interfaces, and more balanced evaluation of user, operator, and public-system outcomes. Keywords— On-demand transportation; ride-hailing; dynamic ride-sharing; mobility platforms; digital services; Mobility as a Service",
+      "url": "https://doi.org/10.55041/ijcope.v2i9.256",
+      "added_date": "2026-10-05",
+      "summary": "Kolhe et al. published \"Technology-Enabled On-Demand Transportation Platforms: A Review of Digital Services and Applications\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -3465,6 +3691,23 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4401983930",
+      "doi": "10.1016/j.tre.2024.103707",
+      "title": "A sequential transit network design algorithm with optimal learning under correlated beliefs",
+      "year": 2024,
+      "journal": "Transportation Research Part E Logistics and Transportation Review",
+      "authors": [
+        "Gyugeun Yoon",
+        "Joseph Y.J. Chow"
+      ],
+      "abstract": "Mobility service route design requires demand information to operate in a service region. Transit planners and operators can access various data sources including household travel survey data and mobile device location logs. However, when implementing a mobility system with emerging technologies, estimating demand becomes harder because of limited data resulting in uncertainty. This study proposes an artificial intelligence-driven algorithm that combines sequential transit network design with optimal learning to address the operation under limited data. An operator gradually expands its route system to avoid risks from inconsistency between designed routes and actual travel demand. At the same time, observed information is archived to update the knowledge that the operator currently uses. Three learning policies are compared within the algorithm: multi-armed bandit, knowledge gradient, and knowledge gradient with correlated beliefs. For validation, a new route system is designed on an artificial network based on public use microdata areas in New York City. Prior knowledge is reproduced from the regional household travel survey data. The results suggest that exploration considering correlations can achieve better performance compared to greedy choices and other independent belief-based techniques in general. In future work, the problem may incorporate more complexities such as demand elasticity to travel time, no limitations to the number of transfers, and costs for expansion.",
+      "url": "https://doi.org/10.1016/j.tre.2024.103707",
+      "added_date": "2026-10-05",
+      "summary": "Yoon et al. published \"A sequential transit network design algorithm with optimal learning under correlated beliefs\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4405529073",
       "doi": "10.1061/jupddm.upeng-5100",
       "title": "A Stated Preference Survey to Forecast Microtransit Choice in Suburban Areas with Low Public Transport Ridership",
@@ -3525,6 +3768,24 @@
       "url": "https://doi.org/10.1016/j.ejor.2024.12.038",
       "added_date": "2026-06-11",
       "summary": "Liu et al. published \"An operation-agnostic stochastic user equilibrium model for mobility-on-demand networks with congestible capacities\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7215653296",
+      "doi": "",
+      "title": "Analisis Tingkat Efektivitas Penggunaan Mikrotrans JakLingko Sebagai Penunjang Mobilitas",
+      "year": 2024,
+      "journal": "JURNAL ILMIAH WAHANA PENDIDIKAN",
+      "authors": [
+        "Rizki Hamdallah Habel",
+        "Fikri Aditya Mahendra",
+        "Adelio Shatara Nugraha"
+      ],
+      "abstract": "This study aims to measure the effectiveness of JakLingko microtransit use in the community. Community activities always involve movement every day, from economic activities to social activities. The method used in this research is quantitative research method, the samples taken in this study were UNJ students who used JakLingko in traveling to campus. In the research, the data used is primary data obtained by distributing questionnaires to respondents. From the results of the conclusions that can be drawn, the microtrans program has met the ratio of being very effective and has achieved the objectives of the JakLingko microtrans program itself. With the results of this study, it shows that the JakLingko microtrans at the effectiveness level shows positive results for its existence as a mode of transportation.",
+      "url": "https://jurnal.peneliti.net/index.php/JIWP/article/view/9612",
+      "added_date": "2026-10-05",
+      "summary": "Habel et al. published \"Analisis Tingkat Efektivitas Penggunaan Mikrotrans JakLingko Sebagai Penunjang Mobilitas\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -4500,6 +4761,23 @@
         "environment"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4401748520",
+      "doi": "10.1016/j.trb.2024.103060",
+      "title": "On-demand mobility-as-a-Service platform assignment games with guaranteed stable outcomes",
+      "year": 2024,
+      "journal": "Transportation Research Part B Methodological",
+      "authors": [
+        "Bingqing Liu",
+        "Joseph Y.J. Chow"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.trb.2024.103060",
+      "added_date": "2026-10-05",
+      "summary": "Liu et al. published \"On-demand mobility-as-a-Service platform assignment games with guaranteed stable outcomes\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4396238735",
@@ -6675,6 +6953,23 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7219501242",
+      "doi": "",
+      "title": "ปจจยทมอทธพลตอการตดสนใจเลอกใชบรการรถขนสงสาธารณะระดบ Microtransit ของผเดนทางในกรงเทพมหานคร: กรณศกษา รถสามลอไฟฟา MuvMi",
+      "year": 2023,
+      "journal": "Journal of Social Science Panyapat",
+      "authors": [
+        "Jutamart Siriket",
+        "Mana Luksamee-Arunothai"
+      ],
+      "abstract": "This research article investigates factors influencing travelers' decision-making on micro-transit services in Bangkok, with a focus on the MuvMi service. The study examines demographic and behavioral science aspects, the marketing mix (7Ps), and technology acceptance. A questionnaire was administered to 415 participants, and data were analyzed using descriptive statistics and binary logistic regression. The significant factors influencing the decision to use MuvMi are occupation, main journey mode, daily travel expenses, promotional activities, physical attributes, and ease of use. However, smartphone usage did not correlate with service utilization. To improve service decision-making, MuvMi operators should modernize and standardize electric tricycles for safety and provide comprehensive driver training. Additionally, promoting innovative and eco-friendly vehicles can encourage increased public transportation usage in Bangkok.",
+      "url": "https://so06.tci-thaijo.org/index.php/JSSP/article/view/266409",
+      "added_date": "2026-10-05",
+      "summary": "Siriket et al. published \"ปจจยทมอทธพลตอการตดสนใจเลอกใชบรการรถขนสงสาธารณะระดบ Microtransit ของผเดนทางในกรงเทพมหานคร: กรณศกษา รถสามลอไฟฟา MuvMi\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4293777136",
       "doi": "10.3390/ijerph191710801",
       "title": "A Framework for Assessing Resilience in Urban Mobility: Incorporating Impact of Ridesharing",
@@ -8289,6 +8584,23 @@
         "equity"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4213127224",
+      "doi": "10.15446/dyna.v88n219.94927",
+      "title": "Diseñando un sistema de microtránsito con vehículos eléctricos usando simulación de eventos discretos: caso de un campus universitario",
+      "year": 2021,
+      "journal": "DYNA",
+      "authors": [
+        "Edison Oswaldo Apolo Matamoros",
+        "William J. Guerrero"
+      ],
+      "abstract": "Este trabajo presenta una metodología flexible para diseñar un sistema de microtránsito usando vehículos eléctricos. La metodología propuesta está constituida por cinco etapas. Primero, la estimación de la demanda de la población objetivo realizada por medio de encuestas. Segundo, se caracterizan y comparan las capacidades tecnológicas de los medios de transporte potenciales. Tercero, se caracterizan las distintas posibles rutas para el microtránsito para cada opción tecnológica y se escoge la mejor, tomando en cuenta las necesidades del usuario. Esto se logra por medio de herramientas de toma de decisiones y simulación por medio de eventos discretos que representa el funcionamiento del sistema. Finalmente, evaluamos el impacto ambiental que se genera al implementar este nuevo medio de transporte en una ruta de microtránsito. La metodología propuesta es flexible y puede ser aplicada tanto en sistemas de microtransito público como privado. Presentamos un caso de estudio para validar los resultados de la metodología en un campus universitario en Colombia.",
+      "url": "https://doi.org/10.15446/dyna.v88n219.94927",
+      "added_date": "2026-10-05",
+      "summary": "Matamoros et al. published \"Diseñando un sistema de microtránsito con vehículos eléctricos usando simulación de eventos discretos: caso de un campus universitario\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W3139217881",
@@ -10095,6 +10407,25 @@
       "url": "https://scholarscompass.vcu.edu/murp_capstone/30",
       "added_date": "2026-08-10",
       "summary": "Jenkins et al. published \"Transit Feasibility Study for Chesterfield County, VA\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W3121048375",
+      "doi": "",
+      "title": "Transit in Flex: Examining Service Fragmentation of New App-Based, On-Demand Transit Services",
+      "year": 2020,
+      "journal": "",
+      "authors": [
+        "David P. Weinreich",
+        "Thomas S. Skuzinski",
+        "Shima Hamidi",
+        "S Matthew Reeves"
+      ],
+      "abstract": "",
+      "url": "https://rosap.ntl.bts.gov/view/dot/54008",
+      "added_date": "2026-10-05",
+      "summary": "Weinreich et al. published \"Transit in Flex: Examining Service Fragmentation of New App-Based, On-Demand Transit Services\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
