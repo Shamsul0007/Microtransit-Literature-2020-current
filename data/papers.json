@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05",
-  "count": 516,
+  "updated_at": "2026-10-12",
+  "count": 535,
   "papers": [
     {
       "id": "https://openalex.org/W7125825604",
@@ -678,6 +678,23 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4405783425",
+      "doi": "10.1016/j.rtbm.2026.101901",
+      "title": "Exploring modular mobility: Industry advancements, research trends, and future directions on modular autonomous vehicles",
+      "year": 2026,
+      "journal": "Research in Transportation Business & Management",
+      "authors": [
+        "Lanhang Ye",
+        "Toshiyuki Yamamoto"
+      ],
+      "abstract": "Modular autonomous vehicles (MAVs) represent a transformative paradigm within the rapidly evolving field of autonomous mobility. By integrating modularity, MAVs offer unique advantages that have the potential to reshape urban transport systems and stimulate innovation in both passenger and logistics applications. Although scholarly publications on MAVs have emerged mostly within the past six years, these pioneering studies provide critical insights for envisioning the future of modular mobility. This paper presents a comprehensive review of industry and academic contributions to MAV development up to 2025, spanning conceptualization, design, and real-world applications. It systematically defines MAVs and outlines their technical framework, emphasizing breakthroughs in vehicle design, system architecture, and business models introduced by the automotive industry and new mobility providers. In parallel, it synthesizes academic research on key themes, including passenger and logistics transport, and explores their integration into future mobility ecosystems. Furthermore, this study conducts a comparative analysis of pioneering industry initiatives (NEXT and Lohr's Cristal) regarding their technical specifications and real-world deployments, demonstrating how their divergent designs serve complementary roles in hierarchical transit networks while outlining a multi-stage strategic roadmap for vehicle standardization and freight-logistics integration. The paper concludes with forward-looking policy recommendations aimed at accelerating the development and deployment of modular mobility systems.",
+      "url": "https://doi.org/10.1016/j.rtbm.2026.101901",
+      "added_date": "2026-10-12",
+      "summary": "Ye et al. published \"Exploring modular mobility: Industry advancements, research trends, and future directions on modular autonomous vehicles\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7169851512",
       "doi": "10.1080/21650020.2026.2705695",
       "title": "Factors influencing bike-sharing travel behaviour: a Beijing structural equation modelling case study",
@@ -903,6 +920,26 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W7220427302",
+      "doi": "10.31629/kemudi.v11i1.8706",
+      "title": "Integration of TransJakarta and Jakarta LRT for Urban Mobility in Jakarta",
+      "year": 2026,
+      "journal": "KEMUDI Jurnal Ilmu Pemerintahan",
+      "authors": [
+        "Asriadi",
+        "Yusa’ Farchan",
+        "Syarkawi",
+        "Yohanes Oci",
+        "Roy Martin"
+      ],
+      "abstract": "This study analyzes the integration of TransJakarta and LRT Jakarta in supporting public mobility in Jakarta, Indonesia. A qualitative research approach was employed, supported by NVivo 12 and VOSviewer for data analysis and visualization. Data were obtained from four main sources: TransJakarta, LRT Jakarta, Scopus, and Kompas. The findings indicate that the integration of both modes supports public mobility through interconnected routes linking six stations. TransJakarta requires improvements in accessibility, bus stop facilities, route information, social media communication, and staff readiness. LRT Jakarta demonstrated a service performance of 99.88%, with the highest passenger volume reaching 95,090 in August 2022, while 70,117 passengers were recorded in December 2022. These findings highlight passenger safety as an important factor in maintaining service quality. Transport integration is also supported by the use of technology to improve the efficiency and sustainability of public mobility. Development toward 2026 focuses on strengthening information technology, knowledge and risk management, train monitoring systems, human resource management, planning analytics, and transportation service applications. The integration of TransJakarta and LRT Jakarta is an important component in addressing urban mobility challenges and supporting sustainable public transportation in Jakarta.",
+      "url": "https://ojs.umrah.ac.id/index.php/kemudi/article/view/8706",
+      "added_date": "2026-10-12",
+      "summary": "Asriadi et al. published \"Integration of TransJakarta and Jakarta LRT for Urban Mobility in Jakarta\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W7212429133",
       "doi": "10.1016/j.trip.2026.102251",
       "title": "Linking urban form, bus stop typologies, and first–last-mile mode-use patterns: Evidence from an urban–peri-urban transit network in Indonesia",
@@ -999,6 +1036,24 @@
       "url": "https://doi.org/10.1186/s12544-026-00810-8",
       "added_date": "2026-08-10",
       "summary": "Mladenović et al. published \"Mobilities in transitions: perspectives on travel behaviour from Central and Eastern Europe\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W7220972980",
+      "doi": "10.1016/j.multra.2026.100352",
+      "title": "Modular Autonomous Vehicles in Urban Transportation Systems: Trends, Modeling and Algorithmic Design Paradigms, and Future Research Directions",
+      "year": 2026,
+      "journal": "Multimodal Transportation",
+      "authors": [
+        "Bo Sun",
+        "Xiangdong Chen",
+        "Qiang Meng"
+      ],
+      "abstract": "Modular autonomous vehicles (MAVs) have been emerging as a flexible transport means that integrates autonomous driving with the physical coupling and decoupling of vehicle modules. This capability allows vehicle capacity, routing, and service patterns to be adjusted in response to demand, addressing limitations of conventional fixed-route and fixed-capacity operations. Reflecting growing interest in MAVs, we review 108 academic studies on MAVs released between 1 January 2018 and 20 June 2026, comprising 100 journal articles, three conference papers, and five preprints or repository papers. We first conduct a bibliometric analysis to identify publication trends and recurring research themes. We then classify the relevant studies based on their domains, including public transit, on-demand mobility and logistics, and their research methodologies to synthesize the main research streams, methodological developments, and remaining gaps. We further examine key industry developments and prototypes to connect academic research with practical progress. Finally, we discuss the principal technical and operational challenges identified in the literature and outline directions for future research. Overall, this critical review consolidates the current state of MAV research and provides a structured reference for researchers, practitioners, and policymakers working toward practical, scalable, and sustainable modular mobility systems.",
+      "url": "https://doi.org/10.1016/j.multra.2026.100352",
+      "added_date": "2026-10-12",
+      "summary": "Sun et al. published \"Modular Autonomous Vehicles in Urban Transportation Systems: Trends, Modeling and Algorithmic Design Paradigms, and Future Research Directions\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -2670,6 +2725,22 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W7216829191",
+      "doi": "",
+      "title": "LOCAL SELF-GOVERNMENT AND ITS ROLE IN MANAGING PUBLIC TRANSPORTATION SYSTEMS TO IMPROVE URBAN MOBILITY",
+      "year": 2025,
+      "journal": "Lex localis - Journal of Local Self-Government",
+      "authors": [
+        "Dr. Utkarsh Anand Dr. Shyam Maurya"
+      ],
+      "abstract": "Local self-government plays a critical role in shaping efficient, sustainable, and inclusive urban mobility. By being closer to the community, local authorities can better identify transportation needs, address traffic congestion, and implement policies that cater to regional priorities. Their responsibilities often include managing public transit networks, coordinating with private operators, introducing eco-friendly transport solutions, and ensuring equitable access for all citizens. Effective governance enables the integration of smart technologies, real-time data monitoring, and infrastructure improvements to enhance commuter experience. With decentralization, decision-making becomes more responsive and transparent, fostering community participation.This localized approach ensures public transportation systems are both adaptive and future-ready, contributing to economic growth, environmental sustainability, and overall quality of urban life.",
+      "url": "https://lex-localis.org/index.php/LexLocalis/article/view/800242",
+      "added_date": "2026-10-12",
+      "summary": "Maurya et al. published \"LOCAL SELF-GOVERNMENT AND ITS ROLE IN MANAGING PUBLIC TRANSPORTATION SYSTEMS TO IMPROVE URBAN MOBILITY\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4412810432",
       "doi": "10.4236/jtts.2025.153020",
       "title": "Microtransit Demand Analysis and Validation: An Innovative Approach",
@@ -3995,6 +4066,24 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4399386679",
+      "doi": "10.3390/urbansci8020064",
+      "title": "Determining the Location of Shared Electric Micro-Mobility Stations in Urban Environment",
+      "year": 2024,
+      "journal": "Urban Science",
+      "authors": [
+        "Ahmed Jaber",
+        "Huthaifa I. Ashqar",
+        "Bálint Csonka"
+      ],
+      "abstract": "Locating shared electric micro-mobility stations in urban environments involves balancing multiple objectives, including accessibility, profitability, sustainability, operational costs, and social considerations. This study investigates traveler preferences regarding shared electric micro-mobility stations, focusing on factors influencing their location decisions. The study used the Analytic Hierarchy Process (AHP) model to analyze the criteria and determine their relative importance in influencing the location decisions of shared electric micro-mobility stations as evaluated by experts in transportation fields. The examined criteria are proximity to public transportation, accessibility to key destinations, demographics (e.g., age, and income), safety, land use, and pedestrian and cyclist infrastructure. Using the AHP model, the importance and ranking of each criterion were established. Results indicate that the availability and quality of sidewalks and bike lanes in the vicinity, along with the proximity to popular destinations like shopping centers and tourist attractions, emerge as the most influential criteria. The least important criteria were the demographics such as the young age percentage in the area and the average income of the surrounding population. These findings underscore the critical importance of well-maintained infrastructure for pedestrian and cyclist mobility, as well as the need for convenient access to high-traffic areas. Such insights provide valuable guidance for informed decision making regarding the optimal placement of shared electric micro-mobility stations.",
+      "url": "https://doi.org/10.3390/urbansci8020064",
+      "added_date": "2026-10-12",
+      "summary": "Jaber et al. published \"Determining the Location of Shared Electric Micro-Mobility Stations in Urban Environment\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4404974946",
       "doi": "10.1049/itr2.12596",
       "title": "Development of an enhanced base unit generation framework for predicting demand in free‐floating micro‐mobility",
@@ -4780,6 +4869,24 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W4398155446",
+      "doi": "10.1016/j.trb.2024.102964",
+      "title": "Optimal design of ride-pooling as on-demand feeder services",
+      "year": 2024,
+      "journal": "Transportation Research Part B Methodological",
+      "authors": [
+        "Wenbo Fan",
+        "Weihua Gu",
+        "Meng Xu"
+      ],
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.trb.2024.102964",
+      "added_date": "2026-10-12",
+      "summary": "Fan et al. published \"Optimal design of ride-pooling as on-demand feeder services\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4396238735",
       "doi": "10.3390/ijgi13050147",
       "title": "Optimization of Shared Electric Scooter Deployment Stations Based on Distance Tolerance",
@@ -4918,6 +5025,23 @@
         "covid"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4405670902",
+      "doi": "10.1016/j.jcmr.2024.100055",
+      "title": "Roadblocks to ride: Unraveling barriers to access shared micromobility systems in the United States",
+      "year": 2024,
+      "journal": "Journal of Cycling and Micromobility Research",
+      "authors": [
+        "Farzana Mehzabin Tuli",
+        "Suman Kumar Mitra"
+      ],
+      "abstract": "Shared micromobility services are experiencing rapid expansion in the United States and Europe, yet certain user groups, particularly low-income and disadvantaged individuals, face significant barriers related to financial, technical, and cultural factors. This study provides a comprehensive analysis of these barriers within the US by examining bike-sharing, shared e-scooters and programs offering both services. Data was meticulously collected from diverse sources, including official bikeshare provider websites, municipal transportation sites, program reports, local news articles, and mobile applications. This comprehensive data collection methodology provides a thorough representation of 458 shared micromobility systems, encompassing all services available since the inception of shared micromobility in the US. To elucidate the specific barriers faced by users, we employed the K-Prototype clustering methodology, an unsupervised machine learning technique capable of handling datasets with both numerical and categorical features. This approach enabled us to uncover distinct patterns and groupings among shared micromobility services based on these barriers. Our analysis identified four distinct clusters: Cluster 1 faces low technical but high financial barriers; Cluster 2 excels in financial accessibility but struggles with technical barriers; Cluster 3 experiences moderate barriers with progress in reducing financial and technical challenges but still needs improvement; and Cluster 4 encounters high barriers across financial, technical, and cultural dimensions. Additionally, an in-depth analysis of these clusters is performed, considering the percentage share of bikesharing and shared e-scooter services, city sizes, regional distribution, fleet size, launching year, deployment, and operations status. The outcomes of this analysis reveal that larger cities exhibit a higher share of 'moderate barrier' (Cluster 3) systems that are currently active in the pilot phase. In contrast, shared micromobility systems from mid-size, small mid-size, and especially small cities in the US experience 'high barrier' (Cluster 4) issues the most, often with smaller fleet sizes (less than 250). Identifying these clusters is crucial for enabling targeted interventions. Rather than applying a broad, one-size-fits-all approach, policymakers and planners can develop tailored strategies that address the unique challenges of each cluster. This targeted approach ensures that interventions are more effective and equitable, ultimately improving access to shared micromobility services for all users.",
+      "url": "https://doi.org/10.1016/j.jcmr.2024.100055",
+      "added_date": "2026-10-12",
+      "summary": "Tuli et al. published \"Roadblocks to ride: Unraveling barriers to access shared micromobility systems in the United States\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4405071755",
@@ -5343,6 +5467,23 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7219295674",
+      "doi": "",
+      "title": "คณภาพการใหบรการขนสงของรถสามลอไฟฟา MUVMI และรถจกรยานยนตสาธารณะ ในเขตกรงเทพมหานคร",
+      "year": 2024,
+      "journal": "Journal of Roi Kaensarn Academi",
+      "authors": [
+        "์Noppawan Suksakunee",
+        "Suprasith Jarupathirun"
+      ],
+      "abstract": "This research aims to (1) study the quality of transportation services for MUVMI’s electric tricycles and public motorcycles in Bangkok. (2) Compare the quality of transportation services for MUVMI’s electric tricycles and public motorcycles in Bangkok. The researcher used quantitative research, survey research, and online questionnaire that has an IOC value 1.00 as the tools for data collection from 400 people. Statistics used in this analysis are percentage, mean, standard deviation, and independent sample t-Test for comparing the quality of transportation services for MUVMI’s electric tricycles and public motorcycles in Bangkok. The research results found that the transportation services for MUVMI's electric tricycles and public motorcycles in Bangkok have 5 aspects of service quality including Tangibles, Reliability, Responsiveness, Assurance and Empathy which are different at the statistically significant level of 0.05.",
+      "url": "https://so02.tci-thaijo.org/index.php/JRKSA/article/view/269916",
+      "added_date": "2026-10-12",
+      "summary": "Suksakunee et al. published \"คณภาพการใหบรการขนสงของรถสามลอไฟฟา MUVMI และรถจกรยานยนตสาธารณะ ในเขตกรงเทพมหานคร\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4387035296",
@@ -5882,6 +6023,27 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4380786628",
+      "doi": "10.1287/trsc.2021.0349",
+      "title": "Efficient Algorithms for Stochastic Ride-Pooling Assignment with Mixed Fleets",
+      "year": 2023,
+      "journal": "Transportation Science",
+      "authors": [
+        "Qi Luo",
+        "Viswanath Nagarajan",
+        "Alexander Sundt",
+        "Yafeng Yin",
+        "John Vincent",
+        "Mehrdad Shahabi"
+      ],
+      "abstract": "Ride-pooling, which accommodates multiple passenger requests in a single trip, has the potential to substantially enhance the throughput of mobility-on-demand (MoD) systems. This paper investigates MoD systems that operate mixed fleets composed of “basic supply” and “augmented supply” vehicles. When the basic supply is insufficient to satisfy demand, augmented supply vehicles can be repositioned to serve rides at a higher operational cost. We formulate the joint vehicle repositioning and ride-pooling assignment problem as a two-stage stochastic integer program, where repositioning augmented supply vehicles precedes the realization of ride requests. Sequential ride-pooling assignments aim to maximize total utility or profit on a shareability graph: a hypergraph representing the matching compatibility between available vehicles and pending requests. Two approximation algorithms for midcapacity and high-capacity vehicles are proposed in this paper; the respective approximation ratios are [Formula: see text] and [Formula: see text], where p is the maximum vehicle capacity plus one. Our study evaluates the performance of these approximation algorithms using an MoD simulator, demonstrating that these algorithms can parallelize computations and achieve solutions with small optimality gaps (typically within 1%). These efficient algorithms pave the way for various multimodal and multiclass MoD applications. History: This paper has been accepted for the Transportation Science Special Issue on Emerging Topics in Transportation Science and Logistics. Funding: This work was supported by the National Science Foundation [Grants CCF-2006778 and FW-HTF-P 2222806], the Ford Motor Company, and the Division of Civil, Mechanical, and Manufacturing Innovation [Grants CMMI-1854684, CMMI-1904575, and CMMI-1940766]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/trsc.2021.0349 .",
+      "url": "https://doi.org/10.1287/trsc.2021.0349",
+      "added_date": "2026-10-12",
+      "summary": "Luo et al. published \"Efficient Algorithms for Stochastic Ride-Pooling Assignment with Mixed Fleets\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4385063309",
       "doi": "10.48175/ijarsct-12144",
       "title": "Enhancing user Interface and Experience in an Online Car Rental Applications",
@@ -6069,6 +6231,25 @@
         "evaluation"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W4361275711",
+      "doi": "10.3390/app13074361",
+      "title": "Feature Identification, Solution Disassembly and Cost Comparison of Intelligent Driving under Different Technical Routes",
+      "year": 2023,
+      "journal": "Applied Sciences",
+      "authors": [
+        "Zongwei Liu",
+        "Wang Zhang",
+        "Hong Tan",
+        "Fuquan Zhao"
+      ],
+      "abstract": "Technical route decision making of intelligent driving has always been the focus of attention of automotive enterprises and even the industry. Firstly, this study combs the main technical routes of intelligent driving at different levels from three dimensions: development strategy, intelligence allocation and sensor combination. Then, the methodology of technical component combination is designed to disassemble different technical routes into corresponding technical component combinations. Finally, an improved evaluation model of total cost of ownership of intelligent driving is developed and the total cost of ownership of intelligent driving system under different technical routes is compared. For the development strategy, even if the function superposition can follow some research and development achievements of low-level intelligent driving, scenario-driven is still the option with lower cost and better sustainability. For intelligence allocation, collaborative intelligence can effectively reduce the cost of the vehicle compared with single-vehicle intelligence by up to 46%, but the cost reduction depends on the original on-board hardware. For sensor combination, the multi-source fusion always has the cost advantage compared with vision-only, but the advantage is more obvious in the medium-level and high-level stage of single-vehicle intelligence.",
+      "url": "https://doi.org/10.3390/app13074361",
+      "added_date": "2026-10-12",
+      "summary": "Liu et al. published \"Feature Identification, Solution Disassembly and Cost Comparison of Intelligent Driving under Different Technical Routes\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4365503870",
@@ -6428,6 +6609,22 @@
         "policy"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W7217265645",
+      "doi": "",
+      "title": "Moving Forward: Transportation Engineering in the 21st Century",
+      "year": 2023,
+      "journal": "International Journal of Research and Review Techniques",
+      "authors": [
+        "He Huanfeng"
+      ],
+      "abstract": "The 21st century has brought about unprecedented challenges and opportunities for transportation engineering. Rapid urbanization, technological advancements, climate change, and shifting societal preferences are reshaping the landscape of transportation systems globally. This abstract provides an overview of key themes and considerations that define the trajectory of transportation engineering in this dynamic era. The integration of smart technologies is at the forefront of the transportation revolution. From intelligent traffic management systems to the advent of autonomous vehicles, technology is fundamentally changing the way people and goods move. This paper explores the impact of these innovations on efficiency, safety, and sustainability, as well as the challenges and ethical considerations that accompany such transformative changes. Furthermore, sustainability is a critical lens through which transportation engineering must be viewed in the 21st century. The paper discusses the imperative to develop eco-friendly and resilient transportation infrastructure that mitigates environmental impacts. Strategies for promoting sustainable modes of transportation, such as public transit, cycling, and walking, are examined alongside the role of renewable energy sources in powering transportation networks.",
+      "url": "https://ijrrt.com/index.php/ijrrt/article/view/24",
+      "added_date": "2026-10-12",
+      "summary": "Huanfeng et al. published \"Moving Forward: Transportation Engineering in the 21st Century\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W4387220587",
@@ -7363,6 +7560,26 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W4296351248",
+      "doi": "10.3390/s22187057",
+      "title": "Exploring Use Acceptance of Electric Bicycle-Sharing Systems: An Empirical Study Based on PLS-SEM Analysis",
+      "year": 2022,
+      "journal": "Sensors",
+      "authors": [
+        "Lijun Pan",
+        "Yangkun Xia",
+        "Lining Xing",
+        "Zhihang Song",
+        "Yunbao Xu"
+      ],
+      "abstract": "The electric bicycle-sharing system (EBSS) is the fourth-generation urban shared bicycle travel system, which effectively improves the travel efficiency of urban residents and solve the problem of urban congestion. This study attempts to use an extended technology acceptance model (TAM) method to study the acceptance of EBSSs. We had introduced four potential variables, including perceived pleasure (PP), perceived environmental value (PEV), perceived cost (PC), and perceived reliability (PR), into the classic TAM to form a new EBSS-TAM. Data were obtained by using a Likert scale questionnaire from 399 citizens in China. Partial least-squares structural equation modeling (PLS-SEM) with reflective constructs was employed as the analysis method. The results showed that: (1) the EBSS-TAM can explain user behaviors regarding the use of EBSSs. PP has a positive impact on behavior attitude (BA) while having no impact on behavior intention (BI). PEV has no impact on BA and BI. PC has a negative impact on BA and has no impact on BI. PR has a positive impact on BA while having no impact on BI. Perceived ease of use (PEU) has a positive impact on PP and PEV. (2) Younger users (under 35 years old) are more likely to change from liking CBSSs to using EBSSs than older users are. Male users are more satisfied with EBSSs because of their ease of use. The users who never used CBSSs are more likely to perceive the environmental protection value of EBSSs. Some managerial implications were proposed for the EBSSs.",
+      "url": "https://doi.org/10.3390/s22187057",
+      "added_date": "2026-10-12",
+      "summary": "Pan et al. published \"Exploring Use Acceptance of Electric Bicycle-Sharing Systems: An Empirical Study Based on PLS-SEM Analysis\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W4302774336",
       "doi": "10.1155/2022/4614848",
       "title": "Exploring Users’ Preferences for Automated Minibuses and Their Service Type: A Stated Choice Experiment in the Netherlands",
@@ -7764,6 +7981,22 @@
       "url": "https://doi.org/10.1016/j.jclepro.2022.131239",
       "added_date": "2026-08-03",
       "summary": "Deveci et al. published \"Safe E-scooter operation alternative prioritization using a q-rung orthopair Fuzzy Einstein based WASPAS approach\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
+      "id": "https://openalex.org/W4310044489",
+      "doi": "10.3390/en15238903",
+      "title": "Selection of an Electric Scooter for Shared Mobility Services Using Multicriteria Decision Support Methods",
+      "year": 2022,
+      "journal": "Energies",
+      "authors": [
+        "Andrzej Kubik"
+      ],
+      "abstract": "In recent years, the electromobility market has been growing faster and faster. Electric scooters and scooter-sharing services offered for them, available in many cities around the world, have a special impact on its intensification. The constantly growing number of scooters and service operators brings many problems related to the proper functioning of services. In the literature, one can find attempts to solve the problems of scooters with references to the issues of transport, modeling and optimization, as well as legislative and social aspects. Technical issues, however, are overlooked. Among them, however, there is a problem with the appropriate selection of scooter models that can be used in scooter-sharing systems. Solving this type of problem may allow systems to be better matched to urban transport systems, increase the development of electromobility and encourage societies to transition from current means of transport (e.g., cars) to scooters. Paying attention to this research niche, the article is devoted to the selection of electric scooters for scooter sharing. This paper presents the author’s own research for the Polish market of scooter-sharing services. As part of the work, the author’s own list of factors from the point of view of which scooters can be assessed was developed; social research was conducted, considering the opinions of experts in the field of scooter sharing; and it was proposed to treat the problem of selecting scooters as a complex multicriteria decision-making problem. Moreover, the ELECTRE III method was used to solve this research problem in an innovative way. The research results indicate that when choosing a scooter, you should be guided primarily by such factors as the greatest range, equipping the vehicles with safety systems and the most powerful engine. Interestingly, the price of vehicles does not have to be the lowest possible. The article presents guidelines that support operators when upgrading or equipping systems with scooters and support individual users at the stage of deciding to buy a scooter.",
+      "url": "https://doi.org/10.3390/en15238903",
+      "added_date": "2026-10-12",
+      "summary": "Kubik et al. published \"Selection of an Electric Scooter for Shared Mobility Services Using Multicriteria Decision Support Methods\" (abstract unavailable; summary pending).",
       "tags": [],
       "needs_review": true
     },
@@ -8364,6 +8597,25 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W3135070200",
+      "doi": "10.3390/su13052897",
+      "title": "Bottom-Up Strategies for Shared Mobility and Practices in Urban Housing to Improve Sustainable Planning",
+      "year": 2021,
+      "journal": "Sustainability",
+      "authors": [
+        "Jutta Deffner",
+        "Jan-Marc Joost",
+        "Manuela Weber",
+        "Immanuel Stieß"
+      ],
+      "abstract": "Recent years have seen the development of numerous innovations in social, constructional, and transportation planning for different forms of communal housing. They illustrate how more sustainable practices in transport and land use can be achieved through the collective provision and use of space and mobility services. The question remains, however, of who needs to be involved in such bottom-up approaches and when in order to ensure their success. What changes are necessary to anchor these approaches in the wider context of urban and transport planning? This paper presents three examples of neighbourhood mobility concepts and the collaborative use of space and land. A research project accompanied the development of these concepts in a real-world laboratory design. The scientists used social-empirical methods and secondary analyses to evaluate social and ecological effects, economic viability and the process of joint development. The results show the high sustainability potential of such neighbourhood concepts: they enable residents to meet their mobility needs, while using fewer vehicles through shared use, reducing the number of journeys and changing their choice of transport. At the same time, promoting and developing community services has been shown to be inhibited by preconditions such as existing planning law. Opportunities and obstacles have been identified and translated into recommendations for action, focusing on municipal urban planning, transport planning, and the housing industry.",
+      "url": "https://doi.org/10.3390/su13052897",
+      "added_date": "2026-10-12",
+      "summary": "Deffner et al. published \"Bottom-Up Strategies for Shared Mobility and Practices in Urban Housing to Improve Sustainable Planning\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3162186335",
       "doi": "10.7922/g2707zq4",
       "title": "Bridging the Income and Digital Divide with Shared Automated Electric Vehicles",
@@ -8439,6 +8691,25 @@
         "technology"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3131698895",
+      "doi": "10.3390/wevj12010030",
+      "title": "Conceptual Design Optimization of Autonomous Electric Buses in Public Transportation",
+      "year": 2021,
+      "journal": "World Electric Vehicle Journal",
+      "authors": [
+        "Aditya Pathak",
+        "Silvan Scheuermann",
+        "Aybike Öngel",
+        "Markus Lienkamp"
+      ],
+      "abstract": "Autonomous electric buses (AEB) have widely been envisioned in future public transportation systems due to their large potential to improve service quality while reducing operational costs. The requirements and specifications for AEBs, however, remain uncertain and strongly depend on the use case. To enable the identification of the optimal vehicle specifications, this paper presents a holistic design optimization framework that explores the impacts of implementing different AEB concepts in a given set of routes/network. To develop the design optimization framework, first, a multi-objective, multi-criteria objective function is formulated by identifying the attributes of bus journeys that represent overall value to the stakeholders. Simulation models are then developed and implemented to evaluate the overall performance of the vehicle concepts. A genetic algorithm is used to find the concepts with the optimal trade-off between the overall value to the stakeholders and the total cost of ownership. A case study is presented of a single bus line in Singapore. The results show an improvement in the waiting time with the use of a smaller sized AEB with a capacity of 20 passengers. However, the costs and emissions increase due to the requirement of a larger fleet and the increase in daily distance traveled compared to a 94-passenger capacity AEB.",
+      "url": "https://doi.org/10.3390/wevj12010030",
+      "added_date": "2026-10-12",
+      "summary": "Pathak et al. published \"Conceptual Design Optimization of Autonomous Electric Buses in Public Transportation\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W3129611428",
@@ -9157,6 +9428,26 @@
       "needs_review": false
     },
     {
+      "id": "https://openalex.org/W3205265701",
+      "doi": "10.3390/su132011422",
+      "title": "Planning Suitable Transport Networks for E-Scooters to Foster Micromobility Spreading",
+      "year": 2021,
+      "journal": "Sustainability",
+      "authors": [
+        "Martina Fazio",
+        "Nadia Giuffrida",
+        "Michela Le Pira",
+        "Giuseppe Inturri",
+        "Matteo Ignaccolo"
+      ],
+      "abstract": "Micromobility has a high potential to change mobility habits towards the use of sustainable transport modes. The shared mobility paradigm encourages the development of new mobility services, such as bike and e-scooter sharing, potentially reducing the need of car ownership, enlarging the accessibility of public transport and enriching the transport options needed to exploit Mobility as a Service solutions. While bike-sharing services have been used in urban areas for many years, shared e-scooter services (and private e-scooters) have been spreading only in the last few years. Due to the novelty of this mode, few attempts have been made for proper micromobility network planning. This paper proposes a multicriteria GIS-based analysis aimed at planning priority networks for e-scooters, focusing on safety, transport and land use characteristics. The case study is Catania, a medium-sized city in southern Italy, which suffers from a lack of adequate infrastructures for such sustainable modes of transport. By applying the methodology, it is possible to prioritise the road network elements that better fit the needs of e-scooters, thus paving the way for suitable infrastructures and network planning.",
+      "url": "https://doi.org/10.3390/su132011422",
+      "added_date": "2026-10-12",
+      "summary": "Fazio et al. published \"Planning Suitable Transport Networks for E-Scooters to Foster Micromobility Spreading\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3134026309",
       "doi": "10.1007/s43681-021-00041-8",
       "title": "Public acceptance and perception of autonomous vehicles: a comprehensive review",
@@ -9553,6 +9844,22 @@
         "equity"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3216266816",
+      "doi": "10.3390/su132313153",
+      "title": "User Behavioral Intentions toward a Scooter-Sharing Service: An Empirical Study",
+      "year": 2021,
+      "journal": "Sustainability",
+      "authors": [
+        "Fei-Hui Huang"
+      ],
+      "abstract": "This paper proposes an innovative shared scooter service whereby scooter owners can authorize the rental of their scooters to others through a mobile service platform. It constitutes a public short-distance mobility service for travelers and increases the efficient utilization of each private scooter. The study examines the adoption of scooter-sharing services by travelers and adapts the unified theory of acceptance and use of technology, attitude, and user experience (UX) to investigate the factors that may influence traveler acceptance of scooter-sharing services. The data were collected from Taiwanese travelers who used the shared scooters provided in this study and completed pre- and post-use subjective ratings of the scooter-sharing service (n = 99), analyzed using a hierarchical multiple regression analysis. The results indicate that the model constructs of habit, social influence, and environmental protections may positively affect users’ behavioral intentions toward shared scooters, while performance expectancy and effort expectancy may negatively affect intention to use. Attitudes and UX had no direct effect on intention to use. In light of the findings, recommendations for improving the design of scooter-sharing services, implications for service providers, and a reference basis for the development of future shared micro-mobility services are provided.",
+      "url": "https://doi.org/10.3390/su132313153",
+      "added_date": "2026-10-12",
+      "summary": "Huang et al. published \"User Behavioral Intentions toward a Scooter-Sharing Service: An Empirical Study\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W3183961136",
@@ -10121,6 +10428,23 @@
       "needs_review": true
     },
     {
+      "id": "https://openalex.org/W3039598522",
+      "doi": "10.3390/su12135469",
+      "title": "Mobility Acceptance Factors of an Automated Shuttle Bus Last-Mile Service",
+      "year": 2020,
+      "journal": "Sustainability",
+      "authors": [
+        "Ralf-Martin Soe",
+        "Jaanus Müür"
+      ],
+      "abstract": "The main interest of this paper is to analyze the mobility acceptance factors of an automated shuttle bus last-mile service. There is limited research on the passengers’ perception of security and safety of automated mobility, whereas prior research is mostly based on surveys interested in attitudes towards self-driving vehicles, without being linked to the experience. We, on the other hand, are interested in passengers’ feeling of security and safety, after taking a ride with an automated shuttle in an open urban environment. For studying this, we conducted an automated shuttle bus last-mile pilot during a four-month period in the city of Tallinn in late 2019. The method is a case study focusing on one city with several tools for data collection applied (surveys, interviews, document analysis). The pilot, open and free for everybody, attracted approximately 4000 passengers, out of which 4% responded to the online feedback survey. For studying the operational capacity, we had a panel interview with operators of the shuttle service, in addition to analyzing daily operational log files. The results indicate that passengers’ perceived feeling of security and safety onboard was remarkably high, after taking a ride (and lower without a ride, in a different control group). The bus was operated only if operational capacity was secured, thus having significant downtime in service due to environment, technology and traffic-related factors.",
+      "url": "https://doi.org/10.3390/su12135469",
+      "added_date": "2026-10-12",
+      "summary": "Soe et al. published \"Mobility Acceptance Factors of an Automated Shuttle Bus Last-Mile Service\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
+    },
+    {
       "id": "https://openalex.org/W3089302705",
       "doi": "10.21949/1518336",
       "title": "Mobility on Demand (MOD) Sandbox Demonstration: DART First and Last Mile Solution",
@@ -10172,6 +10496,25 @@
         "equity"
       ],
       "needs_review": false
+    },
+    {
+      "id": "https://openalex.org/W3117465421",
+      "doi": "10.1080/19427867.2020.1861507",
+      "title": "Operational cost and user performance analysis of on-demand bus and taxi systems",
+      "year": 2020,
+      "journal": "Transportation Letters",
+      "authors": [
+        "Miquel Estrada",
+        "Josep Maria Salanova Grau",
+        "Marcos Medina-Tapia",
+        "Francesc Robusté"
+      ],
+      "abstract": "This paper presents the optimization problem of three different on-demand transit systems operated by vehicles of different sizes. This problem is aimed at minimizing the total cost of the system, which consists of the temporal cost experienced by users and the operating cost incurred by transit agencies. A compact set of estimations of the user performance and operating cost is provided, based on geometric probability. The optimization procedure allows the cost comparison of different semi-flexible services. Transit systems operated by cars (shared taxicabs) with flexible layouts are preferable for low demand densities (less than 92 pax/km2-h). For very high demand (higher than 200 pax/km2-h), bus systems with fixed layout and variable stop locations present the lowest total cost per passenger. In an intermediate domain, taxi and semi-flexible services compete among each other. The estimation of unit operating costs allows decision-makers to calculate the subsidies needed to make the system profitable.",
+      "url": "https://doi.org/10.1080/19427867.2020.1861507",
+      "added_date": "2026-10-12",
+      "summary": "Estrada et al. published \"Operational cost and user performance analysis of on-demand bus and taxi systems\" (abstract unavailable; summary pending).",
+      "tags": [],
+      "needs_review": true
     },
     {
       "id": "https://openalex.org/W3000436067",
